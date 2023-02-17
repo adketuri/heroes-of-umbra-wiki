@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Armor forged for wise wizards.
+|Attribute|Value|
 |-|-|
 |Purchase Price|14,400 Flips|
 |Sell Price|7,200 Flips|
@@ -15,8 +16,9 @@ Armor forged for wise wizards.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|10|
-|DEF|33|
-|MDEF|39|
-|CSPD|5|
+|Matk|10|
+|Def|33|
+|Mdef|39|
+|Cspd|5|

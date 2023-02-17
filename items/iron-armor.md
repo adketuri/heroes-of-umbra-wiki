@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Heavy protective armor. Iron up
+|Attribute|Value|
 |-|-|
 |Purchase Price|8,100 Flips|
 |Sell Price|4,050 Flips|
@@ -15,8 +16,9 @@ Heavy protective armor. Iron up
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|2|
-|DEF|26|
-|MDEF|25|
-|HP|8|
+|Atk|2|
+|Def|26|
+|Mdef|25|
+|Hp|8|

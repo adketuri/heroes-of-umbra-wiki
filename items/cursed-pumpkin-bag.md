@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Trick or Treat? Which is it?
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,000 Flips|
 |Sell Price|2,500 Flips|
@@ -15,8 +16,9 @@ Trick or Treat? Which is it?
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|10|
-|MDEF|8|
-|CRIT|5|
-|HP|4|
+|Matk|10|
+|Mdef|8|
+|Crit|5|
+|Hp|4|

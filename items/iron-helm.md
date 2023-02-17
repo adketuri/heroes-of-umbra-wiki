@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Live. Fight. Wear Iron.
+|Attribute|Value|
 |-|-|
 |Purchase Price|6,500 Flips|
 |Sell Price|3,250 Flips|
@@ -15,6 +16,7 @@ Live. Fight. Wear Iron.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|14|
-|MDEF|8|
+|Def|14|
+|Mdef|8|

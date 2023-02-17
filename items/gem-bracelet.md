@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Enemies may drop Gem Shards
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,7 +16,8 @@ Enemies may drop Gem Shards
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|3|
-|MATK|3|
-|DEF|10|
+|Atk|3|
+|Matk|3|
+|Def|10|

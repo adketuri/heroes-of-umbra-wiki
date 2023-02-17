@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A gun used by the Kappa.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,7 +16,8 @@ A gun used by the Kappa.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|20|
-|CRIT|5|
-|ASPD|-20|
+|Atk|20|
+|Crit|5|
+|Aspd|-20|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Dark and mysterious.
+|Attribute|Value|
 |-|-|
 |Purchase Price|75 Flips|
 |Sell Price|37 Flips|
@@ -15,7 +16,8 @@ Dark and mysterious.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|2|
-|MDEF|5|
-|CRIT|4|
+|Matk|2|
+|Mdef|5|
+|Crit|4|

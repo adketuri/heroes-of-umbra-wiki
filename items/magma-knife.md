@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A dagger flowing with magma.
+|Attribute|Value|
 |-|-|
 |Purchase Price|9,000 Flips|
 |Sell Price|4,500 Flips|
@@ -15,7 +16,8 @@ A dagger flowing with magma.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|40|
-|CRIT|10|
-|ASPD|28|
+|Atk|40|
+|Crit|10|
+|Aspd|28|

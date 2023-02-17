@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Doubles drop rate of items for ten minutes.
+|Attribute|Value|
 |-|-|
 |Purchase Price|500 Flips|
 |Sell Price|250 Flips|

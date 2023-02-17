@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A lightweight, slightly stylish, and sturdy vest.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,8 +16,9 @@ A lightweight, slightly stylish, and sturdy vest.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|48|
-|MDEF|41|
-|CRIT|15|
-|ASPD|6|
+|Def|48|
+|Mdef|41|
+|Crit|15|
+|Aspd|6|

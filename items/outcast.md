@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 !final_gun_desc
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|

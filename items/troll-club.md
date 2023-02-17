@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A giant wooden club.
+|Attribute|Value|
 |-|-|
 |Purchase Price|500 Flips|
 |Sell Price|250 Flips|
@@ -15,7 +16,8 @@ A giant wooden club.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|19|
-|MATK|19|
-|CRIT|10|
+|Atk|19|
+|Matk|19|
+|Crit|10|

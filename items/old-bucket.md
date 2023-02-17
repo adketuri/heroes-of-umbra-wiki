@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Wearing this is on your bucket list.
+|Attribute|Value|
 |-|-|
 |Purchase Price|290 Flips|
 |Sell Price|145 Flips|
@@ -15,5 +16,6 @@ Wearing this is on your bucket list.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|7|
+|Def|7|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Doesn't show power levels.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,6 +16,7 @@ Doesn't show power levels.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|5|
-|DEF|10|
+|Atk|5|
+|Def|10|

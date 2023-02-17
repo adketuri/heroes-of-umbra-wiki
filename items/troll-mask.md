@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Want to look like an ugly troll?
+|Attribute|Value|
 |-|-|
 |Purchase Price|4,000 Flips|
 |Sell Price|2,000 Flips|
@@ -15,6 +16,7 @@ Want to look like an ugly troll?
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|7|
-|DEF|10|
+|Matk|7|
+|Def|10|

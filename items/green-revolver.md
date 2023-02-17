@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Sometimes poisons. Don't ask how it turned green. 
+|Attribute|Value|
 |-|-|
 |Purchase Price|300 Flips|
 |Sell Price|150 Flips|
@@ -15,5 +16,6 @@ Sometimes poisons. Don't ask how it turned green.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|19|
+|Atk|19|

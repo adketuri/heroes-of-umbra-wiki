@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A bracelet shining deep red.
+|Attribute|Value|
 |-|-|
 |Purchase Price|7,000 Flips|
 |Sell Price|3,500 Flips|
@@ -15,8 +16,9 @@ A bracelet shining deep red.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|30|
-|MDEF|20|
-|CRIT|5|
-|CDMG|10|
+|Def|30|
+|Mdef|20|
+|Crit|5|
+|Cdmg|10|

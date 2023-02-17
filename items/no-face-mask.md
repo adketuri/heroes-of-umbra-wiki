@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A spooky, expressionless mask.
+|Attribute|Value|
 |-|-|
 |Purchase Price|6,000 Flips|
 |Sell Price|3,000 Flips|
@@ -15,7 +16,8 @@ A spooky, expressionless mask.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|24|
-|MATK|24|
-|DEF|24|
+|Atk|24|
+|Matk|24|
+|Def|24|

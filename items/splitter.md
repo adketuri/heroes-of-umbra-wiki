@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 An axe sharp enough to split metals.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ An axe sharp enough to split metals.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|85|
-|SPEED|-9|
-|CDMG|5|
+|Atk|85|
+|Speed|-9|
+|Cdmg|5|

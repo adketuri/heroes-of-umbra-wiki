@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Additional 30% Stab damage
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,6 +16,7 @@ Additional 30% Stab damage
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|42|
-|DEF|20|
+|Atk|42|
+|Def|20|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A helmet that lures enemies.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,7 +16,8 @@ A helmet that lures enemies.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|4|
-|DEF|23|
-|MDEF|23|
+|Atk|4|
+|Def|23|
+|Mdef|23|

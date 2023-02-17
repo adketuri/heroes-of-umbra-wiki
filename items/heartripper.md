@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A deadly claw for collecting organs.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,8 +16,9 @@ A deadly claw for collecting organs.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|60|
-|MATK|60|
-|CSPD|10|
-|CDMG|10|
+|Atk|60|
+|Matk|60|
+|Cspd|10|
+|Cdmg|10|

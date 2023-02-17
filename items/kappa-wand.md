@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Kappas love this crude casting tool.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,6 +16,7 @@ Kappas love this crude casting tool.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|15|
-|MATK|22|
+|Atk|15|
+|Matk|22|

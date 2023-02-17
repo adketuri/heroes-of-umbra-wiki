@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A crimson-colored jacket.
+|Attribute|Value|
 |-|-|
 |Purchase Price|15,500 Flips|
 |Sell Price|7,750 Flips|
@@ -15,8 +16,9 @@ A crimson-colored jacket.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|40|
-|MDEF|38|
-|CRIT|14|
-|ASPD|7|
+|Def|40|
+|Mdef|38|
+|Crit|14|
+|Aspd|7|

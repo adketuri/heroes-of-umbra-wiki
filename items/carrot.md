@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A carrot accessory. Not for eating.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1 Flips|
 |Sell Price|0 Flips|
@@ -15,8 +16,9 @@ A carrot accessory. Not for eating.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|8|
-|MATK|12|
-|DEF|6|
-|MDEF|6|
+|Atk|8|
+|Matk|12|
+|Def|6|
+|Mdef|6|

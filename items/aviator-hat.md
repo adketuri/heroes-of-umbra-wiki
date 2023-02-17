@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A hat worn by pilots and steampunks.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,7 +16,8 @@ A hat worn by pilots and steampunks.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|5|
-|MATK|5|
-|JUMP|10|
+|Atk|5|
+|Matk|5|
+|Jump|10|

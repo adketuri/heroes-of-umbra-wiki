@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Carved like a Jack-o-Lantern.
+|Attribute|Value|
 |-|-|
 |Purchase Price|3,000 Flips|
 |Sell Price|1,500 Flips|
@@ -15,8 +16,9 @@ Carved like a Jack-o-Lantern.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|7|
-|MATK|7|
-|DEF|5|
-|ASPD|5|
+|Atk|7|
+|Matk|7|
+|Def|5|
+|Aspd|5|

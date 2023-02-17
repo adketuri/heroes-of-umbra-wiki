@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A yellow cap that droops downward.
+|Attribute|Value|
 |-|-|
 |Purchase Price|7,100 Flips|
 |Sell Price|3,550 Flips|
@@ -15,7 +16,8 @@ A yellow cap that droops downward.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|7|
-|MDEF|8|
-|CRIT|10|
+|Def|7|
+|Mdef|8|
+|Crit|10|

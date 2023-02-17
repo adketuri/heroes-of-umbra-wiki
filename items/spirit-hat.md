@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A mindful spirit.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,7 +16,8 @@ A mindful spirit.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|9|
-|DEF|15|
-|MDEF|15|
+|Matk|9|
+|Def|15|
+|Mdef|15|

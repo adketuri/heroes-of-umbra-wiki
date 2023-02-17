@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Increased casting speed.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,7 +16,8 @@ Increased casting speed.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|25|
-|MATK|40|
-|CSPD|20|
+|Atk|25|
+|Matk|40|
+|Cspd|20|

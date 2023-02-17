@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Armor forged for mighty warriors.
+|Attribute|Value|
 |-|-|
 |Purchase Price|14,400 Flips|
 |Sell Price|7,200 Flips|
@@ -15,7 +16,8 @@ Armor forged for mighty warriors.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|48|
-|MDEF|38|
-|HP|12|
+|Def|48|
+|Mdef|38|
+|Hp|12|

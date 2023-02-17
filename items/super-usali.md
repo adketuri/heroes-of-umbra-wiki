@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Recovers 250 HP.
+|Attribute|Value|
 |-|-|
 |Purchase Price|120 Flips|
 |Sell Price|60 Flips|

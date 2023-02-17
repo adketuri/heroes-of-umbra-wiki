@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Armor forged for agile assassins.
+|Attribute|Value|
 |-|-|
 |Purchase Price|14,400 Flips|
 |Sell Price|7,200 Flips|
@@ -15,8 +16,9 @@ Armor forged for agile assassins.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|33|
-|MDEF|28|
-|CRIT|12|
-|ASPD|5|
+|Def|33|
+|Mdef|28|
+|Crit|12|
+|Aspd|5|

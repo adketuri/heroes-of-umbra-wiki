@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A tall, brown magician hat.
+|Attribute|Value|
 |-|-|
 |Purchase Price|300 Flips|
 |Sell Price|150 Flips|
@@ -15,7 +16,8 @@ A tall, brown magician hat.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|5|
-|DEF|3|
-|MDEF|3|
+|Matk|5|
+|Def|3|
+|Mdef|3|

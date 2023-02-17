@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A rare, dark hood.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,8 +16,9 @@ A rare, dark hood.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|14|
-|MATK|14|
-|DEF|35|
-|MDEF|35|
+|Atk|14|
+|Matk|14|
+|Def|35|
+|Mdef|35|

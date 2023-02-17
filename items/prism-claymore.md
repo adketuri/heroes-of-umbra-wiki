@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A large blade that refracts light.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,5 +16,6 @@ A large blade that refracts light.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|70|
+|Atk|70|

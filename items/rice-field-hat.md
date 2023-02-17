@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Increases Flips acquired by 30%
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,7 +16,8 @@ Increases Flips acquired by 30%
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|13|
-|MDEF|12|
-|CRIT|10|
+|Def|13|
+|Mdef|12|
+|Crit|10|

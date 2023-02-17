@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A solid silver casting staff.
+|Attribute|Value|
 |-|-|
 |Purchase Price|6,000 Flips|
 |Sell Price|3,000 Flips|
@@ -15,7 +16,8 @@ A solid silver casting staff.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|20|
-|MATK|25|
-|CSPD|20|
+|Atk|20|
+|Matk|25|
+|Cspd|20|

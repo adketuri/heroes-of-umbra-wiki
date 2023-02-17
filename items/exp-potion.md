@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Gain +50% EXP for 10 minutes.
+|Attribute|Value|
 |-|-|
 |Purchase Price|4,000 Flips|
 |Sell Price|2,000 Flips|

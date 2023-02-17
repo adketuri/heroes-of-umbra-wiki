@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A dark, powerful casting tool.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,6 +16,7 @@ A dark, powerful casting tool.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|55|
-|MATK|60|
+|Atk|55|
+|Matk|60|

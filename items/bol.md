@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 This is a big axe.
+|Attribute|Value|
 |-|-|
 |Purchase Price|3,000 Flips|
 |Sell Price|1,500 Flips|
@@ -15,6 +16,7 @@ This is a big axe.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|60|
-|SPEED|-7|
+|Atk|60|
+|Speed|-7|

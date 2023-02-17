@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A narrow iron sabre for stabbing.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,5 +16,6 @@ A narrow iron sabre for stabbing.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|20|
+|Atk|20|

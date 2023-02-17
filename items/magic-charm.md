@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A charm representing wise courage.
+|Attribute|Value|
 |-|-|
 |Purchase Price|800 Flips|
 |Sell Price|400 Flips|
@@ -15,6 +16,7 @@ A charm representing wise courage.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|5|
-|MDEF|5|
+|Matk|5|
+|Mdef|5|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Half sword, half chainsaw, 100% crazy.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,5 +16,6 @@ Half sword, half chainsaw, 100% crazy.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|50|
+|Atk|50|

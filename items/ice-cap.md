@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 An icicle-shaped conic hat.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,8 +16,9 @@ An icicle-shaped conic hat.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|10|
-|DEF|25|
-|MDEF|25|
-|CRIT|13|
+|Matk|10|
+|Def|25|
+|Mdef|25|
+|Crit|13|

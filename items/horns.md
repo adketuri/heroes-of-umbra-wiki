@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Evil demon horns.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,6 +16,7 @@ Evil demon horns.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|8|
-|DEF|12|
+|Matk|8|
+|Def|12|

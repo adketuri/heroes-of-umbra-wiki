@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 30% chance to freeze on hit.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,6 +16,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|21|
-|MATK|29|
+|Atk|21|
+|Matk|29|

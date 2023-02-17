@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 60% chance to slow on hit.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,500 Flips|
 |Sell Price|750 Flips|
@@ -15,8 +16,9 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|27|
-|MATK|27|
-|CRIT|10|
-|ASPD|10|
+|Atk|27|
+|Matk|27|
+|Crit|10|
+|Aspd|10|

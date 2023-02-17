@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Look like a lion with this mask.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,7 +16,8 @@ Look like a lion with this mask.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|8|
-|DEF|12|
-|MDEF|9|
+|Atk|8|
+|Def|12|
+|Mdef|9|

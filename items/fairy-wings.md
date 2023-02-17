@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Something beautiful and magical about these.
+|Attribute|Value|
 |-|-|
 |Purchase Price|200 Flips|
 |Sell Price|100 Flips|
@@ -15,8 +16,9 @@ Something beautiful and magical about these.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|28|
-|JUMP|8|
-|ASPD|15|
-|CSPD|15|
+|Matk|28|
+|Jump|8|
+|Aspd|15|
+|Cspd|15|

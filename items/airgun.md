@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A simple gun that fires light pellets.
+|Attribute|Value|
 |-|-|
 |Purchase Price|80 Flips|
 |Sell Price|40 Flips|
@@ -15,5 +16,6 @@ A simple gun that fires light pellets.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|10|
+|Atk|10|

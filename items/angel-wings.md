@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Prevents visits to purgatory.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1 Flips|
 |Sell Price|0 Flips|
@@ -15,6 +16,7 @@ Prevents visits to purgatory.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ASPD|15|
-|CSPD|15|
+|Aspd|15|
+|Cspd|15|

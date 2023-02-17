@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 ATK = LVL/2.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2 Flips|
 |Sell Price|1 Flips|

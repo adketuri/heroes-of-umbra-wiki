@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Recovers 25% HP.
+|Attribute|Value|
 |-|-|
 |Purchase Price|25,000 Flips|
 |Sell Price|12,500 Flips|

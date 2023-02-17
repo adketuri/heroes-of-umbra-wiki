@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Doubles drop rate of items.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,6 +16,7 @@ Doubles drop rate of items.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|13|
-|MDEF|13|
+|Def|13|
+|Mdef|13|

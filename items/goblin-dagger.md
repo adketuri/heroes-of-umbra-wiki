@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A powerful dagger wielded by Trolls.
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,000 Flips|
 |Sell Price|2,500 Flips|
@@ -15,7 +16,8 @@ A powerful dagger wielded by Trolls.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|30|
-|CRIT|8|
-|ASPD|24|
+|Atk|30|
+|Crit|8|
+|Aspd|24|

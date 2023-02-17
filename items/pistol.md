@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A standard gun.
+|Attribute|Value|
 |-|-|
 |Purchase Price|200 Flips|
 |Sell Price|100 Flips|
@@ -15,5 +16,6 @@ A standard gun.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|15|
+|Atk|15|

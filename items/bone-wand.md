@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Adored by cavemen and necromancers.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,7 +16,8 @@ Adored by cavemen and necromancers.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|15|
-|MATK|22|
-|CSPD|20|
+|Atk|15|
+|Matk|22|
+|Cspd|20|

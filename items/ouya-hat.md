@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 RIP Ouya. I loved you. :(
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,8 +16,9 @@ RIP Ouya. I loved you. :(
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|12|
-|MATK|18|
-|DEF|20|
-|ASPD|20|
+|Atk|12|
+|Matk|18|
+|Def|20|
+|Aspd|20|

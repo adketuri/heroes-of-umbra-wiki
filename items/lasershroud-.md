@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A futuristic gun gently whirring from inside.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ A futuristic gun gently whirring from inside.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|59|
-|CRIT|15|
-|ASPD|-20|
+|Atk|59|
+|Crit|15|
+|Aspd|-20|

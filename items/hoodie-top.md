@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Emirpoen's navy blue hoodie.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1 Flips|
 |Sell Price|0 Flips|
@@ -15,8 +16,9 @@ Emirpoen's navy blue hoodie.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|3|
-|MATK|3|
-|DEF|3|
-|MDEF|3|
+|Atk|3|
+|Matk|3|
+|Def|3|
+|Mdef|3|

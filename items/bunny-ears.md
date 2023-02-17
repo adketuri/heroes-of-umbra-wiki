@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Look like a rabbit with this.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,7 +16,8 @@ Look like a rabbit with this.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|9|
-|DEF|10|
-|MDEF|12|
+|Matk|9|
+|Def|10|
+|Mdef|12|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A hat and monocle combo.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,8 +16,9 @@ A hat and monocle combo.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|5|
-|DEF|18|
-|MDEF|18|
-|CSPD|10|
+|Matk|5|
+|Def|18|
+|Mdef|18|
+|Cspd|10|

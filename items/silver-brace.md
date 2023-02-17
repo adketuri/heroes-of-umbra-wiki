@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A sturdy defensive accessory.
+|Attribute|Value|
 |-|-|
 |Purchase Price|4,000 Flips|
 |Sell Price|2,000 Flips|
@@ -15,7 +16,8 @@ A sturdy defensive accessory.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|5|
-|MATK|5|
-|DEF|25|
+|Atk|5|
+|Matk|5|
+|Def|25|

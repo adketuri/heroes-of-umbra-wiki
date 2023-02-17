@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 An old, accursed charm.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,7 +16,8 @@ An old, accursed charm.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|16|
-|MDEF|20|
-|CRIT|7|
+|Atk|16|
+|Mdef|20|
+|Crit|7|

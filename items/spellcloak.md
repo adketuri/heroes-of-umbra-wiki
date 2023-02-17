@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Powerful navy-colored casting armor.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,200 Flips|
 |Sell Price|600 Flips|
@@ -15,7 +16,8 @@ Powerful navy-colored casting armor.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|4|
-|DEF|8|
-|MDEF|10|
+|Matk|4|
+|Def|8|
+|Mdef|10|

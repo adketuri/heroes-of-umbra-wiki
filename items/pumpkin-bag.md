@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 You chose Treat! Happy Halloween!
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,000 Flips|
 |Sell Price|2,500 Flips|
@@ -15,8 +16,9 @@ You chose Treat! Happy Halloween!
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|60|
-|MDEF|45|
-|CRIT|10|
-|HP|12|
+|Matk|60|
+|Mdef|45|
+|Crit|10|
+|Hp|12|

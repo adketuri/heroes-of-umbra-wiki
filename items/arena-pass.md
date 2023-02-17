@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Teleport to the PVP arena
+|Attribute|Value|
 |-|-|
 |Purchase Price|30 Flips|
 |Sell Price|15 Flips|

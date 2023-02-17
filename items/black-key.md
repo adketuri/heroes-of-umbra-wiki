@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Used to advance through the Onyx Keep.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1 Flips|
 |Sell Price|0 Flips|

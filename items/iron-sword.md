@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A heavy, iron sword.
+|Attribute|Value|
 |-|-|
 |Purchase Price|6,000 Flips|
 |Sell Price|3,000 Flips|
@@ -15,5 +16,6 @@ A heavy, iron sword.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|27|
+|Atk|27|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A small but effective pistol.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,6 +16,7 @@ A small but effective pistol.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|24|
-|ASPD|5|
+|Atk|24|
+|Aspd|5|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A cute robot yeti accessory.
+|Attribute|Value|
 |-|-|
 |Purchase Price|9,000 Flips|
 |Sell Price|4,500 Flips|
@@ -15,7 +16,8 @@ A cute robot yeti accessory.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|19|
-|MATK|19|
-|DEF|20|
+|Atk|19|
+|Matk|19|
+|Def|20|

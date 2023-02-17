@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Armor adorned with snail shells.
+|Attribute|Value|
 |-|-|
 |Purchase Price|7,800 Flips|
 |Sell Price|3,900 Flips|
@@ -15,9 +16,10 @@ Armor adorned with snail shells.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|2|
-|DEF|50|
-|MDEF|45|
-|CDMG|5|
-|HP|12|
+|Atk|2|
+|Def|50|
+|Mdef|45|
+|Cdmg|5|
+|Hp|12|

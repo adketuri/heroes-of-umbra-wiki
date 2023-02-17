@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A simple wand made from red oak.
+|Attribute|Value|
 |-|-|
 |Purchase Price|800 Flips|
 |Sell Price|400 Flips|
@@ -15,6 +16,7 @@ A simple wand made from red oak.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|10|
-|MATK|18|
+|Atk|10|
+|Matk|18|

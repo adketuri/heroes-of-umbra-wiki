@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A short knife forged with ice.
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,900 Flips|
 |Sell Price|2,950 Flips|
@@ -15,7 +16,8 @@ A short knife forged with ice.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|24|
-|CRIT|6|
-|ASPD|20|
+|Atk|24|
+|Crit|6|
+|Aspd|20|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 All bronze and no brains.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,500 Flips|
 |Sell Price|750 Flips|
@@ -15,5 +16,6 @@ All bronze and no brains.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|11|
+|Def|11|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Compounds with Other. 60% success rate.
+|Attribute|Value|
 |-|-|
 |Purchase Price|30 Flips|
 |Sell Price|15 Flips|

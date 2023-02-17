@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A bracelet glistening white.
+|Attribute|Value|
 |-|-|
 |Purchase Price|7,000 Flips|
 |Sell Price|3,500 Flips|
@@ -15,8 +16,9 @@ A bracelet glistening white.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|30|
-|MDEF|30|
-|ASPD|10|
-|CSPD|10|
+|Def|30|
+|Mdef|30|
+|Aspd|10|
+|Cspd|10|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 An old charm worn by a great mage.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,800 Flips|
 |Sell Price|1,400 Flips|
@@ -15,7 +16,8 @@ An old charm worn by a great mage.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|5|
-|DEF|10|
-|CSPD|12|
+|Matk|5|
+|Def|10|
+|Cspd|12|

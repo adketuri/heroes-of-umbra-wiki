@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Look fashionable and trendy.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,8 +16,9 @@ Look fashionable and trendy.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|6|
-|MATK|6|
-|DEF|11|
-|MDEF|9|
+|Atk|6|
+|Matk|6|
+|Def|11|
+|Mdef|9|

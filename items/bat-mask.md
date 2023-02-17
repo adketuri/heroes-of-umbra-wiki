@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A strange mask full of dark energy.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,6 +16,7 @@ A strange mask full of dark energy.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|5|
-|DEF|12|
+|Atk|5|
+|Def|12|

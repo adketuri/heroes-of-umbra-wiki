@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Give enemies the axe. No stab bonus.
+|Attribute|Value|
 |-|-|
 |Purchase Price|250 Flips|
 |Sell Price|125 Flips|
@@ -15,6 +16,7 @@ Give enemies the axe. No stab bonus.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|13|
-|ASPD|-20|
+|Atk|13|
+|Aspd|-20|

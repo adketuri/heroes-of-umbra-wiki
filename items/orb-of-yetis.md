@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 An orb discovered high atop the mountains.
+|Attribute|Value|
 |-|-|
 |Purchase Price|0 Flips|
 |Sell Price|0 Flips|
@@ -15,6 +16,7 @@ An orb discovered high atop the mountains.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MDEF|1|
-|CRIT|1|
+|Mdef|1|
+|Crit|1|

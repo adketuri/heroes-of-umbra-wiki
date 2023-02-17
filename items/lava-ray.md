@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A futuristic gun slightly warm to the touch.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ A futuristic gun slightly warm to the touch.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|51|
-|CRIT|5|
-|ASPD|40|
+|Atk|51|
+|Crit|5|
+|Aspd|40|

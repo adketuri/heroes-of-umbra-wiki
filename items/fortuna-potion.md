@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A potion blessed by the Gods.
+|Attribute|Value|
 |-|-|
 |Purchase Price|50,000 Flips|
 |Sell Price|25,000 Flips|

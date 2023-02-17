@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A large silk coat which aids in casting.
+|Attribute|Value|
 |-|-|
 |Purchase Price|120 Flips|
 |Sell Price|60 Flips|
@@ -15,7 +16,8 @@ A large silk coat which aids in casting.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|2|
-|DEF|4|
-|MDEF|5|
+|Matk|2|
+|Def|4|
+|Mdef|5|

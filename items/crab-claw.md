@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 This claw may be used as an accessory.
+|Attribute|Value|
 |-|-|
 |Purchase Price|200 Flips|
 |Sell Price|100 Flips|
@@ -15,6 +16,7 @@ This claw may be used as an accessory.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|3|
-|DEF|3|
+|Atk|3|
+|Def|3|

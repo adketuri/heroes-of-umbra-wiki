@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 It's your first weapon.
+|Attribute|Value|
 |-|-|
 |Purchase Price|100 Flips|
 |Sell Price|50 Flips|
@@ -15,6 +16,7 @@ It's your first weapon.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|9|
-|MATK|5|
+|Atk|9|
+|Matk|5|

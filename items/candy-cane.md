@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Deliciously deadly peppermint candy.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,7 +16,8 @@ Deliciously deadly peppermint candy.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|29|
-|MATK|27|
-|CRIT|10|
+|Atk|29|
+|Matk|27|
+|Crit|10|

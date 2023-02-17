@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 COME ON STEP IT UP.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,9 +16,10 @@ COME ON STEP IT UP.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|20|
-|MATK|20|
-|DEF|25|
-|MDEF|25|
-|SPEED|80|
+|Atk|20|
+|Matk|20|
+|Def|25|
+|Mdef|25|
+|Speed|80|

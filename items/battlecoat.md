@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A dark cloak with a large collar.
+|Attribute|Value|
 |-|-|
 |Purchase Price|3,500 Flips|
 |Sell Price|1,750 Flips|
@@ -15,7 +16,8 @@ A dark cloak with a large collar.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|3|
-|DEF|8|
-|CRIT|10|
+|Atk|3|
+|Def|8|
+|Crit|10|

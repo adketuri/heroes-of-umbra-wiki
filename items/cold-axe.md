@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A large, cold axe. No stab bonus.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,7 +16,8 @@ A large, cold axe. No stab bonus.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|50|
-|CRIT|12|
-|ASPD|-7|
+|Atk|50|
+|Crit|12|
+|Aspd|-7|

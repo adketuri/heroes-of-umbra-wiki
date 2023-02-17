@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 An orb found within the caverns.
+|Attribute|Value|
 |-|-|
 |Purchase Price|0 Flips|
 |Sell Price|0 Flips|
@@ -15,6 +16,7 @@ An orb found within the caverns.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|1|
-|MDEF|1|
+|Def|1|
+|Mdef|1|

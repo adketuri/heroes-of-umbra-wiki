@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 It's burning, but put it on your head.
+|Attribute|Value|
 |-|-|
 |Purchase Price|3,000 Flips|
 |Sell Price|1,500 Flips|
@@ -15,8 +16,9 @@ It's burning, but put it on your head.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|13|
-|MATK|13|
-|DEF|20|
-|MDEF|20|
+|Atk|13|
+|Matk|13|
+|Def|20|
+|Mdef|20|

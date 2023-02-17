@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Reflective armor; sturdier than you'd think.
+|Attribute|Value|
 |-|-|
 |Purchase Price|14,000 Flips|
 |Sell Price|7,000 Flips|
@@ -15,7 +16,8 @@ Reflective armor; sturdier than you'd think.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|72|
-|MDEF|68|
-|HP|18|
+|Def|72|
+|Mdef|68|
+|Hp|18|

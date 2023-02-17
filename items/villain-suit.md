@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Become the number one villain.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,7 +16,8 @@ Become the number one villain.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|13|
-|DEF|44|
-|MDEF|60|
+|Matk|13|
+|Def|44|
+|Mdef|60|

@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Very classy and fashionable
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,7 +16,8 @@ Very classy and fashionable
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|5|
-|DEF|5|
-|CSPD|10|
+|Matk|5|
+|Def|5|
+|Cspd|10|

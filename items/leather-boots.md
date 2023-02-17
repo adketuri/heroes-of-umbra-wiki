@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Lightweight jumping boots.
+|Attribute|Value|
 |-|-|
 |Purchase Price|200 Flips|
 |Sell Price|100 Flips|
@@ -15,6 +16,7 @@ Lightweight jumping boots.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|JUMP|5|
-|CRIT|3|
+|Jump|5|
+|Crit|3|

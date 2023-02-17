@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 It's still alive. Wear it
+|Attribute|Value|
 |-|-|
 |Purchase Price|300 Flips|
 |Sell Price|150 Flips|
@@ -15,7 +16,8 @@ It's still alive. Wear it
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|3|
-|MATK|3|
-|DEF|3|
+|Atk|3|
+|Matk|3|
+|Def|3|

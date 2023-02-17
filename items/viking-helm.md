@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Worn by ancient warriors of the North.
+|Attribute|Value|
 |-|-|
 |Purchase Price|4,000 Flips|
 |Sell Price|2,000 Flips|
@@ -15,7 +16,8 @@ Worn by ancient warriors of the North.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|14|
-|DEF|25|
-|CRIT|7|
+|Atk|14|
+|Def|25|
+|Crit|7|

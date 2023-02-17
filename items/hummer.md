@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A gun used by ancient soldiers.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ A gun used by ancient soldiers.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|68|
-|CRIT|15|
-|CDMG|10|
+|Atk|68|
+|Crit|15|
+|Cdmg|10|

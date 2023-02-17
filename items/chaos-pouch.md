@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 null
+|Attribute|Value|
 |-|-|
 |Purchase Price|9,112 Flips|
 |Sell Price|4,556 Flips|

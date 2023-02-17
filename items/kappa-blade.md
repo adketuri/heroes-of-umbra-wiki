@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A blade fashioned from cheap metal.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,5 +16,6 @@ A blade fashioned from cheap metal.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|22|
+|Atk|22|

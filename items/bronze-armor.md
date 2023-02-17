@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Heavy armor from the Bronze Age.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,300 Flips|
 |Sell Price|1,150 Flips|
@@ -15,7 +16,8 @@ Heavy armor from the Bronze Age.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|14|
-|MDEF|10|
-|HP|6|
+|Def|14|
+|Mdef|10|
+|Hp|6|

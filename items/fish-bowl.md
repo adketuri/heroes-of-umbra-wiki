@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Balance it on your head.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,6 +16,7 @@ Balance it on your head.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|10|
-|MDEF|10|
+|Def|10|
+|Mdef|10|

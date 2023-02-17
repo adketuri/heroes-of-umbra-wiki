@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Looks strangely familiar.
+|Attribute|Value|
 |-|-|
 |Purchase Price|150 Flips|
 |Sell Price|75 Flips|
@@ -15,7 +16,8 @@ Looks strangely familiar.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|2|
-|DEF|4|
-|CRIT|5|
+|Atk|2|
+|Def|4|
+|Crit|5|

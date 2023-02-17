@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Mystical sword that can summon light.
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,500 Flips|
 |Sell Price|2,750 Flips|
@@ -15,7 +16,8 @@ Mystical sword that can summon light.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|48|
-|MATK|30|
-|MDEF|20|
+|Atk|48|
+|Matk|30|
+|Mdef|20|

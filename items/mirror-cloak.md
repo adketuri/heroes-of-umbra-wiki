@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A spellcaster's cloak adorned with reflective beads.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ A spellcaster's cloak adorned with reflective beads.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|15|
-|DEF|58|
-|MDEF|76|
+|Matk|15|
+|Def|58|
+|Mdef|76|

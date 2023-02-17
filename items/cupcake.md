@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 How yummy! A real sparkling treat.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,000 Flips|
 |Sell Price|500 Flips|
@@ -15,7 +16,8 @@ How yummy! A real sparkling treat.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|6|
-|DEF|6|
-|MDEF|6|
+|Matk|6|
+|Def|6|
+|Mdef|6|

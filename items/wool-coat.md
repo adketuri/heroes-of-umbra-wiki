@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A heavy, warm cloak for casters.
+|Attribute|Value|
 |-|-|
 |Purchase Price|7,200 Flips|
 |Sell Price|3,600 Flips|
@@ -15,7 +16,8 @@ A heavy, warm cloak for casters.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|6|
-|DEF|16|
-|MDEF|16|
+|Matk|6|
+|Def|16|
+|Mdef|16|

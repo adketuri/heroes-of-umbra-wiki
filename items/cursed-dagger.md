@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Defeat enemies to break the curse.
+|Attribute|Value|
 |-|-|
 |Purchase Price|50 Flips|
 |Sell Price|25 Flips|
@@ -15,7 +16,8 @@ Defeat enemies to break the curse.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|17|
-|CRIT|6|
-|ASPD|20|
+|Atk|17|
+|Crit|6|
+|Aspd|20|

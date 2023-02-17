@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A twisted knife that refracts light.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ A twisted knife that refracts light.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|45|
-|CRIT|11|
-|ASPD|28|
+|Atk|45|
+|Crit|11|
+|Aspd|28|

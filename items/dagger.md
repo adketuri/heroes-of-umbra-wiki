@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A quick dagger for dirty fighting.
+|Attribute|Value|
 |-|-|
 |Purchase Price|800 Flips|
 |Sell Price|400 Flips|
@@ -15,7 +16,8 @@ A quick dagger for dirty fighting.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|16|
-|CRIT|5|
-|ASPD|20|
+|Atk|16|
+|Crit|5|
+|Aspd|20|

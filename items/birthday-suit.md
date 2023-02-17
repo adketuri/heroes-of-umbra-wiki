@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Go crazy and HIDE NOTHING BABY
+|Attribute|Value|
 |-|-|
 |Purchase Price|1 Flips|
 |Sell Price|0 Flips|
@@ -15,8 +16,9 @@ Go crazy and HIDE NOTHING BABY
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|30|
-|MATK|30|
-|DEF|30|
-|MDEF|30|
+|Atk|30|
+|Matk|30|
+|Def|30|
+|Mdef|30|

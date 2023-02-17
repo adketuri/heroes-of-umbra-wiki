@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Armor crafted by mighty Yetis.
+|Attribute|Value|
 |-|-|
 |Purchase Price|8,400 Flips|
 |Sell Price|4,200 Flips|
@@ -15,8 +16,9 @@ Armor crafted by mighty Yetis.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|33|
-|MDEF|18|
-|CRIT|8|
-|HP|5|
+|Def|33|
+|Mdef|18|
+|Crit|8|
+|Hp|5|

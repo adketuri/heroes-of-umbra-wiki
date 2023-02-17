@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A ghostly white casting robe.
+|Attribute|Value|
 |-|-|
 |Purchase Price|2,000 Flips|
 |Sell Price|1,000 Flips|
@@ -15,7 +16,8 @@ A ghostly white casting robe.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|7|
-|DEF|18|
-|MDEF|18|
+|Matk|7|
+|Def|18|
+|Mdef|18|

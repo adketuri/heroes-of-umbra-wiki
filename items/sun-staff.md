@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Possesses radiant magical power.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,6 +16,7 @@ Possesses radiant magical power.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|25|
-|MATK|47|
+|Atk|25|
+|Matk|47|

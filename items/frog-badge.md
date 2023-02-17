@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A wearable badge with a frog print.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1 Flips|
 |Sell Price|0 Flips|
@@ -15,6 +16,7 @@ A wearable badge with a frog print.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|10|
-|MATK|10|
+|Atk|10|
+|Matk|10|

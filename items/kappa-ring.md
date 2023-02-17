@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A treasured ring of the Kappas.
+|Attribute|Value|
 |-|-|
 |Purchase Price|200 Flips|
 |Sell Price|100 Flips|
@@ -15,7 +16,8 @@ A treasured ring of the Kappas.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|5|
-|MDEF|5|
-|CRIT|3|
+|Def|5|
+|Mdef|5|
+|Crit|3|

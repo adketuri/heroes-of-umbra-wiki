@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A tall, pointed cap worn by witches.
+|Attribute|Value|
 |-|-|
 |Purchase Price|3,000 Flips|
 |Sell Price|1,500 Flips|
@@ -15,8 +16,9 @@ A tall, pointed cap worn by witches.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|MATK|14|
-|DEF|10|
-|MDEF|20|
-|ASPD|5|
+|Matk|14|
+|Def|10|
+|Mdef|20|
+|Aspd|5|

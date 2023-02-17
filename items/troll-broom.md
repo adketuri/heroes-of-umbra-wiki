@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A powerful broomstick used by Trolls.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,6 +16,7 @@ A powerful broomstick used by Trolls.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|25|
-|MATK|33|
+|Atk|25|
+|Matk|33|

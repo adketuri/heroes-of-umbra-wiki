@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Feats by Dr. Gray.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10,000 Flips|
 |Sell Price|5,000 Flips|
@@ -15,6 +16,7 @@ Feats by Dr. Gray.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|10|
-|DEF|12|
+|Atk|10|
+|Def|12|

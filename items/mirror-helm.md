@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A helmet that reflects light.
+|Attribute|Value|
 |-|-|
 |Purchase Price|12,000 Flips|
 |Sell Price|6,000 Flips|
@@ -15,7 +16,8 @@ A helmet that reflects light.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|4|
-|DEF|57|
-|MDEF|46|
+|Atk|4|
+|Def|57|
+|Mdef|46|

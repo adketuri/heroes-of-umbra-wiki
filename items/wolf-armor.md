@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Light armor strewn with wolf pelt.
+|Attribute|Value|
 |-|-|
 |Purchase Price|1,300 Flips|
 |Sell Price|650 Flips|
@@ -15,8 +16,9 @@ Light armor strewn with wolf pelt.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|DEF|16|
-|MDEF|12|
-|ASPD|5|
-|HP|3|
+|Def|16|
+|Mdef|12|
+|Aspd|5|
+|Hp|3|

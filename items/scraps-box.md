@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Contains some scraps. Open it!
+|Attribute|Value|
 |-|-|
 |Purchase Price|50 Flips|
 |Sell Price|25 Flips|

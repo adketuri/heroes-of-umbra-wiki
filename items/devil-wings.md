@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A very rare set of dark wings.
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,000 Flips|
 |Sell Price|2,500 Flips|
@@ -15,7 +16,8 @@ A very rare set of dark wings.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|7|
-|MATK|7|
-|JUMP|3|
+|Atk|7|
+|Matk|7|
+|Jump|3|

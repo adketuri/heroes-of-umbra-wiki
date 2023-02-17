@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 For entry-level casters.
+|Attribute|Value|
 |-|-|
 |Purchase Price|100 Flips|
 |Sell Price|50 Flips|
@@ -15,6 +16,7 @@ For entry-level casters.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|5|
-|MATK|10|
+|Atk|5|
+|Matk|10|

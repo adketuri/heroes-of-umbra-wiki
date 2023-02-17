@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A heavy gun that fires rapidly.
+|Attribute|Value|
 |-|-|
 |Purchase Price|5,800 Flips|
 |Sell Price|2,900 Flips|
@@ -15,7 +16,8 @@ A heavy gun that fires rapidly.
 |Stackable|No|
 
 # Stats
+|Stat|Value|
 |-|-|
-|ATK|25|
-|CRIT|-10|
-|ASPD|65|
+|Atk|25|
+|Crit|-10|
+|Aspd|65|

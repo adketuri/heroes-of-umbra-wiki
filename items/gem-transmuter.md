@@ -8,6 +8,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Boosts gem drop rate for 5 minutes.
+|Attribute|Value|
 |-|-|
 |Purchase Price|10 Flips|
 |Sell Price|5 Flips|
