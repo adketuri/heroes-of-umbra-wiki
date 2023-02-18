@@ -1,7 +1,7 @@
 ---
 title: Wolf Cloak
 published: true
-date: 2023-02-16T23:06:51.000Z
+date: 2023-02-17T23:35:01.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -10,6 +10,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 A warm cloak made of wolf pelt.
 |Attribute|Value|
 |-|-|
+|ID|1451|
 |Purchase Price|7,800 Flips|
 |Sell Price|3,900 Flips|
 |Type|Armor|

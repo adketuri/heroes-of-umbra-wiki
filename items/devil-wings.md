@@ -1,7 +1,7 @@
 ---
 title: Devil Wings
 published: true
-date: 2023-02-16T23:06:51.000Z
+date: 2023-02-17T23:35:01.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -10,6 +10,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 A very rare set of dark wings.
 |Attribute|Value|
 |-|-|
+|ID|85|
 |Purchase Price|5,000 Flips|
 |Sell Price|2,500 Flips|
 |Type|Other|

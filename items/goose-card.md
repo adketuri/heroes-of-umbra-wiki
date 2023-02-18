@@ -1,15 +1,17 @@
 ---
 title: Goose Card
 published: true
-date: 2023-02-16T23:06:51.000Z
+date: 2023-02-17T23:35:01.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-null
+A rare card from a monster.
+
 |Attribute|Value|
 |-|-|
+|ID|818|
 |Purchase Price|9,000 Flips|
 |Sell Price|4,500 Flips|
 |Type|N/A|

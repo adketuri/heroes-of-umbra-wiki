@@ -1,7 +1,7 @@
 ---
 title: Quick Charm
 published: true
-date: 2023-02-16T23:06:51.000Z
+date: 2023-02-17T23:35:01.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -10,6 +10,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 An old charm worn by a great mage.
 |Attribute|Value|
 |-|-|
+|ID|90|
 |Purchase Price|2,800 Flips|
 |Sell Price|1,400 Flips|
 |Type|Other|
