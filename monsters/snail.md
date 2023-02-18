@@ -1,8 +1,8 @@
 ---
 title: Snail
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -26,8 +26,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 3100 Exp
  * 28 Flips
- * [Monster Meal](items/monster-meal.md) (3%)
- * [Snail Shell](items/snail-shell.md) (Quest, 20%)
- * [Bol](items/bol.md) (1%)
- * [Shell Armor](items/shell-armor.md) (1%)
- * [Snail Card](items/snail-card.md) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Snail Shell](/items/snail-shell.md) (Quest, 20%)
+ * [Bol](/items/bol.md) (1%)
+ * [Shell Armor](/items/shell-armor.md) (1%)
+ * [Snail Card](/items/snail-card.md) (0.1%)

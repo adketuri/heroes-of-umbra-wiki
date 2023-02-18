@@ -1,8 +1,8 @@
 ---
 title: Robo Beholder
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -25,8 +25,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 6000 Exp
  * 93 Flips
- * [Hanatii](items/hanatii.md) (3%)
- * [Beholder Essence](items/beholder-essence.md) (Quest, 20%)
- * [Silver Brace](items/silver-brace.md) (1%)
- * [Chaos Pouch](items/chaos-pouch.md) (1%)
- * [Robo Beholder Card](items/robo-beholder-card.md) (0.1%)
+ * [Hanatii](/items/hanatii.md) (3%)
+ * [Beholder Essence](/items/beholder-essence.md) (Quest, 20%)
+ * [Silver Brace](/items/silver-brace.md) (1%)
+ * [Chaos Pouch](/items/chaos-pouch.md) (1%)
+ * [Robo Beholder Card](/items/robo-beholder-card.md) (0.1%)

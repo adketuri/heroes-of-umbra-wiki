@@ -1,8 +1,8 @@
 ---
 title: Dark Beholder Card
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -19,4 +19,4 @@ A rare card from a monster.
 
 
 # Dropped From
- * [Dark Beholder](monsters/dark-beholder.md) (0.1%)
+ * [Dark Beholder](/monsters/dark-beholder.md) (0.1%)

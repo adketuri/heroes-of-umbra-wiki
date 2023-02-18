@@ -1,8 +1,8 @@
 ---
 title: Christmas Yeti
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 1470 Exp
  * 52 Flips
- * [Hot Tea](items/hot-tea.md) (3%)
- * [Candy Cane](items/candy-cane.md) (1%)
- * [Large Purse](items/large-purse.md) (1%)
- * [Christmas Yeti Card](items/christmas-yeti-card.md) (0.1%)
+ * [Hot Tea](/items/hot-tea.md) (3%)
+ * [Candy Cane](/items/candy-cane.md) (1%)
+ * [Large Purse](/items/large-purse.md) (1%)
+ * [Christmas Yeti Card](/items/christmas-yeti-card.md) (0.1%)

@@ -1,8 +1,8 @@
 ---
 title: Cloth Piece
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -19,4 +19,4 @@ A piece of a witch's hat. Happy Halloween
 
 
 # Dropped From
- * [Goblin Witch](monsters/goblin-witch.md) (Quest, 20%)
+ * [Goblin Witch](/monsters/goblin-witch.md) (Quest, 20%)

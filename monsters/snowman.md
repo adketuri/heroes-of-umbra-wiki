@@ -1,8 +1,8 @@
 ---
 title: Snowman
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -26,7 +26,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 1560 Exp
  * 40 Flips
- * [Hot Tea](items/hot-tea.md) (3%)
- * [Carrot](items/carrot.md) (1%)
- * [Apex MG](items/apex-mg.md) (1%)
- * [Snowman Card](items/snowman-card.md) (0.1%)
+ * [Hot Tea](/items/hot-tea.md) (3%)
+ * [Carrot](/items/carrot.md) (1%)
+ * [Apex MG](/items/apex-mg.md) (1%)
+ * [Snowman Card](/items/snowman-card.md) (0.1%)

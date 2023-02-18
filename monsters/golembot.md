@@ -1,8 +1,8 @@
 ---
 title: Golembot
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 12000 Exp
  * 120 Flips
- * [Monster Meal](items/monster-meal.md) (3%)
- * [Bionic Arm](items/bionic-arm.md) (1%)
- * [Golembot Card](items/golembot-card.md) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Bionic Arm](/items/bionic-arm.md) (1%)
+ * [Golembot Card](/items/golembot-card.md) (0.1%)

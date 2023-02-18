@@ -1,8 +1,8 @@
 ---
 title: Red Scuttlebot
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 9800 Exp
  * 108 Flips
- * [Exp Potion](items/exp-potion.md) (3%)
- * [Mechanic Bag](items/mechanic-bag.md) (1%)
- * [Red Scuttlebot Card](items/red-scuttlebot-card.md) (0.1%)
+ * [Exp Potion](/items/exp-potion.md) (3%)
+ * [Mechanic Bag](/items/mechanic-bag.md) (1%)
+ * [Red Scuttlebot Card](/items/red-scuttlebot-card.md) (0.1%)

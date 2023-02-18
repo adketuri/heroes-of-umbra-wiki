@@ -1,8 +1,8 @@
 ---
 title: Hot Tea
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -19,6 +19,6 @@ Recover HP/prevent Freeze for 10 minutes.
 
 
 # Dropped From
- * [Christmas Yeti](monsters/christmas-yeti.md) (3%)
- * [Snowman](monsters/snowman.md) (3%)
- * [Worker Yeti](monsters/worker-yeti.md) (3%)
+ * [Christmas Yeti](/monsters/christmas-yeti.md) (3%)
+ * [Snowman](/monsters/snowman.md) (3%)
+ * [Worker Yeti](/monsters/worker-yeti.md) (3%)

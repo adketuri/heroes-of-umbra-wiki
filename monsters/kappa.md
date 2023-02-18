@@ -1,8 +1,8 @@
 ---
 title: Kappa
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 55 Exp
  * 36 Flips
- * [Monster Food](items/monster-food.md) (3%)
- * [Power Charm](items/power-charm.md) (1%)
- * [Kappa Card](items/kappa-card.md) (0.1%)
+ * [Monster Food](/items/monster-food.md) (3%)
+ * [Power Charm](/items/power-charm.md) (1%)
+ * [Kappa Card](/items/kappa-card.md) (0.1%)

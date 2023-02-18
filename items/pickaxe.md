@@ -1,8 +1,8 @@
 ---
 title: Pickaxe
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,6 +24,6 @@ A trusty pickaxe. No stab bonus.
 |Matk|30|
 
 # Dropped From
- * [Worker Yeti](monsters/worker-yeti.md) (1%)
- * [Pilot Yeti](monsters/pilot-yeti.md) (1%)
- * [Pilot Snowman](monsters/pilot-snowman.md) (1%)
+ * [Worker Yeti](/monsters/worker-yeti.md) (1%)
+ * [Pilot Yeti](/monsters/pilot-yeti.md) (1%)
+ * [Pilot Snowman](/monsters/pilot-snowman.md) (1%)

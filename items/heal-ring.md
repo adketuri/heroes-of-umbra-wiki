@@ -1,8 +1,8 @@
 ---
 title: Heal Ring
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,5 +24,5 @@ Wear it to increase your recovery.
 |Mdef|15|
 
 # Dropped From
- * [Blue Slime](monsters/blue-slime.md) (1%)
- * [Camo. Yeti](monsters/camo-yeti.md) (1%)
+ * [Blue Slime](/monsters/blue-slime.md) (1%)
+ * [Camo. Yeti](/monsters/camo-yeti.md) (1%)

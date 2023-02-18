@@ -1,8 +1,8 @@
 ---
 title: Atk Gem (helm)
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -23,5 +23,5 @@ Compounds with Helm. 30% success rate.
 |Atk|6|
 
 # Dropped From
- * [Robo-Spider](monsters/robo-spider.md) (1%)
- * [Brobot Spider](monsters/brobot-spider.md) (1%)
+ * [Robo-Spider](/monsters/robo-spider.md) (1%)
+ * [Brobot Spider](/monsters/brobot-spider.md) (1%)

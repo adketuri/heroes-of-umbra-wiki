@@ -1,8 +1,8 @@
 ---
 title: Goblin
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 16 Exp
  * 28 Flips
- * [Usali](items/usali.md) (3%)
- * [Pumpkin](items/pumpkin.md) (Quest, 20%)
- * [Cursed Dagger](items/cursed-dagger.md) (1%)
- * [Goblin Card](items/goblin-card.md) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [Pumpkin](/items/pumpkin.md) (Quest, 20%)
+ * [Cursed Dagger](/items/cursed-dagger.md) (1%)
+ * [Goblin Card](/items/goblin-card.md) (0.1%)

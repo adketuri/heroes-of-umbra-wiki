@@ -1,8 +1,8 @@
 ---
 title: Burning Slime
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 5000 Exp
  * 86 Flips
- * [Big Gem Box](items/big-gem-box.md) (3%)
- * [Burnt Slime](items/burnt-slime.md) (1%)
- * [Chaos Pouch](items/chaos-pouch.md) (1%)
- * [Burning Slime Card](items/burning-slime-card.md) (0.1%)
+ * [Big Gem Box](/items/big-gem-box.md) (3%)
+ * [Burnt Slime](/items/burnt-slime.md) (1%)
+ * [Chaos Pouch](/items/chaos-pouch.md) (1%)
+ * [Burning Slime Card](/items/burning-slime-card.md) (0.1%)

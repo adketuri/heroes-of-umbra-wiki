@@ -1,8 +1,8 @@
 ---
 title: Kappa Warrior
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,7 +24,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 70 Exp
  * 40 Flips
- * [Monster Food](items/monster-food.md) (3%)
- * [Kappa Blade](items/kappa-blade.md) (1%)
- * [Strongshot](items/strongshot.md) (1%)
- * [Kappa Warrior Card](items/kappa-warrior-card.md) (0.1%)
+ * [Monster Food](/items/monster-food.md) (3%)
+ * [Kappa Blade](/items/kappa-blade.md) (1%)
+ * [Strongshot](/items/strongshot.md) (1%)
+ * [Kappa Warrior Card](/items/kappa-warrior-card.md) (0.1%)

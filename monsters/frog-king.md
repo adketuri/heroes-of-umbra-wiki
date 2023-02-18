@@ -1,8 +1,8 @@
 ---
 title: Frog King
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 5000 Exp
  * 1280 Flips
- * [Frog Badge](items/frog-badge.md) (15%)
- * [Frog Staff](items/frog-staff.md) (15%)
- * [Frog King Card](items/frog-king-card.md) (0.1%)
+ * [Frog Badge](/items/frog-badge.md) (15%)
+ * [Frog Staff](/items/frog-staff.md) (15%)
+ * [Frog King Card](/items/frog-king-card.md) (0.1%)

@@ -1,8 +1,8 @@
 ---
 title: Mama Yeti
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 85000 Exp
  * 1280 Flips
- * [Yeti Armor](items/yeti-armor.md) (15%)
- * [Angegar](items/angegar.md) (15%)
- * [Mama Yeti Card](items/mama-yeti-card.md) (0.1%)
+ * [Yeti Armor](/items/yeti-armor.md) (15%)
+ * [Angegar](/items/angegar.md) (15%)
+ * [Mama Yeti Card](/items/mama-yeti-card.md) (0.1%)

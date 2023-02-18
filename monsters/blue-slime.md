@@ -1,8 +1,8 @@
 ---
 title: Blue Slime
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 820 Exp
  * 48 Flips
- * [Monster Meal](items/monster-meal.md) (3%)
- * [Frost Orb](items/frost-orb.md) (1%)
- * [Heal Ring](items/heal-ring.md) (1%)
- * [Blue Slime Card](items/blue-slime-card.md) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Frost Orb](/items/frost-orb.md) (1%)
+ * [Heal Ring](/items/heal-ring.md) (1%)
+ * [Blue Slime Card](/items/blue-slime-card.md) (0.1%)

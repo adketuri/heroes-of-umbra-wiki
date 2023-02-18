@@ -1,8 +1,8 @@
 ---
 title: Troll Club
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -25,4 +25,4 @@ A giant wooden club.
 |Crit|10|
 
 # Dropped From
- * [Papa Troll](monsters/papa-troll.md) (3%)
+ * [Papa Troll](/monsters/papa-troll.md) (3%)

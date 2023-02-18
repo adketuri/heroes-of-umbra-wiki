@@ -1,8 +1,8 @@
 ---
 title: Kappa Blade
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -23,4 +23,4 @@ A blade fashioned from cheap metal.
 |Atk|22|
 
 # Dropped From
- * [Kappa Warrior](monsters/kappa-warrior.md) (1%)
+ * [Kappa Warrior](/monsters/kappa-warrior.md) (1%)

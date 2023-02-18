@@ -1,8 +1,8 @@
 ---
 title: Lava Zombie
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 13600 Exp
  * 132 Flips
- * [Hanatii](items/hanatii.md) (3%)
- * [Zombie Charm](items/zombie-charm.md) (1%)
- * [Lava Ray](items/lava-ray.md) (1%)
- * [Lava Zombie Card](items/lava-zombie-card.md) (0.1%)
+ * [Hanatii](/items/hanatii.md) (3%)
+ * [Zombie Charm](/items/zombie-charm.md) (1%)
+ * [Lava Ray](/items/lava-ray.md) (1%)
+ * [Lava Zombie Card](/items/lava-zombie-card.md) (0.1%)

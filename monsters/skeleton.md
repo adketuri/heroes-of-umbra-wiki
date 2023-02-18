@@ -1,8 +1,8 @@
 ---
 title: Skeleton
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 15 Exp
  * 24 Flips
- * [Usali](items/usali.md) (3%)
- * [Bone Club](items/bone-club.md) (1%)
- * [Skeleton Card](items/skeleton-card.md) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [Bone Club](/items/bone-club.md) (1%)
+ * [Skeleton Card](/items/skeleton-card.md) (0.1%)

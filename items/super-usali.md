@@ -1,8 +1,8 @@
 ---
 title: Super Usali
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -19,6 +19,6 @@ Recovers 250 HP.
 
 
 # Dropped From
- * [Frog](monsters/frog.md) (3%)
- * [Red Frog](monsters/red-frog.md) (3%)
- * [Dark Beholder](monsters/dark-beholder.md) (3%)
+ * [Dark Beholder](/monsters/dark-beholder.md) (3%)
+ * [Frog](/monsters/frog.md) (3%)
+ * [Red Frog](/monsters/red-frog.md) (3%)

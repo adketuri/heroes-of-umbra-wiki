@@ -1,8 +1,8 @@
 ---
 title: Brobot Spider
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,8 +27,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 25000 Exp
  * 240 Flips
- * [Exp Potion](items/exp-potion.md) (3%)
- * [S. Brobot Essence](items/s-brobot-essence.md) (Quest, 20%)
- * [Deathfalchion](items/deathfalchion.md) (1%)
- * [Atk Gem (helm)](items/atk-gem-helm.md) (1%)
- * [Brobot Spider Card](items/brobot-spider-card.md) (0.1%)
+ * [Exp Potion](/items/exp-potion.md) (3%)
+ * [S. Brobot Essence](/items/s-brobot-essence.md) (Quest, 20%)
+ * [Deathfalchion](/items/deathfalchion.md) (1%)
+ * [Atk Gem (helm)](/items/atk-gem-helm.md) (1%)
+ * [Brobot Spider Card](/items/brobot-spider-card.md) (0.1%)

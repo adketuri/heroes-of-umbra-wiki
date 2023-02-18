@@ -1,8 +1,8 @@
 ---
 title: Brown Wolf
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 3950 Exp
  * 33 Flips
- * [Big Gem Box](items/big-gem-box.md) (3%)
- * [Wolf Pelt](items/wolf-pelt.md) (Quest, 20%)
- * [Wolf Cloak](items/wolf-cloak.md) (1%)
- * [Brown Wolf Card](items/brown-wolf-card.md) (0.1%)
+ * [Big Gem Box](/items/big-gem-box.md) (3%)
+ * [Wolf Pelt](/items/wolf-pelt.md) (Quest, 20%)
+ * [Wolf Cloak](/items/wolf-cloak.md) (1%)
+ * [Brown Wolf Card](/items/brown-wolf-card.md) (0.1%)

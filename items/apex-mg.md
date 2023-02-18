@@ -1,8 +1,8 @@
 ---
 title: Apex MG
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,6 +24,6 @@ A heavy gun that fires rapidly.
 |Crit|-10|
 
 # Dropped From
- * [Snowman](monsters/snowman.md) (1%)
- * [Worker Yeti](monsters/worker-yeti.md) (1%)
- * [Bee](monsters/bee.md) (1%)
+ * [Snowman](/monsters/snowman.md) (1%)
+ * [Worker Yeti](/monsters/worker-yeti.md) (1%)
+ * [Bee](/monsters/bee.md) (1%)

@@ -1,8 +1,8 @@
 ---
 title: Bionic Arm
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,4 +24,4 @@ Punches hard. Really hard.
 |Matk|53|
 
 # Dropped From
- * [Golembot](monsters/golembot.md) (1%)
+ * [Golembot](/monsters/golembot.md) (1%)

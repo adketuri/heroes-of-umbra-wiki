@@ -1,8 +1,8 @@
 ---
 title: Goose
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 730 Exp
  * 48 Flips
- * [Gem Box](items/gem-box.md) (3%)
- * [Frostbite](items/frostbite.md) (1%)
- * [Goose Card](items/goose-card.md) (0.1%)
+ * [Gem Box](/items/gem-box.md) (3%)
+ * [Frostbite](/items/frostbite.md) (1%)
+ * [Goose Card](/items/goose-card.md) (0.1%)

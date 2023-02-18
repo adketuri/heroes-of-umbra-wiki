@@ -1,8 +1,8 @@
 ---
 title: Dragonbot
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,6 +27,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 430000 Exp
  * 3200 Flips
- * [Evil Eye](items/evil-eye.md) (15%)
- * [Mini Robo Yeti](items/mini-robo-yeti.md) (15%)
- * [Dragonbot Card](items/dragonbot-card.md) (0.1%)
+ * [Evil Eye](/items/evil-eye.md) (15%)
+ * [Mini Robo Yeti](/items/mini-robo-yeti.md) (15%)
+ * [Dragonbot Card](/items/dragonbot-card.md) (0.1%)

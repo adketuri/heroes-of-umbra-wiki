@@ -1,8 +1,8 @@
 ---
 title: Frog Badge
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,4 +24,4 @@ A wearable badge with a frog print.
 |Matk|10|
 
 # Dropped From
- * [Frog King](monsters/frog-king.md) (3%)
+ * [Frog King](/monsters/frog-king.md) (3%)

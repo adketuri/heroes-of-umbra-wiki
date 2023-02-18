@@ -1,8 +1,8 @@
 ---
 title: Cursed Broom
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -24,4 +24,4 @@ Defeat enemies to break the curse.
 |Matk|20|
 
 # Dropped From
- * [Goblin Witch](monsters/goblin-witch.md) (1%)
+ * [Goblin Witch](/monsters/goblin-witch.md) (1%)

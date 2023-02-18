@@ -1,8 +1,8 @@
 ---
 title: Camo. Yeti
 published: true
-date: 2023-02-18T15:12:47.000Z
-tags: item
+date: 2023-02-18T15:29:14.000Z
+tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
@@ -27,7 +27,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Drops
  * 3100 Exp
  * 28 Flips
- * [Teleport Crystal](items/teleport-crystal.md) (3%)
- * [Heal Ring](items/heal-ring.md) (1%)
- * [Large Purse](items/large-purse.md) (1%)
- * [Camo. Yeti Card](items/camo-yeti-card.md) (0.1%)
+ * [Teleport Crystal](/items/teleport-crystal.md) (3%)
+ * [Heal Ring](/items/heal-ring.md) (1%)
+ * [Large Purse](/items/large-purse.md) (1%)
+ * [Camo. Yeti Card](/items/camo-yeti-card.md) (0.1%)
