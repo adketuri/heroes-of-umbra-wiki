@@ -1,13 +1,14 @@
 ---
 title: Berserk Potion
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 25% damage dealt and received for 5 mins
+
 |Attribute|Value|
 |-|-|
 |ID|1034|
@@ -16,3 +17,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Type|Consumable|
 |Stackable|Yes|
 
+
+# Dropped From
+ * [-](monsters/-.md) (3%)

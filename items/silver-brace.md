@@ -1,13 +1,14 @@
 ---
 title: Silver Brace
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A sturdy defensive accessory.
+
 |Attribute|Value|
 |-|-|
 |ID|92|
@@ -22,3 +23,7 @@ A sturdy defensive accessory.
 |Atk|5|
 |Matk|5|
 |Def|25|
+
+# Dropped From
+ * [Robo Beholder](monsters/robo-beholder.md) (1%)
+ * [Henchman](monsters/henchman.md) (1%)

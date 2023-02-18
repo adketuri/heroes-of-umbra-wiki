@@ -1,13 +1,14 @@
 ---
 title: Angel Wings
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Prevents visits to purgatory.
+
 |Attribute|Value|
 |-|-|
 |ID|1500|
@@ -19,5 +20,4 @@ Prevents visits to purgatory.
 # Stats
 |Stat|Value|
 |-|-|
-|Aspd|15|
 |Cspd|15|

@@ -1,13 +1,14 @@
 ---
 title: Prism Dagger
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A twisted knife that refracts light.
+
 |Attribute|Value|
 |-|-|
 |ID|463|
@@ -21,4 +22,3 @@ A twisted knife that refracts light.
 |-|-|
 |Atk|45|
 |Crit|11|
-|Aspd|28|

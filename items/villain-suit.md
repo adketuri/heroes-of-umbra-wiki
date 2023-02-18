@@ -1,13 +1,14 @@
 ---
 title: Villain Suit
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Become the number one villain.
+
 |Attribute|Value|
 |-|-|
 |ID|1403|
@@ -22,3 +23,6 @@ Become the number one villain.
 |Matk|13|
 |Def|44|
 |Mdef|60|
+
+# Dropped From
+ * [Brobot](monsters/brobot.md) (1%)

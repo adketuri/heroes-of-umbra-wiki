@@ -1,13 +1,14 @@
 ---
 title: Pumpkin Mask
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Carved like a Jack-o-Lantern.
+
 |Attribute|Value|
 |-|-|
 |ID|1016|
@@ -22,4 +23,3 @@ Carved like a Jack-o-Lantern.
 |Atk|7|
 |Matk|7|
 |Def|5|
-|Aspd|5|

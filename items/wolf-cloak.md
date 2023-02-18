@@ -1,13 +1,14 @@
 ---
 title: Wolf Cloak
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A warm cloak made of wolf pelt.
+
 |Attribute|Value|
 |-|-|
 |ID|1451|
@@ -24,3 +25,6 @@ A warm cloak made of wolf pelt.
 |Mdef|45|
 |Cspd|5|
 |Hp|5|
+
+# Dropped From
+ * [Brown Wolf](monsters/brown-wolf.md) (1%)

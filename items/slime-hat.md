@@ -1,13 +1,14 @@
 ---
 title: Slime Hat
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 It's still alive. Wear it
+
 |Attribute|Value|
 |-|-|
 |ID|1000|
@@ -22,3 +23,7 @@ It's still alive. Wear it
 |Atk|3|
 |Matk|3|
 |Def|3|
+
+# Dropped From
+ * [Slime](monsters/slime.md) (1%)
+ * [Red Slime](monsters/red-slime.md) (1%)

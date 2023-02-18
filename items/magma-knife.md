@@ -1,13 +1,14 @@
 ---
 title: Magma Knife
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A dagger flowing with magma.
+
 |Attribute|Value|
 |-|-|
 |ID|10004|
@@ -21,4 +22,6 @@ A dagger flowing with magma.
 |-|-|
 |Atk|40|
 |Crit|10|
-|Aspd|28|
+
+# Dropped From
+ * [Robo-Spider](monsters/robo-spider.md) (1%)

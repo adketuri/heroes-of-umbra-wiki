@@ -1,7 +1,7 @@
 ---
 title: Mechanic Bag
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -17,3 +17,7 @@ Holds 150 items.
 |Type|Consumable|
 |Stackable|Yes|
 
+
+# Dropped From
+ * [Blue Scuttlebot](monsters/blue-scuttlebot.md) (1%)
+ * [Red Scuttlebot](monsters/red-scuttlebot.md) (1%)

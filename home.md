@@ -21,4 +21,4 @@ Once a fabled assassin, you hunted those who jeopardized the order and balance o
 * [Stats](/stats)
 * [Items](/items)
 * [Upgrading](/upgrading)
-* [Enemies](/enemies)
+* [Monsters](/monsters)

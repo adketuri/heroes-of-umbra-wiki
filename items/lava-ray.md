@@ -1,13 +1,14 @@
 ---
 title: Lava Ray
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A futuristic gun slightly warm to the touch.
+
 |Attribute|Value|
 |-|-|
 |ID|1558|
@@ -21,4 +22,6 @@ A futuristic gun slightly warm to the touch.
 |-|-|
 |Atk|51|
 |Crit|5|
-|Aspd|40|
+
+# Dropped From
+ * [Lava Zombie](monsters/lava-zombie.md) (1%)

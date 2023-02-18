@@ -1,13 +1,14 @@
 ---
 title: Big Gem Box
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Contains several gem shards. Open it
+
 |Attribute|Value|
 |-|-|
 |ID|16|
@@ -16,3 +17,9 @@ Contains several gem shards. Open it
 |Type|Consumable|
 |Stackable|Yes|
 
+
+# Dropped From
+ * [Burning Slime](monsters/burning-slime.md) (3%)
+ * [Viking Skeleton](monsters/viking-skeleton.md) (3%)
+ * [Brown Wolf](monsters/brown-wolf.md) (3%)
+ * [Bee](monsters/bee.md) (3%)

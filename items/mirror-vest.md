@@ -1,13 +1,14 @@
 ---
 title: Mirror Vest
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A lightweight, slightly stylish, and sturdy vest.
+
 |Attribute|Value|
 |-|-|
 |ID|467|
@@ -22,4 +23,3 @@ A lightweight, slightly stylish, and sturdy vest.
 |Def|48|
 |Mdef|41|
 |Crit|15|
-|Aspd|6|

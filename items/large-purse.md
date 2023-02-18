@@ -1,7 +1,7 @@
 ---
 title: Large Purse
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -17,3 +17,7 @@ Holds 120 items.
 |Type|Consumable|
 |Stackable|Yes|
 
+
+# Dropped From
+ * [Christmas Yeti](monsters/christmas-yeti.md) (1%)
+ * [Camo. Yeti](monsters/camo-yeti.md) (1%)

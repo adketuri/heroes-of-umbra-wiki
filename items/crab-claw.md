@@ -1,13 +1,14 @@
 ---
 title: Crab Claw
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 This claw may be used as an accessory.
+
 |Attribute|Value|
 |-|-|
 |ID|83|
@@ -21,3 +22,6 @@ This claw may be used as an accessory.
 |-|-|
 |Atk|3|
 |Def|3|
+
+# Dropped From
+ * [Crab](monsters/crab.md) (1%)

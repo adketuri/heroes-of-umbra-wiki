@@ -1,13 +1,14 @@
 ---
 title: Ninja Hood
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Weapon Throw Distance + 25%
+
 |Attribute|Value|
 |-|-|
 |ID|63|
@@ -21,4 +22,6 @@ Weapon Throw Distance + 25%
 |-|-|
 |Def|5|
 |Crit|7|
-|Aspd|5|
+
+# Dropped From
+ * [Kappa Ninja](monsters/kappa-ninja.md) (1%)

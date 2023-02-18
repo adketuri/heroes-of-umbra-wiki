@@ -1,13 +1,14 @@
 ---
 title: Usali
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Recovers 50 HP.
+
 |Attribute|Value|
 |-|-|
 |ID|1|
@@ -16,3 +17,13 @@ Recovers 50 HP.
 |Type|Consumable|
 |Stackable|Yes|
 
+
+# Dropped From
+ * [Beholder](monsters/beholder.md) (3%)
+ * [Crab](monsters/crab.md) (3%)
+ * [Skeleton](monsters/skeleton.md) (3%)
+ * [Zombie](monsters/zombie.md) (3%)
+ * [Kappa Mage](monsters/kappa-mage.md) (3%)
+ * [Goblin](monsters/goblin.md) (3%)
+ * [Noface](monsters/noface.md) (3%)
+ * [Werewolf](monsters/werewolf.md) (3%)

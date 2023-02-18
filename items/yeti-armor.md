@@ -1,13 +1,14 @@
 ---
 title: Yeti Armor
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Armor crafted by mighty Yetis.
+
 |Attribute|Value|
 |-|-|
 |ID|51|
@@ -23,3 +24,6 @@ Armor crafted by mighty Yetis.
 |Mdef|18|
 |Crit|8|
 |Hp|5|
+
+# Dropped From
+ * [Mama Yeti](monsters/mama-yeti.md) (3%)

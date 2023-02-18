@@ -1,13 +1,14 @@
 ---
 title: Monster Feast
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A large feast for a monster.
+
 |Attribute|Value|
 |-|-|
 |ID|26|
@@ -16,3 +17,7 @@ A large feast for a monster.
 |Type|Consumable|
 |Stackable|Yes|
 
+
+# Dropped From
+ * [Robo-Spider](monsters/robo-spider.md) (3%)
+ * [Robo-Yeti](monsters/robo-yeti.md) (3%)

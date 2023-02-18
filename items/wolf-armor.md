@@ -1,13 +1,14 @@
 ---
 title: Wolf Armor
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Light armor strewn with wolf pelt.
+
 |Attribute|Value|
 |-|-|
 |ID|53|
@@ -21,5 +22,7 @@ Light armor strewn with wolf pelt.
 |-|-|
 |Def|16|
 |Mdef|12|
-|Aspd|5|
 |Hp|3|
+
+# Dropped From
+ * [Goblin Rider](monsters/goblin-rider.md) (1%)

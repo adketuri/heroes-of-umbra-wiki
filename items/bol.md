@@ -1,13 +1,14 @@
 ---
 title: Bol
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 This is a big axe.
+
 |Attribute|Value|
 |-|-|
 |ID|1206|
@@ -21,3 +22,6 @@ This is a big axe.
 |-|-|
 |Atk|60|
 |Speed|-7|
+
+# Dropped From
+ * [Snail](monsters/snail.md) (1%)

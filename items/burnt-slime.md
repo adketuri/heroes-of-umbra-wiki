@@ -1,13 +1,14 @@
 ---
 title: Burnt Slime
 published: true
-date: 2023-02-17T23:35:01.000Z
+date: 2023-02-18T15:12:47.000Z
 tags: item
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 It's burning, but put it on your head.
+
 |Attribute|Value|
 |-|-|
 |ID|1020|
@@ -23,3 +24,6 @@ It's burning, but put it on your head.
 |Matk|13|
 |Def|20|
 |Mdef|20|
+
+# Dropped From
+ * [Burning Slime](monsters/burning-slime.md) (1%)
