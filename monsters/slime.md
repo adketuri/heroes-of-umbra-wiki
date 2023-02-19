@@ -1,7 +1,7 @@
 ---
 title: Slime
 published: true
-date: 2023-02-18T16:07:45.000Z
+date: 2023-02-18T16:44:34.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,4 +26,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * 12 Flips
  * [Speed Pill](/items/speed-pill.md) (3%)
  * [Slime Hat](/items/slime-hat.md) (1%)
+ * [Egg](/items/egg.md) (1%)
  * [Slime Card](/items/slime-card.md) (0.1%)

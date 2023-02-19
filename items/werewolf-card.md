@@ -1,7 +1,8 @@
 ---
 title: Werewolf Card
+description: A rare card from a monster.
 published: true
-date: 2023-02-18T16:07:45.000Z
+date: 2023-02-18T16:44:34.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -14,7 +15,7 @@ A rare card from a monster.
 |ID|861|
 |Purchase Price|13,500 Flips|
 |Sell Price|6,750 Flips|
-|Type|N/A|
+|Type|Card|
 |Stackable|Yes|
 
 

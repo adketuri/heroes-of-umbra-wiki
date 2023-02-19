@@ -1,7 +1,8 @@
 ---
 title: Orb of Frogs
+description: An orb found within the caverns.
 published: true
-date: 2023-02-18T16:07:45.000Z
+date: 2023-02-18T16:44:34.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -14,7 +15,7 @@ An orb found within the caverns.
 |ID|2143|
 |Purchase Price|0 Flips|
 |Sell Price|0 Flips|
-|Type|N/A|
+|Type|Orb|
 |Stackable|No|
 
 # Stats

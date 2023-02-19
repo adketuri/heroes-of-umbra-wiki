@@ -1,7 +1,8 @@
 ---
 title: Serpent Card
+description: A rare card from a monster.
 published: true
-date: 2023-02-18T16:07:45.000Z
+date: 2023-02-18T16:44:34.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -14,7 +15,7 @@ A rare card from a monster.
 |ID|855|
 |Purchase Price|9,000 Flips|
 |Sell Price|4,500 Flips|
-|Type|N/A|
+|Type|Card|
 |Stackable|Yes|
 
 

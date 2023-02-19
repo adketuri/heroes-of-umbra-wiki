@@ -1,7 +1,7 @@
 ---
 title: Frog
 published: true
-date: 2023-02-18T16:07:45.000Z
+date: 2023-02-18T16:44:34.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,4 +29,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * 40 Flips
  * [Super Usali](/items/super-usali.md) (3%)
  * [Spear](/items/spear.md) (1%)
+ * [Egg](/items/egg.md) (1%)
  * [Frog Card](/items/frog-card.md) (0.1%)

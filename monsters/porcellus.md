@@ -1,7 +1,7 @@
 ---
 title: Porcellus
 published: true
-date: 2023-02-18T16:07:45.000Z
+date: 2023-02-18T16:44:34.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,4 +29,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * 43 Flips
  * [Luck Potion](/items/luck-potion.md) (3%)
  * [Porcellus Hat](/items/porcellus-hat.md) (1%)
+ * [Egg](/items/egg.md) (1%)
  * [Porcellus Card](/items/porcellus-card.md) (0.1%)
