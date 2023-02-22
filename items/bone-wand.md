@@ -2,7 +2,7 @@
 title: Bone Wand
 description: Adored by cavemen and necromancers.
 published: true
-date: 2023-02-18T16:44:34.000Z
+date: 2023-02-21T23:23:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -24,3 +24,6 @@ Adored by cavemen and necromancers.
 |Atk|15|
 |Matk|22|
 |Cspd|20|
+
+# Found in Treasures On Maps
+ * [cave_p](/maps/cave_p)

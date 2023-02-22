@@ -2,7 +2,7 @@
 title: Plague Dr. Mask
 description: Avoid the plague with this mask.
 published: true
-date: 2023-02-18T16:44:34.000Z
+date: 2023-02-21T23:23:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -24,3 +24,6 @@ Avoid the plague with this mask.
 |Atk|1|
 |Def|8|
 |Crit|5|
+
+# Found in Treasures On Maps
+ * [forestboss](/maps/forestboss)

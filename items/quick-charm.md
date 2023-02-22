@@ -2,7 +2,7 @@
 title: Quick Charm
 description: An old charm worn by a great mage.
 published: true
-date: 2023-02-18T16:44:34.000Z
+date: 2023-02-21T23:23:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -24,3 +24,6 @@ An old charm worn by a great mage.
 |Matk|5|
 |Def|10|
 |Cspd|12|
+
+# Found in Treasures On Maps
+ * [cave_v](/maps/cave_v)

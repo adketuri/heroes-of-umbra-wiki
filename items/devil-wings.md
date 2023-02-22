@@ -2,7 +2,7 @@
 title: Devil Wings
 description: A very rare set of dark wings.
 published: true
-date: 2023-02-18T16:44:34.000Z
+date: 2023-02-21T23:23:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -24,3 +24,6 @@ A very rare set of dark wings.
 |Atk|7|
 |Matk|7|
 |Jump|3|
+
+# Found in Treasures On Maps
+ * [caveboss](/maps/caveboss)
