@@ -1,13 +1,16 @@
 ---
 title: Red Frog
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|681|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|36|
 |WalkSpeed|90|
 |JumpPower|110|
-|Crit|1|
+|ExpVal|120|
+|Money|17|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|3,405|
+|Power|20|
+|Stamina|14|
+|Wisdom|20|
+|Atk|70|
+|Matk|70|
+|Def|14|
+|Mdef|36|
+|WalkSpeed|90|
+|JumpPower|110|
+|ExpVal|420|
+|Money|17|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|16,120|
+|Power|40|
+|Stamina|14|
+|Wisdom|40|
+|Atk|105|
+|Matk|105|
+|Def|21|
+|Mdef|54|
+|WalkSpeed|90|
+|JumpPower|110|
+|ExpVal|7,000|
+|Money|17|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 120 Exp
- * 40 Flips
  * [Super Usali](/items/super-usali.md) (3%)
  * [Rice Field Hat](/items/rice-field-hat.md) (1%)
  * [Backpack](/items/backpack.md) (1%)

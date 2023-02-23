@@ -1,23 +1,40 @@
 ---
 title: War Goblin
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|10|
 |WalkSpeed|50|
 |JumpPower|80|
-|Crit|1|
+|ExpVal|2|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|50|
+|WalkSpeed|50|
+|JumpPower|80|
+|ExpVal|7|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|2,700|
+|WalkSpeed|50|
+|JumpPower|80|
+|ExpVal|2,870|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 2 Exp
- * 0 Flips
  * [War Goblin Card](/items/war-goblin-card.md) (0.1%)

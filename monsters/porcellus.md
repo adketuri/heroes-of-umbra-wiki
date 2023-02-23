@@ -1,13 +1,16 @@
 ---
 title: Porcellus
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|2,932|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|35|
 |WalkSpeed|160|
 |JumpPower|100|
-|Crit|1|
+|ExpVal|1,400|
+|Money|18|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|14,660|
+|Power|32|
+|Stamina|80|
+|Wisdom|55|
+|Atk|105|
+|Matk|105|
+|Def|40|
+|Mdef|35|
+|WalkSpeed|160|
+|JumpPower|100|
+|ExpVal|4,900|
+|Money|18|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|61,140|
+|Power|64|
+|Stamina|80|
+|Wisdom|110|
+|Atk|157|
+|Matk|157|
+|Def|60|
+|Mdef|52|
+|WalkSpeed|160|
+|JumpPower|100|
+|ExpVal|51,800|
+|Money|18|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 1400 Exp
- * 43 Flips
  * [Luck Potion](/items/luck-potion.md) (3%)
  * [Porcellus Hat](/items/porcellus-hat.md) (1%)
  * [Egg](/items/egg.md) (1%)

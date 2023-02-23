@@ -1,13 +1,16 @@
 ---
 title: Frog King
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|34,000|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|20|
 |WalkSpeed|40|
 |JumpPower|90|
-|Crit|1|
+|ExpVal|5,000|
+|Money|200|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|170,000|
+|Power|15|
+|Stamina|10|
+|Wisdom|50|
+|Atk|105|
+|Matk|140|
+|Def|20|
+|Mdef|20|
+|WalkSpeed|40|
+|JumpPower|90|
+|ExpVal|17,500|
+|Money|200|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|682,500|
+|Power|30|
+|Stamina|10|
+|Wisdom|100|
+|Atk|157|
+|Matk|210|
+|Def|30|
+|Mdef|30|
+|WalkSpeed|40|
+|JumpPower|90|
+|ExpVal|177,800|
+|Money|200|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 5000 Exp
- * 1280 Flips
  * [Frog Badge](/items/frog-badge.md) (15%)
  * [Frog Staff](/items/frog-staff.md) (15%)
  * [Frog King Card](/items/frog-king-card.md) (0.1%)

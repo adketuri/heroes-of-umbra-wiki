@@ -1,13 +1,16 @@
 ---
 title: Goblin Rider
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|301|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|10|
 |WalkSpeed|105|
 |JumpPower|90|
-|Crit|1|
+|ExpVal|20|
+|Money|14|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|1,505|
+|Power|12|
+|Stamina|8|
+|Wisdom|10|
+|Atk|87|
+|Matk|35|
+|Def|8|
+|Mdef|10|
+|WalkSpeed|105|
+|JumpPower|90|
+|ExpVal|70|
+|Money|14|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|8,520|
+|Power|24|
+|Stamina|8|
+|Wisdom|20|
+|Atk|129|
+|Matk|52|
+|Def|12|
+|Mdef|15|
+|WalkSpeed|105|
+|JumpPower|90|
+|ExpVal|3,500|
+|Money|14|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 20 Exp
- * 33 Flips
  * [Gem Box](/items/gem-box.md) (3%)
  * [Pumpkin](/items/pumpkin.md) (Quest, 20%)
  * [Wolf Armor](/items/wolf-armor.md) (1%)

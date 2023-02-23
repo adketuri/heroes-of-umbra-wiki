@@ -1,13 +1,16 @@
 ---
 title: Snowman
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|4,031|
@@ -19,13 +22,42 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Def|26|
 |Mdef|26|
 |JumpPower|70|
-|Crit|1|
+|ExpVal|1,560|
+|Money|17|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|20,155|
+|Power|30|
+|Stamina|80|
+|Wisdom|28|
+|Atk|70|
+|Matk|126|
+|Def|26|
+|Mdef|26|
+|JumpPower|70|
+|ExpVal|5,460|
+|Money|17|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|83,120|
+|Power|60|
+|Stamina|80|
+|Wisdom|56|
+|Atk|105|
+|Matk|189|
+|Def|39|
+|Mdef|39|
+|JumpPower|70|
+|ExpVal|57,400|
+|Money|17|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 1560 Exp
- * 40 Flips
  * [Hot Tea](/items/hot-tea.md) (3%)
  * [Carrot](/items/carrot.md) (1%)
  * [Apex MG](/items/apex-mg.md) (1%)

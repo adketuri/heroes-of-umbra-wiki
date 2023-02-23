@@ -1,13 +1,16 @@
 ---
 title: Henchman
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|15,000|
@@ -19,13 +22,42 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Def|30|
 |Mdef|10|
 |WalkSpeed|35|
-|Crit|1|
+|ExpVal|40,000|
+|Money|42|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|75,000|
+|Power|40|
+|Stamina|40|
+|Wisdom|40|
+|Atk|175|
+|Matk|140|
+|Def|30|
+|Mdef|10|
+|WalkSpeed|35|
+|ExpVal|140,000|
+|Money|42|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|302,500|
+|Power|80|
+|Stamina|40|
+|Wisdom|80|
+|Atk|262|
+|Matk|210|
+|Def|45|
+|Mdef|15|
+|WalkSpeed|35|
+|ExpVal|1,402,800|
+|Money|42|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 40000 Exp
- * 100 Flips
  * [Hyper Usali](/items/hyper-usali.md) (3%)
  * [Silver Brace](/items/silver-brace.md) (1%)
  * [Henchman Card](/items/henchman-card.md) (0.1%)

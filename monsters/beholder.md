@@ -1,13 +1,16 @@
 ---
 title: Beholder
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|25|
@@ -18,13 +21,40 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Matk|12|
 |Def|5|
 |Mdef|10|
-|Crit|1|
+|ExpVal|10|
+|Money|5|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|125|
+|Power|5|
+|Stamina|5|
+|Wisdom|5|
+|Atk|35|
+|Matk|42|
+|Def|5|
+|Mdef|10|
+|ExpVal|35|
+|Money|5|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|3,000|
+|Power|10|
+|Stamina|5|
+|Wisdom|10|
+|Atk|52|
+|Matk|63|
+|Def|7|
+|Mdef|15|
+|ExpVal|3,150|
+|Money|5|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 10 Exp
- * 12 Flips
  * [Usali](/items/usali.md) (3%)
  * [Leather Boots](/items/leather-boots.md) (1%)
  * [Forest Satchel](/items/forest-satchel.md) (1%)

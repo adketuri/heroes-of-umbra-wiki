@@ -1,13 +1,16 @@
 ---
 title: Goblin
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|231|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|10|
 |WalkSpeed|65|
 |JumpPower|85|
-|Crit|1|
+|ExpVal|16|
+|Money|12|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|1,155|
+|Power|12|
+|Stamina|8|
+|Wisdom|10|
+|Atk|45|
+|Matk|35|
+|Def|8|
+|Mdef|10|
+|WalkSpeed|65|
+|JumpPower|85|
+|ExpVal|56|
+|Money|12|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|7,120|
+|Power|24|
+|Stamina|8|
+|Wisdom|20|
+|Atk|66|
+|Matk|52|
+|Def|12|
+|Mdef|15|
+|WalkSpeed|65|
+|JumpPower|85|
+|ExpVal|3,360|
+|Money|12|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 16 Exp
- * 28 Flips
  * [Usali](/items/usali.md) (3%)
  * [Pumpkin](/items/pumpkin.md) (Quest, 20%)
  * [Cursed Dagger](/items/cursed-dagger.md) (1%)

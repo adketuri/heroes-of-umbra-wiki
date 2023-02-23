@@ -1,13 +1,16 @@
 ---
 title: Zombie
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|192|
@@ -19,13 +22,42 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Def|10|
 |Mdef|10|
 |WalkSpeed|25|
-|Crit|1|
+|ExpVal|21|
+|Money|12|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|960|
+|Power|15|
+|Stamina|8|
+|Wisdom|10|
+|Atk|45|
+|Matk|35|
+|Def|10|
+|Mdef|10|
+|WalkSpeed|25|
+|ExpVal|73|
+|Money|12|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|6,340|
+|Power|30|
+|Stamina|8|
+|Wisdom|20|
+|Atk|66|
+|Matk|52|
+|Def|15|
+|Mdef|15|
+|WalkSpeed|25|
+|ExpVal|3,535|
+|Money|12|
 |Projectile|Yes|
 |Element|Undead|
 
 # Drops
- * 21 Exp
- * 28 Flips
  * [Usali](/items/usali.md) (3%)
  * [Magic Charm](/items/magic-charm.md) (1%)
  * [Green Revolver](/items/green-revolver.md) (1%)

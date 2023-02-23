@@ -1,13 +1,16 @@
 ---
 title: Bat
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|320|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|20|
 |WalkSpeed|80|
 |JumpPower|50|
-|Crit|1|
+|ExpVal|52|
+|Money|12|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|1,600|
+|Power|22|
+|Stamina|8|
+|Wisdom|8|
+|Atk|35|
+|Matk|70|
+|Def|10|
+|Mdef|20|
+|WalkSpeed|80|
+|JumpPower|50|
+|ExpVal|182|
+|Money|12|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|8,900|
+|Power|44|
+|Stamina|8|
+|Wisdom|16|
+|Atk|52|
+|Matk|105|
+|Def|15|
+|Mdef|30|
+|WalkSpeed|80|
+|JumpPower|50|
+|ExpVal|4,620|
+|Money|12|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 52 Exp
- * 28 Flips
  * [Rage Potion](/items/rage-potion.md) (3%)
  * [Bat Mask](/items/bat-mask.md) (1%)
  * [Egg](/items/egg.md) (1%)

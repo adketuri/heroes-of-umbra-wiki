@@ -1,13 +1,16 @@
 ---
 title: Noface
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|841|
@@ -19,13 +22,42 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Def|13|
 |Mdef|10|
 |WalkSpeed|20|
-|Crit|1|
+|ExpVal|175|
+|Money|54|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|4,205|
+|Power|14|
+|Stamina|10|
+|Wisdom|14|
+|Atk|87|
+|Matk|70|
+|Def|13|
+|Mdef|10|
+|WalkSpeed|20|
+|ExpVal|612|
+|Money|54|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|19,320|
+|Power|28|
+|Stamina|10|
+|Wisdom|28|
+|Atk|129|
+|Matk|105|
+|Def|19|
+|Mdef|15|
+|WalkSpeed|20|
+|ExpVal|8,925|
+|Money|54|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 175 Exp
- * 129 Flips
  * [Usali](/items/usali.md) (3%)
  * [No Face Mask](/items/no-face-mask.md) (1%)
  * [Egg](/items/egg.md) (1%)

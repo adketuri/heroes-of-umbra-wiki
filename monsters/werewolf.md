@@ -1,13 +1,16 @@
 ---
 title: Werewolf
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|10|
@@ -20,12 +23,43 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|1|
 |WalkSpeed|60|
 |JumpPower|80|
-|Crit|1|
+|ExpVal|1|
+|Money|1|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|50|
+|Power|1|
+|Stamina|1|
+|Wisdom|1|
+|Atk|3|
+|Matk|3|
+|Def|1|
+|Mdef|1|
+|WalkSpeed|60|
+|JumpPower|80|
+|ExpVal|3|
+|Money|1|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|2,700|
+|Power|2|
+|Stamina|1|
+|Wisdom|2|
+|Atk|3|
+|Matk|3|
+|Def|1|
+|Mdef|1|
+|WalkSpeed|60|
+|JumpPower|80|
+|ExpVal|2,835|
+|Money|1|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 1 Exp
- * 2 Flips
  * [Usali](/items/usali.md) (3%)
  * [Werewolf Card](/items/werewolf-card.md) (0.1%)

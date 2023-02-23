@@ -1,13 +1,16 @@
 ---
 title: Blue Brobot
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|24,000|
@@ -20,13 +23,44 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|45|
 |WalkSpeed|30|
 |JumpPower|60|
-|Crit|1|
+|ExpVal|23,000|
+|Money|60|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|120,000|
+|Power|40|
+|Stamina|100|
+|Wisdom|50|
+|Atk|276|
+|Matk|192|
+|Def|70|
+|Mdef|45|
+|WalkSpeed|30|
+|JumpPower|60|
+|ExpVal|80,500|
+|Money|60|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|482,500|
+|Power|80|
+|Stamina|100|
+|Wisdom|100|
+|Atk|413|
+|Matk|287|
+|Def|105|
+|Mdef|67|
+|WalkSpeed|30|
+|JumpPower|60|
+|ExpVal|807,800|
+|Money|60|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 23000 Exp
- * 144 Flips
  * [Hanatii](/items/hanatii.md) (3%)
  * [Hero Suit](/items/hero-suit.md) (1%)
  * [Matk Gem (helm)](/items/matk-gem-helm.md) (1%)

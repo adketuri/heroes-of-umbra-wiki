@@ -1,13 +1,16 @@
 ---
 title: Pilot Snowman
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|2,000|
@@ -19,13 +22,42 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Def|36|
 |Mdef|36|
 |WalkSpeed|45|
-|Crit|1|
+|ExpVal|2,010|
+|Money|100|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|10,000|
+|Power|30|
+|Stamina|80|
+|Wisdom|30|
+|Atk|280|
+|Matk|280|
+|Def|36|
+|Mdef|36|
+|WalkSpeed|45|
+|ExpVal|7,035|
+|Money|100|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|42,500|
+|Power|60|
+|Stamina|80|
+|Wisdom|60|
+|Atk|420|
+|Matk|420|
+|Def|54|
+|Mdef|54|
+|WalkSpeed|45|
+|ExpVal|73,150|
+|Money|100|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
- * 2010 Exp
- * 240 Flips
  * [Hyper Usali](/items/hyper-usali.md) (3%)
  * [Pickaxe](/items/pickaxe.md) (1%)
  * [Pilot Snowman Card](/items/pilot-snowman-card.md) (0.1%)

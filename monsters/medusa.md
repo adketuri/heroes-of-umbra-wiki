@@ -1,13 +1,16 @@
 ---
 title: Medusa
 published: true
-date: 2023-02-21T23:23:44.000Z
+date: 2023-02-22T22:56:13.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-# Stats
+# Tabs {.tabset}
+
+## Standard Stats
+
 |Stat|Value|
 |-|-|
 |HP|10,500|
@@ -18,11 +21,35 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Matk|14|
 |Def|12|
 |Mdef|12|
-|Crit|1|
+|ExpVal|13,700|
+## Rebirth Stats
+
+|Stat|Value|
+|-|-|
+|HP|52,500|
+|Power|25|
+|Stamina|50|
+|Wisdom|10|
+|Atk|49|
+|Matk|49|
+|Def|12|
+|Mdef|12|
+|ExpVal|47,950|
+## Orb Garden Stats
+
+|Stat|Value|
+|-|-|
+|HP|212,500|
+|Power|50|
+|Stamina|50|
+|Wisdom|20|
+|Atk|73|
+|Matk|73|
+|Def|18|
+|Mdef|18|
+|ExpVal|482,300|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * 13700 Exp
- * 0 Flips
  * [Medusa Card](/items/medusa-card.md) (0.1%)
