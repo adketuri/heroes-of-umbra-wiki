@@ -2,7 +2,7 @@
 title: Gem Box
 description: Contains a few gem shards. Open it
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,9 +20,9 @@ Contains a few gem shards. Open it
 
 
 # Dropped From
- * [Goblin Rider](/monsters/goblin-rider.md) (3%)
- * [Goose](/monsters/goose.md) (3%)
- * [Ghost](/monsters/ghost.md) (3%)
+ * [Goblin Rider](/monsters/goblin-rider) (3%)
+ * [Goose](/monsters/goose) (3%)
+ * [Ghost](/monsters/ghost) (3%)
 
 # Found in Treasures On Maps
  * [snowinner5](/maps/snowinner5)

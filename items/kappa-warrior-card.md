@@ -2,7 +2,7 @@
 title: Kappa Warrior Card
 description: A rare card from a monster.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,4 +20,4 @@ A rare card from a monster.
 
 
 # Dropped From
- * [Kappa Warrior](/monsters/kappa-warrior.md) (0.1%)
+ * [Kappa Warrior](/monsters/kappa-warrior) (0.1%)

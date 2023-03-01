@@ -1,7 +1,7 @@
 ---
 title: Christmas Yeti
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,7 +61,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hot Tea](/items/hot-tea.md) (3%)
- * [Candy Cane](/items/candy-cane.md) (1%)
- * [Large Purse](/items/large-purse.md) (1%)
- * [Christmas Yeti Card](/items/christmas-yeti-card.md) (0.1%)
+ * [Hot Tea](/items/hot-tea) (3%)
+ * [Candy Cane](/items/candy-cane) (1%)
+ * [Large Purse](/items/large-purse) (1%)
+ * [Christmas Yeti Card](/items/christmas-yeti-card) (0.1%)

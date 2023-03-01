@@ -2,7 +2,7 @@
 title: Dreamstone
 description: Boosts stats of next crafted equipment.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,6 +20,6 @@ Boosts stats of next crafted equipment.
 
 
 # Found in Treasures On Maps
- * [cave_secret2](/maps/cave_secret2)
-# Found in Treasures On Maps
  * [snowinner6](/maps/snowinner6)
+# Found in Treasures On Maps
+ * [cave_secret2](/maps/cave_secret2)

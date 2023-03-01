@@ -2,13 +2,13 @@
 title: Snake Eyes
 description: The final Helm.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-The final Helm.
+The final Helm. This item's stats are randomly generated.
 
 |Attribute|Value|
 |-|-|

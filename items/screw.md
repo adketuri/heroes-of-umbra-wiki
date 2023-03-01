@@ -2,7 +2,7 @@
 title: Screw
 description: A fastener with a helical ridge thread.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,4 +20,4 @@ A fastener with a helical ridge thread.
 
 
 # Dropped From
- * [Worker Yeti](/monsters/worker-yeti.md) (Quest, 20%)
+ * [Worker Yeti](/monsters/worker-yeti) (Quest, 20%)

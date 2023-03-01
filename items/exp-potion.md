@@ -2,7 +2,7 @@
 title: Exp Potion
 description: Gain +50% EXP for 10 minutes.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,6 +20,6 @@ Gain +50% EXP for 10 minutes.
 
 
 # Dropped From
- * [Red Scuttlebot](/monsters/red-scuttlebot.md) (3%)
- * [Blue Scuttlebot](/monsters/blue-scuttlebot.md) (3%)
- * [Brobot Spider](/monsters/brobot-spider.md) (3%)
+ * [Red Scuttlebot](/monsters/red-scuttlebot) (3%)
+ * [Blue Scuttlebot](/monsters/blue-scuttlebot) (3%)
+ * [Brobot Spider](/monsters/brobot-spider) (3%)

@@ -1,7 +1,7 @@
 ---
 title: Bee
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -58,8 +58,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Big Gem Box](/items/big-gem-box.md) (3%)
- * [Honeycomb](/items/honeycomb.md) (Quest, 20%)
- * [Apex MG](/items/apex-mg.md) (1%)
- * [Atk Gem (helm)](/items/atk-gem-helm.md) (1%)
- * [Bee Card](/items/bee-card.md) (0.1%)
+ * [Big Gem Box](/items/big-gem-box) (3%)
+ * [Honeycomb](/items/honeycomb) (Quest, 20%)
+ * [Apex MG](/items/apex-mg) (1%)
+ * [Atk Gem (helm)](/items/atk-gem-helm) (1%)
+ * [Bee Card](/items/bee-card) (0.1%)

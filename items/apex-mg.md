@@ -2,7 +2,7 @@
 title: Apex MG
 description: A heavy gun that fires rapidly.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,6 +25,6 @@ A heavy gun that fires rapidly.
 |Crit|-10|
 
 # Dropped From
- * [Snowman](/monsters/snowman.md) (1%)
- * [Worker Yeti](/monsters/worker-yeti.md) (1%)
- * [Bee](/monsters/bee.md) (1%)
+ * [Snowman](/monsters/snowman) (1%)
+ * [Worker Yeti](/monsters/worker-yeti) (1%)
+ * [Bee](/monsters/bee) (1%)

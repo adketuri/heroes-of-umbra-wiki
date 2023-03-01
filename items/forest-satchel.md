@@ -2,7 +2,7 @@
 title: Forest Satchel
 description: Holds 60 items.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,4 +20,4 @@ Holds 60 items.
 
 
 # Dropped From
- * [Beholder](/monsters/beholder.md) (1%)
+ * [Beholder](/monsters/beholder) (1%)

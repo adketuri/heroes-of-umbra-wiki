@@ -1,7 +1,7 @@
 ---
 title: Kappa Ninja
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,7 +61,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Food](/items/monster-food.md) (3%)
- * [Battlecoat](/items/battlecoat.md) (1%)
- * [Ninja Hood](/items/ninja-hood.md) (1%)
- * [Kappa Ninja Card](/items/kappa-ninja-card.md) (0.1%)
+ * [Monster Food](/items/monster-food) (3%)
+ * [Battlecoat](/items/battlecoat) (1%)
+ * [Ninja Hood](/items/ninja-hood) (1%)
+ * [Kappa Ninja Card](/items/kappa-ninja-card) (0.1%)

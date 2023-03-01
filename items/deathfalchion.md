@@ -2,7 +2,7 @@
 title: Deathfalchion
 description: A dark sword with a mysterious power.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,4 +25,4 @@ A dark sword with a mysterious power.
 |Crit|4|
 
 # Dropped From
- * [Brobot Spider](/monsters/brobot-spider.md) (1%)
+ * [Brobot Spider](/monsters/brobot-spider) (1%)

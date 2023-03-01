@@ -1,7 +1,7 @@
 ---
 title: War Goblin
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -37,4 +37,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [War Goblin Card](/items/war-goblin-card.md) (0.1%)
+ * [War Goblin Card](/items/war-goblin-card) (0.1%)

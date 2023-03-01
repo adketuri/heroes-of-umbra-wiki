@@ -2,7 +2,7 @@
 title: Evil Eye
 description: A dark, powerful casting tool.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,4 +25,4 @@ A dark, powerful casting tool.
 |Matk|60|
 
 # Dropped From
- * [Dragonbot](/monsters/dragonbot.md) (15%)
+ * [Dragonbot](/monsters/dragonbot) (15%)

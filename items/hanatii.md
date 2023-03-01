@@ -2,7 +2,7 @@
 title: Hanatii
 description: Restores all EP.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,7 +20,7 @@ Restores all EP.
 
 
 # Dropped From
- * [Robo Beholder](/monsters/robo-beholder.md) (3%)
- * [Lava Zombie](/monsters/lava-zombie.md) (3%)
- * [Brobot](/monsters/brobot.md) (3%)
- * [Blue Brobot](/monsters/blue-brobot.md) (3%)
+ * [Robo Beholder](/monsters/robo-beholder) (3%)
+ * [Lava Zombie](/monsters/lava-zombie) (3%)
+ * [Brobot](/monsters/brobot) (3%)
+ * [Blue Brobot](/monsters/blue-brobot) (3%)

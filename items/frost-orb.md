@@ -2,7 +2,7 @@
 title: Frost Orb
 description: 30% chance to freeze on hit.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,4 +25,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Matk|29|
 
 # Dropped From
- * [Blue Slime](/monsters/blue-slime.md) (1%)
+ * [Blue Slime](/monsters/blue-slime) (1%)

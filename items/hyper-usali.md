@@ -2,7 +2,7 @@
 title: Hyper Usali
 description: Recovers 800 HP.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,7 +20,7 @@ Recovers 800 HP.
 
 
 # Dropped From
- * [Pilot Yeti](/monsters/pilot-yeti.md) (3%)
- * [Pilot Snowman](/monsters/pilot-snowman.md) (3%)
- * [Robo-Bat](/monsters/robo-bat.md) (3%)
- * [Henchman](/monsters/henchman.md) (3%)
+ * [Pilot Yeti](/monsters/pilot-yeti) (3%)
+ * [Pilot Snowman](/monsters/pilot-snowman) (3%)
+ * [Robo-Bat](/monsters/robo-bat) (3%)
+ * [Henchman](/monsters/henchman) (3%)

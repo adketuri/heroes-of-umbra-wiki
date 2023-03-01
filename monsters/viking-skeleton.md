@@ -1,7 +1,7 @@
 ---
 title: Viking Skeleton
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,7 +61,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Undead|
 
 # Drops
- * [Big Gem Box](/items/big-gem-box.md) (3%)
- * [Viking Helm](/items/viking-helm.md) (1%)
- * [Lasershroud ](/items/lasershroud-.md) (1%)
- * [Viking Skeleton Card](/items/viking-skeleton-card.md) (0.1%)
+ * [Big Gem Box](/items/big-gem-box) (3%)
+ * [Viking Helm](/items/viking-helm) (1%)
+ * [Lasershroud ](/items/lasershroud-) (1%)
+ * [Viking Skeleton Card](/items/viking-skeleton-card) (0.1%)

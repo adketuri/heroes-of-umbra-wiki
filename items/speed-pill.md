@@ -2,7 +2,7 @@
 title: Speed Pill
 description: Walk speed increased for 10 minutes.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,4 +20,4 @@ Walk speed increased for 10 minutes.
 
 
 # Dropped From
- * [Slime](/monsters/slime.md) (3%)
+ * [Slime](/monsters/slime) (3%)

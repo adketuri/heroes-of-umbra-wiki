@@ -1,7 +1,7 @@
 ---
 title: Robo-Yeti
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,8 +61,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Feast](/items/monster-feast.md) (3%)
- * [Yeti Essence](/items/yeti-essence.md) (Quest, 20%)
- * [Robo Antenna](/items/robo-antenna.md) (1%)
- * [Egg](/items/egg.md) (1%)
- * [Robo-Yeti Card](/items/robo-yeti-card.md) (0.1%)
+ * [Monster Feast](/items/monster-feast) (3%)
+ * [Yeti Essence](/items/yeti-essence) (Quest, 20%)
+ * [Robo Antenna](/items/robo-antenna) (1%)
+ * [Egg](/items/egg) (1%)
+ * [Robo-Yeti Card](/items/robo-yeti-card) (0.1%)

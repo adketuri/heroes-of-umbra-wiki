@@ -2,7 +2,7 @@
 title: Wolf Pelt
 description: Hide skinned from a wolf.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,4 +20,4 @@ Hide skinned from a wolf.
 
 
 # Dropped From
- * [Brown Wolf](/monsters/brown-wolf.md) (Quest, 20%)
+ * [Brown Wolf](/monsters/brown-wolf) (Quest, 20%)

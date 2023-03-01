@@ -1,7 +1,7 @@
 ---
 title: Porcellus
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,7 +61,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Luck Potion](/items/luck-potion.md) (3%)
- * [Porcellus Hat](/items/porcellus-hat.md) (1%)
- * [Egg](/items/egg.md) (1%)
- * [Porcellus Card](/items/porcellus-card.md) (0.1%)
+ * [Luck Potion](/items/luck-potion) (3%)
+ * [Porcellus Hat](/items/porcellus-hat) (1%)
+ * [Egg](/items/egg) (1%)
+ * [Porcellus Card](/items/porcellus-card) (0.1%)

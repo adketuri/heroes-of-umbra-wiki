@@ -2,7 +2,7 @@
 title: Rice Field Hat
 description: Increases Flips acquired by 30%
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,4 +26,4 @@ Increases Flips acquired by 30%
 |Crit|10|
 
 # Dropped From
- * [Red Frog](/monsters/red-frog.md) (1%)
+ * [Red Frog](/monsters/red-frog) (1%)

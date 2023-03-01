@@ -1,7 +1,7 @@
 ---
 title: Blue Scuttlebot
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,7 +61,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Exp Potion](/items/exp-potion.md) (3%)
- * [Mechanic Bag](/items/mechanic-bag.md) (1%)
- * [Egg](/items/egg.md) (1%)
- * [Blue Scuttlebot Card](/items/blue-scuttlebot-card.md) (0.1%)
+ * [Exp Potion](/items/exp-potion) (3%)
+ * [Mechanic Bag](/items/mechanic-bag) (1%)
+ * [Egg](/items/egg) (1%)
+ * [Blue Scuttlebot Card](/items/blue-scuttlebot-card) (0.1%)

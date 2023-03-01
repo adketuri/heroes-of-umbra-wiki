@@ -1,7 +1,7 @@
 ---
 title: Robo-Bat
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -58,6 +58,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hyper Usali](/items/hyper-usali.md) (3%)
- * [Ember Vest](/items/ember-vest.md) (1%)
- * [Robo-Bat Card](/items/robo-bat-card.md) (0.1%)
+ * [Hyper Usali](/items/hyper-usali) (3%)
+ * [Ember Vest](/items/ember-vest) (1%)
+ * [Robo-Bat Card](/items/robo-bat-card) (0.1%)

@@ -2,7 +2,7 @@
 title: Horns
 description: Evil demon horns.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,7 +25,7 @@ Evil demon horns.
 |Def|12|
 
 # Dropped From
- * [Dark Beholder](/monsters/dark-beholder.md) (1%)
+ * [Dark Beholder](/monsters/dark-beholder) (1%)
 
 # Found in Treasures On Maps
  * [cave_c](/maps/cave_c)

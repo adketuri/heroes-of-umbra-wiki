@@ -2,7 +2,7 @@
 title: Cursed Dagger
 description: Defeat enemies to break the curse.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,4 +25,4 @@ Defeat enemies to break the curse.
 |Crit|6|
 
 # Dropped From
- * [Goblin](/monsters/goblin.md) (1%)
+ * [Goblin](/monsters/goblin) (1%)

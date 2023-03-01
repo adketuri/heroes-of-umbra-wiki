@@ -2,7 +2,7 @@
 title: Kappa Wand
 description: Kappas love this crude casting tool.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,5 +25,5 @@ Kappas love this crude casting tool.
 |Matk|22|
 
 # Dropped From
- * [Kappa Mage](/monsters/kappa-mage.md) (1%)
- * [Kappa Mage](/monsters/kappa-mage.md) (1%)
+ * [Kappa Mage](/monsters/kappa-mage) (1%)
+ * [Kappa Mage](/monsters/kappa-mage) (1%)

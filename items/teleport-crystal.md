@@ -2,7 +2,7 @@
 title: Teleport Crystal
 description: Teleport to the nearest town.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,5 +20,5 @@ Teleport to the nearest town.
 
 
 # Dropped From
- * [Goblin Witch](/monsters/goblin-witch.md) (3%)
- * [Camo. Yeti](/monsters/camo-yeti.md) (3%)
+ * [Goblin Witch](/monsters/goblin-witch) (3%)
+ * [Camo. Yeti](/monsters/camo-yeti) (3%)

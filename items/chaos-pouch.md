@@ -2,7 +2,7 @@
 title: Chaos Pouch
 description: Holds 135 items.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -20,5 +20,5 @@ Holds 135 items.
 
 
 # Dropped From
- * [Burning Slime](/monsters/burning-slime.md) (1%)
- * [Robo Beholder](/monsters/robo-beholder.md) (1%)
+ * [Burning Slime](/monsters/burning-slime) (1%)
+ * [Robo Beholder](/monsters/robo-beholder) (1%)

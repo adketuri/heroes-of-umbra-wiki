@@ -2,7 +2,7 @@
 title: Power Charm
 description: A charm symbolizing great strength.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,4 +25,4 @@ A charm symbolizing great strength.
 |Def|5|
 
 # Dropped From
- * [Kappa](/monsters/kappa.md) (1%)
+ * [Kappa](/monsters/kappa) (1%)

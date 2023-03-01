@@ -2,7 +2,7 @@
 title: Silver Brace
 description: A sturdy defensive accessory.
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,5 +26,5 @@ A sturdy defensive accessory.
 |Def|25|
 
 # Dropped From
- * [Robo Beholder](/monsters/robo-beholder.md) (1%)
- * [Henchman](/monsters/henchman.md) (1%)
+ * [Robo Beholder](/monsters/robo-beholder) (1%)
+ * [Henchman](/monsters/henchman) (1%)

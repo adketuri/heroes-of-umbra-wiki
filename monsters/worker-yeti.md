@@ -1,7 +1,7 @@
 ---
 title: Worker Yeti
 published: true
-date: 2023-02-22T22:56:13.000Z
+date: 2023-02-28T16:02:24.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,8 +61,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hot Tea](/items/hot-tea.md) (3%)
- * [Screw](/items/screw.md) (Quest, 20%)
- * [Pickaxe](/items/pickaxe.md) (1%)
- * [Apex MG](/items/apex-mg.md) (1%)
- * [Worker Yeti Card](/items/worker-yeti-card.md) (0.1%)
+ * [Hot Tea](/items/hot-tea) (3%)
+ * [Screw](/items/screw) (Quest, 20%)
+ * [Pickaxe](/items/pickaxe) (1%)
+ * [Apex MG](/items/apex-mg) (1%)
+ * [Worker Yeti Card](/items/worker-yeti-card) (0.1%)
