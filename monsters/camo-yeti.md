@@ -1,10 +1,11 @@
 ---
 title: Camo. Yeti
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:21.618Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:33:50.988Z
 ---
 
 # Tabs {.tabset}
@@ -61,8 +62,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Teleport Crystal](/items/teleport-crystal) (3%)
- * [Heal Ring](/items/heal-ring) (1%)
- * [Large Purse](/items/large-purse) (1%)
- * [Egg](/items/egg) (1%)
- * [Camo. Yeti Card](/items/camo-yeti-card) (0.1%)
+ * [Teleport Crystal](/items/teleport-crystal.md) (3%)
+ * [Heal Ring](/items/heal-ring.md) (1%)
+ * [Large Purse](/items/large-purse.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Camo. Yeti Card](/items/camo-yeti-card.md) (0.1%)

@@ -1,10 +1,11 @@
 ---
 title: Goblin
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:48.035Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:30.673Z
 ---
 
 # Tabs {.tabset}
@@ -61,8 +62,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Usali](/items/usali) (3%)
- * [Pumpkin](/items/pumpkin) (Quest, 20%)
- * [Cursed Dagger](/items/cursed-dagger) (1%)
- * [Egg](/items/egg) (1%)
- * [Goblin Card](/items/goblin-card) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [Pumpkin](/items/pumpkin.md) (Quest, 20%)
+ * [Cursed Dagger](/items/cursed-dagger.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Goblin Card](/items/goblin-card.md) (0.1%)

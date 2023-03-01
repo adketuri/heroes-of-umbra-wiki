@@ -2,10 +2,10 @@
 title: Matk Gem (wep)
 description: Compounds with Weapon. 30% success rate.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:17:35.495Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:48:17.108Z
 ---
 
 Compounds with Weapon. 30% success rate.

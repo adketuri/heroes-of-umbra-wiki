@@ -2,10 +2,10 @@
 title: Orb of Channel Spirits
 description: Channel Spirits also summons Spirit Strike repeatedly.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:22:53.748Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T00:22:51.507Z
 ---
 
 Channel Spirits also summons Spirit Strike repeatedly.

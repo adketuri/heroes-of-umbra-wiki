@@ -2,10 +2,10 @@
 title: Viking Skeleton Card
 description: A rare card from a monster.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:27:27.185Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:01:10.191Z
 ---
 
 A rare card from a monster.

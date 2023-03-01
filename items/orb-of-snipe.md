@@ -2,10 +2,10 @@
 title: Orb of Snipe
 description: Removes knockback from Snipe.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:23:51.430Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T00:23:49.147Z
 ---
 
 Removes knockback from Snipe.

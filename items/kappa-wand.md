@@ -2,10 +2,10 @@
 title: Kappa Wand
 description: Kappas love this crude casting tool.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:16:49.716Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:47:09.687Z
 ---
 
 Kappas love this crude casting tool.

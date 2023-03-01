@@ -1,10 +1,11 @@
 ---
 title: Goblin Witch
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:45.603Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:27.066Z
 ---
 
 # Tabs {.tabset}
@@ -55,8 +56,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Teleport Crystal](/items/teleport-crystal) (3%)
- * [Cloth Piece](/items/cloth-piece) (Quest, 20%)
- * [Cursed Broom](/items/cursed-broom) (1%)
- * [Kappa Pouch](/items/kappa-pouch) (1%)
- * [Goblin Witch Card](/items/goblin-witch-card) (0.1%)
+ * [Teleport Crystal](/items/teleport-crystal.md) (3%)
+ * [Cloth Piece](/items/cloth-piece.md) (Quest, 20%)
+ * [Cursed Broom](/items/cursed-broom.md) (1%)
+ * [Kappa Pouch](/items/kappa-pouch.md) (1%)
+ * [Goblin Witch Card](/items/goblin-witch-card.md) (0.1%)

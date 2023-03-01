@@ -1,10 +1,11 @@
 ---
 title: Red Slime
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:31.547Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:35.202Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Luck Potion](/items/luck-potion) (3%)
- * [Spiked Boots](/items/spiked-boots) (1%)
- * [Slime Hat](/items/slime-hat) (1%)
- * [Red Slime Card](/items/red-slime-card) (0.1%)
+ * [Luck Potion](/items/luck-potion.md) (3%)
+ * [Spiked Boots](/items/spiked-boots.md) (1%)
+ * [Slime Hat](/items/slime-hat.md) (1%)
+ * [Red Slime Card](/items/red-slime-card.md) (0.1%)

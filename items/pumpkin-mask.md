@@ -2,10 +2,10 @@
 title: Pumpkin Mask
 description: Carved like a Jack-o-Lantern.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:24:49.170Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:57:12.938Z
 ---
 
 Carved like a Jack-o-Lantern.

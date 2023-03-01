@@ -1,10 +1,11 @@
 ---
 title: Brobot
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:14.412Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:33:40.224Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hanatii](/items/hanatii) (3%)
- * [Villain Suit](/items/villain-suit) (1%)
- * [Matk Gem (helm)](/items/matk-gem-helm) (1%)
- * [Brobot Card](/items/brobot-card) (0.1%)
+ * [Hanatii](/items/hanatii.md) (3%)
+ * [Villain Suit](/items/villain-suit.md) (1%)
+ * [Matk Gem (helm)](/items/matk-gem-helm.md) (1%)
+ * [Brobot Card](/items/brobot-card.md) (0.1%)

@@ -2,10 +2,10 @@
 title: Orb of Blitz
 description: Boosts distance of Blitz.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:22:47.147Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T00:22:44.919Z
 ---
 
 Boosts distance of Blitz.

@@ -2,7 +2,7 @@
 title: Getting Started
 description: The quick how-to-play
 published: true
-date: 2023-02-13T01:09:27.169Z
+date: 2023-02-23T22:27:34.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T01:09:24.138Z

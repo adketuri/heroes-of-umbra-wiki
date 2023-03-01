@@ -1,10 +1,11 @@
 ---
 title: War Goose
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:46:07.295Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:28.920Z
 ---
 
 # Tabs {.tabset}
@@ -37,4 +38,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [War Goose Card](/items/war-goose-card) (0.1%)
+ * [War Goose Card](/items/war-goose-card.md) (0.1%)

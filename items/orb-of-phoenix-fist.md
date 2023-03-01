@@ -2,10 +2,10 @@
 title: Orb of Phoenix Fist
 description: Reduces cost of Phoenix Fist by 1 Spirit.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:23:35.077Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T00:23:32.857Z
 ---
 
 Reduces cost of Phoenix Fist by 1 Spirit.

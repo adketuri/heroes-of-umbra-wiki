@@ -2,10 +2,10 @@
 title: Yeti Hat
 description: A fashionable white yeti-shaped hat.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:28:10.734Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:02:16.164Z
 ---
 
 A fashionable white yeti-shaped hat.

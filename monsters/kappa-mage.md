@@ -1,10 +1,11 @@
 ---
 title: Kappa Mage
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:57.616Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:45.107Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Usali](/items/usali) (3%)
- * [Kappa Wand](/items/kappa-wand) (1%)
- * [Kappa Wand](/items/kappa-wand) (1%)
- * [Kappa Mage Card](/items/kappa-mage-card) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [Kappa Wand](/items/kappa-wand.md) (1%)
+ * [Kappa Wand](/items/kappa-wand.md) (1%)
+ * [Kappa Mage Card](/items/kappa-mage-card.md) (0.1%)

@@ -1,10 +1,11 @@
 ---
 title: Red Frog
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:26.753Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:28.007Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Super Usali](/items/super-usali) (3%)
- * [Rice Field Hat](/items/rice-field-hat) (1%)
- * [Backpack](/items/backpack) (1%)
- * [Red Frog Card](/items/red-frog-card) (0.1%)
+ * [Super Usali](/items/super-usali.md) (3%)
+ * [Rice Field Hat](/items/rice-field-hat.md) (1%)
+ * [Backpack](/items/backpack.md) (1%)
+ * [Red Frog Card](/items/red-frog-card.md) (0.1%)

@@ -1,10 +1,11 @@
 ---
 title: Dark Beholder
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:31.089Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:05.413Z
 ---
 
 # Tabs {.tabset}
@@ -55,7 +56,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Super Usali](/items/super-usali) (3%)
- * [Horns](/items/horns) (1%)
- * [Backpack](/items/backpack) (1%)
- * [Dark Beholder Card](/items/dark-beholder-card) (0.1%)
+ * [Super Usali](/items/super-usali.md) (3%)
+ * [Horns](/items/horns.md) (1%)
+ * [Backpack](/items/backpack.md) (1%)
+ * [Dark Beholder Card](/items/dark-beholder-card.md) (0.1%)

@@ -1,10 +1,11 @@
 ---
 title: Baby Yeti
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:43:54.854Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:33:11.617Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Meal](/items/monster-meal) (3%)
- * [Yeti Hat](/items/yeti-hat) (1%)
- * [Egg](/items/egg) (1%)
- * [Baby Yeti Card](/items/baby-yeti-card) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Yeti Hat](/items/yeti-hat.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Baby Yeti Card](/items/baby-yeti-card.md) (0.1%)

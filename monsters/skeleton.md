@@ -1,10 +1,11 @@
 ---
 title: Skeleton
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:45.924Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:56.655Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Undead|
 
 # Drops
- * [Usali](/items/usali) (3%)
- * [Bone Club](/items/bone-club) (1%)
- * [Egg](/items/egg) (1%)
- * [Skeleton Card](/items/skeleton-card) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [Bone Club](/items/bone-club.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Skeleton Card](/items/skeleton-card.md) (0.1%)

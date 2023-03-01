@@ -2,7 +2,7 @@
 title: Agile
 description: The fastest skills for hasty ones
 published: true
-date: 2023-02-13T02:03:50.946Z
+date: 2023-02-23T22:46:16.821Z
 tags: guide
 editor: markdown
 dateCreated: 2023-02-13T02:01:39.181Z

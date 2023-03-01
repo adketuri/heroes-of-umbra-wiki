@@ -1,10 +1,11 @@
 ---
 title: Pilot Snowman
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:19.584Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:17.238Z
 ---
 
 # Tabs {.tabset}
@@ -58,6 +59,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hyper Usali](/items/hyper-usali) (3%)
- * [Pickaxe](/items/pickaxe) (1%)
- * [Pilot Snowman Card](/items/pilot-snowman-card) (0.1%)
+ * [Hyper Usali](/items/hyper-usali.md) (3%)
+ * [Pickaxe](/items/pickaxe.md) (1%)
+ * [Pilot Snowman Card](/items/pilot-snowman-card.md) (0.1%)

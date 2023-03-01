@@ -2,10 +2,10 @@
 title: Devil Wings
 description: A very rare set of dark wings.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:14:07.170Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:43:06.478Z
 ---
 
 A very rare set of dark wings.

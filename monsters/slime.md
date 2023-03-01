@@ -1,10 +1,11 @@
 ---
 title: Slime
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:50.640Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:03.892Z
 ---
 
 # Tabs {.tabset}
@@ -52,7 +53,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Speed Pill](/items/speed-pill) (3%)
- * [Slime Hat](/items/slime-hat) (1%)
- * [Egg](/items/egg) (1%)
- * [Slime Card](/items/slime-card) (0.1%)
+ * [Speed Pill](/items/speed-pill.md) (3%)
+ * [Slime Hat](/items/slime-hat.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Slime Card](/items/slime-card.md) (0.1%)

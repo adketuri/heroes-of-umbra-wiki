@@ -1,10 +1,11 @@
 ---
 title: Zombie
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:46:14.499Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:39.897Z
 ---
 
 # Tabs {.tabset}
@@ -58,7 +59,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Undead|
 
 # Drops
- * [Usali](/items/usali) (3%)
- * [Magic Charm](/items/magic-charm) (1%)
- * [Green Revolver](/items/green-revolver) (1%)
- * [Zombie Card](/items/zombie-card) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [Magic Charm](/items/magic-charm.md) (1%)
+ * [Green Revolver](/items/green-revolver.md) (1%)
+ * [Zombie Card](/items/zombie-card.md) (0.1%)

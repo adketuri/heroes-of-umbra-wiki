@@ -1,10 +1,11 @@
 ---
 title: Dragonbot
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:33.482Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:08.913Z
 ---
 
 # Tabs {.tabset}
@@ -61,6 +62,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Evil Eye](/items/evil-eye) (15%)
- * [Mini Robo Yeti](/items/mini-robo-yeti) (15%)
- * [Dragonbot Card](/items/dragonbot-card) (0.1%)
+ * [Evil Eye](/items/evil-eye.md) (15%)
+ * [Mini Robo Yeti](/items/mini-robo-yeti.md) (15%)
+ * [Dragonbot Card](/items/dragonbot-card.md) (0.1%)

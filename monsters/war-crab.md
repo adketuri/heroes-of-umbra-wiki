@@ -1,10 +1,11 @@
 ---
 title: War Crab
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:46:02.681Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:21.725Z
 ---
 
 # Tabs {.tabset}
@@ -37,4 +38,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [War Crab Card](/items/war-crab-card) (0.1%)
+ * [War Crab Card](/items/war-crab-card.md) (0.1%)

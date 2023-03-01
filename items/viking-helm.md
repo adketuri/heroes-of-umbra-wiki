@@ -2,10 +2,10 @@
 title: Viking Helm
 description: Worn by ancient warriors of the North.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:27:24.876Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:01:05.483Z
 ---
 
 Worn by ancient warriors of the North.

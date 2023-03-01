@@ -2,10 +2,10 @@
 title: Shell Armor
 description: Armor adorned with snail shells.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:25:55.315Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:58:51.602Z
 ---
 
 Armor adorned with snail shells.

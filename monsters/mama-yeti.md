@@ -1,10 +1,11 @@
 ---
 title: Mama Yeti
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:10.090Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:03.009Z
 ---
 
 # Tabs {.tabset}
@@ -61,6 +62,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Yeti Armor](/items/yeti-armor) (15%)
- * [Angegar](/items/angegar) (15%)
- * [Mama Yeti Card](/items/mama-yeti-card) (0.1%)
+ * [Yeti Armor](/items/yeti-armor.md) (15%)
+ * [Angegar](/items/angegar.md) (15%)
+ * [Mama Yeti Card](/items/mama-yeti-card.md) (0.1%)

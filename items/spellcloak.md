@@ -2,10 +2,10 @@
 title: Spellcloak
 description: Powerful navy-colored casting armor.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:26:34.688Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:59:49.175Z
 ---
 
 Powerful navy-colored casting armor.

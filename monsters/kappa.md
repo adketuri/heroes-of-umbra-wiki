@@ -1,10 +1,11 @@
 ---
 title: Kappa
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:05.124Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:55.883Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Food](/items/monster-food) (3%)
- * [Power Charm](/items/power-charm) (1%)
- * [Egg](/items/egg) (1%)
- * [Kappa Card](/items/kappa-card) (0.1%)
+ * [Monster Food](/items/monster-food.md) (3%)
+ * [Power Charm](/items/power-charm.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Kappa Card](/items/kappa-card.md) (0.1%)

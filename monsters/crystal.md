@@ -1,10 +1,11 @@
 ---
 title: Crystal
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:28.686Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:01.741Z
 ---
 
 # Tabs {.tabset}
@@ -35,4 +36,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Crystal Card](/items/crystal-card) (0.1%)
+ * [Crystal Card](/items/crystal-card.md) (0.1%)

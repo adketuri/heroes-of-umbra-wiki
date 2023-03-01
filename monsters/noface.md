@@ -1,10 +1,11 @@
 ---
 title: Noface
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:14.802Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:10.143Z
 ---
 
 # Tabs {.tabset}
@@ -58,7 +59,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Usali](/items/usali) (3%)
- * [No Face Mask](/items/no-face-mask) (1%)
- * [Egg](/items/egg) (1%)
- * [Noface Card](/items/noface-card) (0.1%)
+ * [Usali](/items/usali.md) (3%)
+ * [No Face Mask](/items/no-face-mask.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Noface Card](/items/noface-card.md) (0.1%)

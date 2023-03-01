@@ -1,10 +1,11 @@
 ---
 title: Ghost
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:40.635Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:19.821Z
 ---
 
 # Tabs {.tabset}
@@ -58,7 +59,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Undead|
 
 # Drops
- * [Gem Box](/items/gem-box) (3%)
- * [Silk Robe](/items/silk-robe) (1%)
- * [Egg](/items/egg) (1%)
- * [Ghost Card](/items/ghost-card) (0.1%)
+ * [Gem Box](/items/gem-box.md) (3%)
+ * [Silk Robe](/items/silk-robe.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Ghost Card](/items/ghost-card.md) (0.1%)

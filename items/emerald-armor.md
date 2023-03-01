@@ -2,10 +2,10 @@
 title: Emerald Armor
 description: Armor forged for wise wizards.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:14:20.886Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:43:23.230Z
 ---
 
 Armor forged for wise wizards.

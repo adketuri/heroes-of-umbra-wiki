@@ -1,10 +1,11 @@
 ---
 title: Burning Slime
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:19.232Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:33:47.431Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Big Gem Box](/items/big-gem-box) (3%)
- * [Burnt Slime](/items/burnt-slime) (1%)
- * [Chaos Pouch](/items/chaos-pouch) (1%)
- * [Burning Slime Card](/items/burning-slime-card) (0.1%)
+ * [Big Gem Box](/items/big-gem-box.md) (3%)
+ * [Burnt Slime](/items/burnt-slime.md) (1%)
+ * [Chaos Pouch](/items/chaos-pouch.md) (1%)
+ * [Burning Slime Card](/items/burning-slime-card.md) (0.1%)

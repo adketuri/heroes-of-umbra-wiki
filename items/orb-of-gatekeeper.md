@@ -2,10 +2,10 @@
 title: Orb of Gatekeeper
 description: Touching a Gate heals HP.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:23:22.868Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T00:23:20.645Z
 ---
 
 Touching a Gate heals HP.

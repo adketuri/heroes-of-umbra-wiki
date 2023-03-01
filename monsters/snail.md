@@ -1,10 +1,11 @@
 ---
 title: Snail
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:53.013Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:07.539Z
 ---
 
 # Tabs {.tabset}
@@ -58,8 +59,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Meal](/items/monster-meal) (3%)
- * [Snail Shell](/items/snail-shell) (Quest, 20%)
- * [Bol](/items/bol) (1%)
- * [Shell Armor](/items/shell-armor) (1%)
- * [Snail Card](/items/snail-card) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Snail Shell](/items/snail-shell.md) (Quest, 20%)
+ * [Bol](/items/bol.md) (1%)
+ * [Shell Armor](/items/shell-armor.md) (1%)
+ * [Snail Card](/items/snail-card.md) (0.1%)

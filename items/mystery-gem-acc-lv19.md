@@ -2,10 +2,10 @@
 title: Mystery Gem (acc LV19)
 description: Contains a randomized Gem.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:18:45.787Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:50:06.231Z
 ---
 
 Contains a randomized Gem.

@@ -1,10 +1,11 @@
 ---
 title: Lava Zombie
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:07.518Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:59.365Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Undead|
 
 # Drops
- * [Hanatii](/items/hanatii) (3%)
- * [Zombie Charm](/items/zombie-charm) (1%)
- * [Lava Ray](/items/lava-ray) (1%)
- * [Lava Zombie Card](/items/lava-zombie-card) (0.1%)
+ * [Hanatii](/items/hanatii.md) (3%)
+ * [Zombie Charm](/items/zombie-charm.md) (1%)
+ * [Lava Ray](/items/lava-ray.md) (1%)
+ * [Lava Zombie Card](/items/lava-zombie-card.md) (0.1%)

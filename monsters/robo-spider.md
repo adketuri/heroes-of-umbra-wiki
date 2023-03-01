@@ -1,10 +1,11 @@
 ---
 title: Robo-Spider
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:38.823Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:45.997Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Feast](/items/monster-feast) (3%)
- * [Magma Knife](/items/magma-knife) (1%)
- * [Atk Gem (helm)](/items/atk-gem-helm) (1%)
- * [Robo-Spider Card](/items/robo-spider-card) (0.1%)
+ * [Monster Feast](/items/monster-feast.md) (3%)
+ * [Magma Knife](/items/magma-knife.md) (1%)
+ * [Atk Gem (helm)](/items/atk-gem-helm.md) (1%)
+ * [Robo-Spider Card](/items/robo-spider-card.md) (0.1%)

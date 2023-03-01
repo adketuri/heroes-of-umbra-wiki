@@ -2,10 +2,10 @@
 title: Army of One
 description: The final Armor.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:11:19.435Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:39:01.659Z
 ---
 
 The final Armor. This item's stats are randomly generated.

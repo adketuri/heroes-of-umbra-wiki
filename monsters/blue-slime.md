@@ -1,10 +1,11 @@
 ---
 title: Blue Slime
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:09.638Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:33:33.150Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Meal](/items/monster-meal) (3%)
- * [Frost Orb](/items/frost-orb) (1%)
- * [Heal Ring](/items/heal-ring) (1%)
- * [Blue Slime Card](/items/blue-slime-card) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Frost Orb](/items/frost-orb.md) (1%)
+ * [Heal Ring](/items/heal-ring.md) (1%)
+ * [Blue Slime Card](/items/blue-slime-card.md) (0.1%)

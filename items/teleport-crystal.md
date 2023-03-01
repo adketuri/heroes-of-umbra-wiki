@@ -2,10 +2,10 @@
 title: Teleport Crystal
 description: Teleport to the nearest town.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:27:06.742Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:00:37.284Z
 ---
 
 Teleport to the nearest town.

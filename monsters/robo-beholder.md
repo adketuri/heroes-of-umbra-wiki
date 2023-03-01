@@ -1,10 +1,11 @@
 ---
 title: Robo Beholder
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:36.446Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:42.392Z
 ---
 
 # Tabs {.tabset}
@@ -55,8 +56,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hanatii](/items/hanatii) (3%)
- * [Beholder Essence](/items/beholder-essence) (Quest, 20%)
- * [Silver Brace](/items/silver-brace) (1%)
- * [Chaos Pouch](/items/chaos-pouch) (1%)
- * [Robo Beholder Card](/items/robo-beholder-card) (0.1%)
+ * [Hanatii](/items/hanatii.md) (3%)
+ * [Beholder Essence](/items/beholder-essence.md) (Quest, 20%)
+ * [Silver Brace](/items/silver-brace.md) (1%)
+ * [Chaos Pouch](/items/chaos-pouch.md) (1%)
+ * [Robo Beholder Card](/items/robo-beholder-card.md) (0.1%)

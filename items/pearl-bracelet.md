@@ -2,10 +2,10 @@
 title: Pearl Bracelet
 description: A bracelet glistening white.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:24:21.908Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:56:32.261Z
 ---
 
 A bracelet glistening white.

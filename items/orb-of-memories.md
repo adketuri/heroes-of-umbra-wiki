@@ -2,10 +2,10 @@
 title: Orb of Memories
 description: An orb received from the Elder of a village by the sea.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:23:32.821Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:56:04.835Z
 ---
 
 An orb received from the Elder of a village by the sea.

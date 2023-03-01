@@ -1,5 +1,15 @@
 ---
 title: Outcast
+description: 
+published: true
+date: 2023-03-01T00:24:15.074Z
+tags: items
+editor: markdown
+dateCreated: 2023-02-17T06:56:21.993Z
+---
+
+---
+title: Outcast
 description: !final_gun_desc
 published: true
 date: 2023-02-28T16:02:24.000Z

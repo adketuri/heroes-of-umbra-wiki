@@ -1,10 +1,11 @@
 ---
 title: Skellybrute
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:48.313Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:00.218Z
 ---
 
 # Tabs {.tabset}
@@ -61,5 +62,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Undead|
 
 # Drops
- * [Healing Grace](/items/healing-grace) (3%)
- * [Skellybrute Card](/items/skellybrute-card) (0.1%)
+ * [Healing Grace](/items/healing-grace.md) (3%)
+ * [Skellybrute Card](/items/skellybrute-card.md) (0.1%)

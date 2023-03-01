@@ -2,10 +2,10 @@
 title: Orb of Focus
 description: Removes defense reduction from Focus.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:23:14.043Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T00:23:11.835Z
 ---
 
 Removes defense reduction from Focus.

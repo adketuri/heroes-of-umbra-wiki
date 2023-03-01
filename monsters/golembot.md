@@ -1,10 +1,11 @@
 ---
 title: Golembot
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:50.417Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:34.427Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Meal](/items/monster-meal) (3%)
- * [Bionic Arm](/items/bionic-arm) (1%)
- * [Egg](/items/egg) (1%)
- * [Golembot Card](/items/golembot-card) (0.1%)
+ * [Monster Meal](/items/monster-meal.md) (3%)
+ * [Bionic Arm](/items/bionic-arm.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Golembot Card](/items/golembot-card.md) (0.1%)

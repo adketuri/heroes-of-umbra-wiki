@@ -1,10 +1,11 @@
 ---
 title: Henchman
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:55.219Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:41.523Z
 ---
 
 # Tabs {.tabset}
@@ -58,6 +59,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Hyper Usali](/items/hyper-usali) (3%)
- * [Silver Brace](/items/silver-brace) (1%)
- * [Henchman Card](/items/henchman-card) (0.1%)
+ * [Hyper Usali](/items/hyper-usali.md) (3%)
+ * [Silver Brace](/items/silver-brace.md) (1%)
+ * [Henchman Card](/items/henchman-card.md) (0.1%)

@@ -2,10 +2,10 @@
 title: Maps
 description: A list of all maps
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:28:17.807Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-22T07:48:13.163Z
 ---
 
  * [beach](/maps/beach)

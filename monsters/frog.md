@@ -1,10 +1,11 @@
 ---
 title: Frog
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:38.259Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:16.063Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Super Usali](/items/super-usali) (3%)
- * [Spear](/items/spear) (1%)
- * [Egg](/items/egg) (1%)
- * [Frog Card](/items/frog-card) (0.1%)
+ * [Super Usali](/items/super-usali.md) (3%)
+ * [Spear](/items/spear.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Frog Card](/items/frog-card.md) (0.1%)

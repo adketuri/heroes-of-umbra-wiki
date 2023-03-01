@@ -2,10 +2,10 @@
 title: Wolf Cloak
 description: A warm cloak made of wolf pelt.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:27:52.156Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:01:48.429Z
 ---
 
 A warm cloak made of wolf pelt.

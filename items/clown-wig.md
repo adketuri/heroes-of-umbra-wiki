@@ -2,10 +2,10 @@
 title: Clown Wig
 description: A rainbow-colored afro wig.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:13:12.033Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:41:45.867Z
 ---
 
 A rainbow-colored afro wig.

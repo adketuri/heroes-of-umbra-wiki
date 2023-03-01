@@ -2,10 +2,10 @@
 title: Mdef Gem (arm)
 description: Compounds with Armor. 30% success rate.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:17:37.738Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:48:20.438Z
 ---
 
 Compounds with Armor. 30% success rate.

@@ -2,10 +2,10 @@
 title: Troll Broom
 description: A powerful broomstick used by Trolls.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:27:13.499Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:00:47.431Z
 ---
 
 A powerful broomstick used by Trolls.

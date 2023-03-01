@@ -2,10 +2,10 @@
 title: Super Usali
 description: Recovers 250 HP.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:26:59.722Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:00:26.885Z
 ---
 
 Recovers 250 HP.

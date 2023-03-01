@@ -1,4 +1,14 @@
 ---
+title: orb-of-spark
+description: 
+published: true
+date: 2023-03-01T00:23:54.845Z
+tags: 
+editor: markdown
+dateCreated: 2023-03-01T00:23:52.548Z
+---
+
+---
 title: Orb of Spark
 description: !orb_of_spark_desc
 published: true

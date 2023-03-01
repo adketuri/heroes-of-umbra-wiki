@@ -1,10 +1,11 @@
 ---
 title: Serpent
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:43.528Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:35:53.077Z
 ---
 
 # Tabs {.tabset}
@@ -52,4 +53,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Serpent Card](/items/serpent-card) (0.1%)
+ * [Serpent Card](/items/serpent-card.md) (0.1%)

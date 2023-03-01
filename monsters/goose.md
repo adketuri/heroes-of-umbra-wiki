@@ -1,10 +1,11 @@
 ---
 title: Goose
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:52.807Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:37.918Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Gem Box](/items/gem-box) (3%)
- * [Frostbite](/items/frostbite) (1%)
- * [Egg](/items/egg) (1%)
- * [Goose Card](/items/goose-card) (0.1%)
+ * [Gem Box](/items/gem-box.md) (3%)
+ * [Frostbite](/items/frostbite.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Goose Card](/items/goose-card.md) (0.1%)

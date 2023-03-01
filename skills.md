@@ -2,7 +2,7 @@
 title: Skills
 description: Skills and Skill Tree basics
 published: true
-date: 2023-02-13T07:25:27.028Z
+date: 2023-02-23T22:27:49.356Z
 tags: guide
 editor: markdown
 dateCreated: 2023-02-13T01:41:48.899Z

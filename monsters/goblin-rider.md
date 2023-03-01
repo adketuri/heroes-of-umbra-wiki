@@ -1,10 +1,11 @@
 ---
 title: Goblin Rider
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:44:43.075Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:23.337Z
 ---
 
 # Tabs {.tabset}
@@ -61,8 +62,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Gem Box](/items/gem-box) (3%)
- * [Pumpkin](/items/pumpkin) (Quest, 20%)
- * [Wolf Armor](/items/wolf-armor) (1%)
- * [Kappa Pouch](/items/kappa-pouch) (1%)
- * [Goblin Rider Card](/items/goblin-rider-card) (0.1%)
+ * [Gem Box](/items/gem-box.md) (3%)
+ * [Pumpkin](/items/pumpkin.md) (Quest, 20%)
+ * [Wolf Armor](/items/wolf-armor.md) (1%)
+ * [Kappa Pouch](/items/kappa-pouch.md) (1%)
+ * [Goblin Rider Card](/items/goblin-rider-card.md) (0.1%)

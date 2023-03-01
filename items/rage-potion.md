@@ -2,10 +2,10 @@
 title: Rage Potion
 description: Raises atk/Lowers def for ten minutes.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:24:56.001Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:57:23.091Z
 ---
 
 Raises atk/Lowers def for ten minutes.

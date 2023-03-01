@@ -2,10 +2,10 @@
 title: Burnt Slime
 description: It's burning, but put it on your head.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:12:51.022Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:41:15.691Z
 ---
 
 It's burning, but put it on your head.

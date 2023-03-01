@@ -1,10 +1,11 @@
 ---
 title: Bat
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:43:57.284Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:33:15.154Z
 ---
 
 # Tabs {.tabset}
@@ -61,7 +62,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Rage Potion](/items/rage-potion) (3%)
- * [Bat Mask](/items/bat-mask) (1%)
- * [Egg](/items/egg) (1%)
- * [Bat Card](/items/bat-card) (0.1%)
+ * [Rage Potion](/items/rage-potion.md) (3%)
+ * [Bat Mask](/items/bat-mask.md) (1%)
+ * [Egg](/items/egg.md) (1%)
+ * [Bat Card](/items/bat-card.md) (0.1%)

@@ -2,10 +2,10 @@
 title: Zombie Charm
 description: An old, accursed charm.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:28:15.266Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T07:02:22.945Z
 ---
 
 An old, accursed charm.

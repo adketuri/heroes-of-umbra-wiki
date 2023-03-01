@@ -1,10 +1,11 @@
 ---
 title: Kappa Warrior
+description: 
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-23T22:45:02.669Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:52.291Z
 ---
 
 # Tabs {.tabset}
@@ -52,7 +53,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Drops
- * [Monster Food](/items/monster-food) (3%)
- * [Kappa Blade](/items/kappa-blade) (1%)
- * [Strongshot](/items/strongshot) (1%)
- * [Kappa Warrior Card](/items/kappa-warrior-card) (0.1%)
+ * [Monster Food](/items/monster-food.md) (3%)
+ * [Kappa Blade](/items/kappa-blade.md) (1%)
+ * [Strongshot](/items/strongshot.md) (1%)
+ * [Kappa Warrior Card](/items/kappa-warrior-card.md) (0.1%)

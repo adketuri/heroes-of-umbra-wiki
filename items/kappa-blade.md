@@ -2,10 +2,10 @@
 title: Kappa Blade
 description: A blade fashioned from cheap metal.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-03-01T00:16:33.763Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:46:43.774Z
 ---
 
 A blade fashioned from cheap metal.
