@@ -1,14 +1,14 @@
 ---
-title: Orb of Weapon Toss
-description: Throws three copies of your weapon.
+title: Orb of Gate
+description: Boosts damage of Spirit Gate.
 published: true
-date: 2023-02-28T21:17:19.000Z
+date: 2023-02-28T21:22:33.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Throws three copies of your weapon.
+Boosts damage of Spirit Gate.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,4 @@ Throws three copies of your weapon.
 # Stats
 |Stat|Value|
 |-|-|
-|Crit|9|
-|Hp|7|
+|Hp|21|

@@ -2,7 +2,7 @@
 title: Physical
 description: The physical skill tree
 published: true
-date: 2023-02-13T07:18:59.660Z
+date: 2023-02-23T22:46:21.299Z
 tags: guide
 editor: markdown
 dateCreated: 2023-02-13T01:54:49.374Z

@@ -2,7 +2,7 @@
 title: Orb of Spark
 description: !orb_of_spark_desc
 published: true
-date: 2023-02-28T21:17:19.000Z
+date: 2023-02-28T21:22:33.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,4 +21,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Stats
 |Stat|Value|
 |-|-|
-|Mdef|21|
+|Cspd|6|
+|Hp|12|

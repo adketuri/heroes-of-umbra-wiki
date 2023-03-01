@@ -1,14 +1,14 @@
 ---
-title: Orb of Immunity
-description: Prevents Poison.
+title: Orb of Earthquake
+description: Reduces cost of Earthquake by 1EP.
 published: true
-date: 2023-02-28T21:17:19.000Z
+date: 2023-02-28T21:22:33.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Prevents Poison.
+Reduces cost of Earthquake by 1EP.
 
 |Attribute|Value|
 |-|-|
@@ -18,8 +18,3 @@ Prevents Poison.
 |Type|Orb|
 |Stackable|No|
 
-# Stats
-|Stat|Value|
-|-|-|
-|Atk|15|
-|Crit|12|
