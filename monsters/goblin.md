@@ -1,7 +1,7 @@
 ---
 title: Goblin
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,12 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|12|
 |Projectile|No|
 |Element|Neutral|
+
+# Found on Maps
+ * [forest_b (15)](/maps/forest_b)
+ * [forest_c (29)](/maps/forest_c)
+ * [forest_d (15)](/maps/forest_d)
+ * [forest_f (15)](/maps/forest_f)
 
 # Drops
  * [Usali](/items/usali) (3%)

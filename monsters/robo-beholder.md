@@ -1,7 +1,7 @@
 ---
 title: Robo Beholder
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -53,6 +53,15 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|39|
 |Projectile|Yes|
 |Element|Neutral|
+
+# Found on Maps
+ * [fact03 (15)](/maps/fact03)
+ * [fact04 (30)](/maps/fact04)
+ * [fact05 (15)](/maps/fact05)
+ * [fact06 (30)](/maps/fact06)
+ * [fact19 (15)](/maps/fact19)
+ * [fact20 (15)](/maps/fact20)
+ * [fact21 (30)](/maps/fact21)
 
 # Drops
  * [Hanatii](/items/hanatii) (3%)

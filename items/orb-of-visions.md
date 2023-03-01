@@ -1,14 +1,14 @@
 ---
-title: Orb of Berserk
-description: Increases crit damage while berserked.
+title: Orb of Visions
+description: Prevents Dark.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Increases crit damage while berserked.
+Prevents Dark.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,4 @@ Increases crit damage while berserked.
 # Stats
 |Stat|Value|
 |-|-|
-|Cspd|4|
-|Hp|2|
+|Cdmg|13|

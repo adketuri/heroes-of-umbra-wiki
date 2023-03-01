@@ -1,14 +1,14 @@
 ---
-title: Orb of Focus
-description: Removes defense reduction from Focus.
+title: Orb of Grenade Toss
+description: Grenade Toss lobs a second grenade.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Removes defense reduction from Focus.
+Grenade Toss lobs a second grenade.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,5 @@ Removes defense reduction from Focus.
 # Stats
 |Stat|Value|
 |-|-|
-|Mdef|6|
-|Crit|5|
+|Atk|19|
+|Cspd|8|

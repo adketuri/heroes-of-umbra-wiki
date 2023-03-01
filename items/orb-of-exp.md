@@ -1,14 +1,14 @@
 ---
-title: Orb of Regenerate
-description: Increases Regen rate
+title: Orb of Exp
+description: Boosts earned exp.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Increases Regen rate
+Boosts earned exp.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,5 @@ Increases Regen rate
 # Stats
 |Stat|Value|
 |-|-|
-|Cspd|5|
-|Hp|4|
+|Mdef|3|
+|Cspd|6|

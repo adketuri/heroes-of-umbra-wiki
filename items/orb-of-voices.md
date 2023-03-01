@@ -1,14 +1,14 @@
 ---
-title: Orb of Earthquake
-description: Reduces cost of Earthquake by 1EP.
+title: Orb of Voices
+description: Prevents Silence.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Reduces cost of Earthquake by 1EP.
+Prevents Silence.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,4 @@ Reduces cost of Earthquake by 1EP.
 # Stats
 |Stat|Value|
 |-|-|
-|Atk|6|
-|Crit|7|
+|Hp|8|

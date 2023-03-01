@@ -1,7 +1,7 @@
 ---
 title: Robo-Yeti
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|45|
 |Projectile|Yes|
 |Element|Neutral|
+
+# Found on Maps
+ * [fact07 (30)](/maps/fact07)
+ * [fact10 (30)](/maps/fact10)
+ * [fact12 (15)](/maps/fact12)
+ * [fact15 (30)](/maps/fact15)
+ * [fact17 (15)](/maps/fact17)
 
 # Drops
  * [Monster Feast](/items/monster-feast) (3%)

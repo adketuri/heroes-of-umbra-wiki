@@ -1,7 +1,7 @@
 ---
 title: Frog
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|17|
 |Projectile|No|
 |Element|Neutral|
+
+# Found on Maps
+ * [cave_k (15)](/maps/cave_k)
+ * [cave_l (29)](/maps/cave_l)
+ * [cave_n (29)](/maps/cave_n)
+ * [cave_o (29)](/maps/cave_o)
+ * [cave_w (29)](/maps/cave_w)
 
 # Drops
  * [Super Usali](/items/super-usali) (3%)

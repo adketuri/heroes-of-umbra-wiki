@@ -1,7 +1,7 @@
 ---
 title: Snail
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -56,6 +56,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|12|
 |Projectile|No|
 |Element|Neutral|
+
+# Found on Maps
+ * [field01 (30)](/maps/field01)
+ * [field02 (1)](/maps/field02)
+ * [field03 (1)](/maps/field03)
+ * [field05 (1)](/maps/field05)
+ * [field12 (1)](/maps/field12)
 
 # Drops
  * [Monster Meal](/items/monster-meal) (3%)

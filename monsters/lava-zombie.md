@@ -1,7 +1,7 @@
 ---
 title: Lava Zombie
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,10 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|55|
 |Projectile|Yes|
 |Element|Undead|
+
+# Found on Maps
+ * [cavefact1 (15)](/maps/cavefact1)
+ * [cavefact2 (15)](/maps/cavefact2)
 
 # Drops
  * [Hanatii](/items/hanatii) (3%)

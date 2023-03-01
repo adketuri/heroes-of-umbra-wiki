@@ -1,14 +1,14 @@
 ---
-title: Orb of Cooling
-description: Prevents Burn.
+title: Orb of Leap
+description: Increases Leap height.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Prevents Burn.
+Increases Leap height.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,5 @@ Prevents Burn.
 # Stats
 |Stat|Value|
 |-|-|
-|Atk|2|
-|Cdmg|8|
+|Matk|29|
+|Hp|7|

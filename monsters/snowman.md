@@ -1,7 +1,7 @@
 ---
 title: Snowman
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -56,6 +56,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|17|
 |Projectile|Yes|
 |Element|Neutral|
+
+# Found on Maps
+ * [snow10 (15)](/maps/snow10)
+ * [snow11 (15)](/maps/snow11)
+ * [snow13 (15)](/maps/snow13)
+ * [snow15 (14)](/maps/snow15)
+ * [snow9 (15)](/maps/snow9)
 
 # Drops
  * [Hot Tea](/items/hot-tea) (3%)

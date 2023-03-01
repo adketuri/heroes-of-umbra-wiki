@@ -1,7 +1,7 @@
 ---
 title: Red Scuttlebot
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,12 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|45|
 |Projectile|No|
 |Element|Neutral|
+
+# Found on Maps
+ * [fact04-c (30)](/maps/fact04-c)
+ * [fact04-d (30)](/maps/fact04-d)
+ * [fact04-f (30)](/maps/fact04-f)
+ * [fact04-g (30)](/maps/fact04-g)
 
 # Drops
  * [Exp Potion](/items/exp-potion) (3%)

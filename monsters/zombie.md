@@ -1,7 +1,7 @@
 ---
 title: Zombie
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -56,6 +56,10 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|12|
 |Projectile|Yes|
 |Element|Undead|
+
+# Found on Maps
+ * [forest7 (15)](/maps/forest7)
+ * [forest8 (15)](/maps/forest8)
 
 # Drops
  * [Usali](/items/usali) (3%)

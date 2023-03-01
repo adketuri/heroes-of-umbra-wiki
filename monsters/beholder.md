@@ -1,7 +1,7 @@
 ---
 title: Beholder
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -53,6 +53,14 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|5|
 |Projectile|Yes|
 |Element|Neutral|
+
+# Found on Maps
+ * [forest1 (15)](/maps/forest1)
+ * [forest2 (15)](/maps/forest2)
+ * [forest3 (30)](/maps/forest3)
+ * [forest6 (30)](/maps/forest6)
+ * [forest_a (15)](/maps/forest_a)
+ * [forest_g (15)](/maps/forest_g)
 
 # Drops
  * [Usali](/items/usali) (3%)

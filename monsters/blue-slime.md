@@ -1,7 +1,7 @@
 ---
 title: Blue Slime
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,19 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|20|
 |Projectile|No|
 |Element|Neutral|
+
+# Found on Maps
+ * [snow1 (15)](/maps/snow1)
+ * [snow14 (15)](/maps/snow14)
+ * [snow2 (15)](/maps/snow2)
+ * [snow27 (14)](/maps/snow27)
+ * [snow28 (14)](/maps/snow28)
+ * [snow29 (15)](/maps/snow29)
+ * [snow3 (15)](/maps/snow3)
+ * [snow4 (15)](/maps/snow4)
+ * [snow5 (15)](/maps/snow5)
+ * [snow6 (15)](/maps/snow6)
+ * [snow7 (14)](/maps/snow7)
 
 # Drops
  * [Monster Meal](/items/monster-meal) (3%)

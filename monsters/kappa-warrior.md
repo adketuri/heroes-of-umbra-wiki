@@ -1,7 +1,7 @@
 ---
 title: Kappa Warrior
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -50,6 +50,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|17|
 |Projectile|No|
 |Element|Neutral|
+
+# Found on Maps
+ * [cave_a (14)](/maps/cave_a)
+ * [cave_b (14)](/maps/cave_b)
+ * [cave_d (14)](/maps/cave_d)
+ * [cave_g (14)](/maps/cave_g)
+ * [cave_r (14)](/maps/cave_r)
 
 # Drops
  * [Monster Food](/items/monster-food) (3%)

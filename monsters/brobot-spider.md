@@ -1,7 +1,7 @@
 ---
 title: Brobot Spider
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -59,6 +59,9 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|100|
 |Projectile|Yes|
 |Element|Neutral|
+
+# Found on Maps
+ * [fact29 (30)](/maps/fact29)
 
 # Drops
  * [Exp Potion](/items/exp-potion) (3%)

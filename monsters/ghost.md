@@ -1,7 +1,7 @@
 ---
 title: Ghost
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -56,6 +56,11 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Money|12|
 |Projectile|No|
 |Element|Undead|
+
+# Found on Maps
+ * [snow12 (30)](/maps/snow12)
+ * [snow25 (30)](/maps/snow25)
+ * [snow8 (30)](/maps/snow8)
 
 # Drops
  * [Gem Box](/items/gem-box) (3%)

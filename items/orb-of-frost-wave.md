@@ -1,14 +1,14 @@
 ---
-title: Orb of Blitz
-description: Boosts distance of Blitz.
+title: Orb of Frost Wave
+description: Frost Wave launches in both directions.
 published: true
-date: 2023-02-28T16:02:24.000Z
+date: 2023-02-28T21:17:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Boosts distance of Blitz.
+Frost Wave launches in both directions.
 
 |Attribute|Value|
 |-|-|
@@ -21,4 +21,5 @@ Boosts distance of Blitz.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|4|
+|Crit|2|
+|Cdmg|14|
