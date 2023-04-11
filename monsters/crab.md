@@ -1,7 +1,7 @@
 ---
 title: Crab
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -52,9 +52,9 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [beachroad (30)](/maps/beachroad)
- * [beachroad2 (30)](/maps/beachroad2)
- * [beachroad3 (30)](/maps/beachroad3)
+ * [beachroad (40)](/maps/beachroad)
+ * [beachroad2 (40)](/maps/beachroad2)
+ * [beachroad3 (40)](/maps/beachroad3)
 
 # Drops
  * [Usali](/items/usali) (3%)

@@ -1,7 +1,7 @@
 ---
 title: Crystal
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -45,13 +45,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [cave_n (1)](/maps/cave_n)
  * [cave_o (1)](/maps/cave_o)
  * [cave_r (1)](/maps/cave_r)
- * [cave_secret5 (30)](/maps/cave_secret5)
+ * [cave_secret5 (40)](/maps/cave_secret5)
  * [cave_w (1)](/maps/cave_w)
  * [snow15 (1)](/maps/snow15)
- * [snow16 (15)](/maps/snow16)
+ * [snow16 (20)](/maps/snow16)
  * [snow27 (1)](/maps/snow27)
  * [snow28 (1)](/maps/snow28)
- * [snow30 (15)](/maps/snow30)
+ * [snow30 (20)](/maps/snow30)
  * [snow7 (1)](/maps/snow7)
 
 # Drops

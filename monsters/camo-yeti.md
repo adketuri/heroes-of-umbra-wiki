@@ -1,7 +1,7 @@
 ---
 title: Camo. Yeti
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,12 +61,12 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [field02 (29)](/maps/field02)
- * [field03 (29)](/maps/field03)
- * [field05 (29)](/maps/field05)
- * [field06 (29)](/maps/field06)
- * [field09 (29)](/maps/field09)
- * [field12 (29)](/maps/field12)
+ * [field02 (39)](/maps/field02)
+ * [field03 (39)](/maps/field03)
+ * [field05 (39)](/maps/field05)
+ * [field06 (39)](/maps/field06)
+ * [field09 (39)](/maps/field09)
+ * [field12 (39)](/maps/field12)
 
 # Drops
  * [Teleport Crystal](/items/teleport-crystal) (3%)

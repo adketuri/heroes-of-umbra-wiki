@@ -1,7 +1,7 @@
 ---
 title: Kappa Mage
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,11 +61,11 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [cave_a (15)](/maps/cave_a)
- * [cave_b (15)](/maps/cave_b)
- * [cave_d (15)](/maps/cave_d)
- * [cave_g (15)](/maps/cave_g)
- * [cave_r (15)](/maps/cave_r)
+ * [cave_a (20)](/maps/cave_a)
+ * [cave_b (20)](/maps/cave_b)
+ * [cave_d (20)](/maps/cave_d)
+ * [cave_g (20)](/maps/cave_g)
+ * [cave_r (20)](/maps/cave_r)
 
 # Drops
  * [Usali](/items/usali) (3%)

@@ -1,7 +1,7 @@
 ---
 title: Kappa Ninja
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,8 +61,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [cave_s (30)](/maps/cave_s)
- * [cave_t (30)](/maps/cave_t)
+ * [cave_s (40)](/maps/cave_s)
+ * [cave_t (40)](/maps/cave_t)
 
 # Drops
  * [Monster Food](/items/monster-food) (3%)

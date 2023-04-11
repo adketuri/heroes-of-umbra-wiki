@@ -1,7 +1,7 @@
 ---
 title: Papa Troll
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -64,6 +64,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [forestboss (1)](/maps/forestboss)
 
 # Drops
- * [Troll Club](/items/troll-club) (15%)
- * [Troll Mask](/items/troll-mask) (15%)
+ * [Troll Club](/items/troll-club) (11%)
+ * [Troll Mask](/items/troll-mask) (11%)
  * [Papa Troll Card](/items/papa-troll-card) (0.1%)

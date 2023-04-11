@@ -1,7 +1,7 @@
 ---
 title: Goose
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,11 +61,11 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [snow1 (15)](/maps/snow1)
- * [snow14 (15)](/maps/snow14)
- * [snow2 (15)](/maps/snow2)
- * [snow29 (15)](/maps/snow29)
- * [snow3 (15)](/maps/snow3)
+ * [snow1 (20)](/maps/snow1)
+ * [snow14 (20)](/maps/snow14)
+ * [snow2 (20)](/maps/snow2)
+ * [snow29 (20)](/maps/snow29)
+ * [snow3 (20)](/maps/snow3)
 
 # Drops
  * [Gem Box](/items/gem-box) (3%)

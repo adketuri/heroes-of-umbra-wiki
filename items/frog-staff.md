@@ -2,7 +2,7 @@
 title: Frog Staff
 description: 30% chance to poison on hit.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,4 +26,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Cspd|20|
 
 # Dropped From
- * [Frog King](/monsters/frog-king) (15%)
+ * [Frog King](/monsters/frog-king) (11%)

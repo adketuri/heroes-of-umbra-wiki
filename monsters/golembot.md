@@ -1,7 +1,7 @@
 ---
 title: Golembot
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -61,11 +61,11 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [fact19 (15)](/maps/fact19)
- * [fact20 (15)](/maps/fact20)
- * [fact31 (15)](/maps/fact31)
- * [fact32 (15)](/maps/fact32)
- * [fact33 (15)](/maps/fact33)
+ * [fact19 (20)](/maps/fact19)
+ * [fact20 (20)](/maps/fact20)
+ * [fact31 (20)](/maps/fact31)
+ * [fact32 (20)](/maps/fact32)
+ * [fact33 (20)](/maps/fact33)
 
 # Drops
  * [Monster Meal](/items/monster-meal) (3%)

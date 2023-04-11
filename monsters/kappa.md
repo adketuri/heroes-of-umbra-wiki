@@ -1,7 +1,7 @@
 ---
 title: Kappa
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -17,7 +17,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Power|20|
 |Stamina|12|
 |Wisdom|10|
-|Atk|10|
+|Atk|12|
 |Matk|20|
 |Def|20|
 |Mdef|20|
@@ -33,7 +33,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Power|20|
 |Stamina|12|
 |Wisdom|10|
-|Atk|35|
+|Atk|42|
 |Matk|70|
 |Def|20|
 |Mdef|20|
@@ -49,7 +49,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Power|40|
 |Stamina|12|
 |Wisdom|20|
-|Atk|52|
+|Atk|63|
 |Matk|105|
 |Def|30|
 |Mdef|30|
@@ -61,12 +61,12 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [cave1 (15)](/maps/cave1)
- * [cave2 (15)](/maps/cave2)
- * [cave3 (15)](/maps/cave3)
- * [cave4 (15)](/maps/cave4)
- * [cave_j (30)](/maps/cave_j)
- * [cave_k (15)](/maps/cave_k)
+ * [cave1 (20)](/maps/cave1)
+ * [cave2 (20)](/maps/cave2)
+ * [cave3 (20)](/maps/cave3)
+ * [cave4 (20)](/maps/cave4)
+ * [cave_j (40)](/maps/cave_j)
+ * [cave_k (20)](/maps/cave_k)
 
 # Drops
  * [Monster Food](/items/monster-food) (3%)

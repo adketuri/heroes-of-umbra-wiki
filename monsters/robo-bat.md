@@ -1,7 +1,7 @@
 ---
 title: Robo-Bat
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -58,9 +58,9 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Element|Neutral|
 
 # Found on Maps
- * [fact12 (15)](/maps/fact12)
- * [fact14 (30)](/maps/fact14)
- * [fact17 (15)](/maps/fact17)
+ * [fact12 (20)](/maps/fact12)
+ * [fact14 (40)](/maps/fact14)
+ * [fact17 (20)](/maps/fact17)
 
 # Drops
  * [Hyper Usali](/items/hyper-usali) (3%)

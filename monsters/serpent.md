@@ -1,7 +1,7 @@
 ---
 title: Serpent
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,7 +21,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Matk|10|
 |Def|10|
 |Mdef|10|
-|ExpVal|400|
+|ExpVal|200|
 ## Rebirth Stats
 
 |Stat|Value|
@@ -34,7 +34,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Matk|35|
 |Def|10|
 |Mdef|10|
-|ExpVal|1,400|
+|ExpVal|700|
 ## Orb Garden Stats
 
 |Stat|Value|
@@ -47,7 +47,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Matk|52|
 |Def|15|
 |Mdef|15|
-|ExpVal|16,800|
+|ExpVal|9,800|
 |Projectile|No|
 |Element|Neutral|
 

@@ -1,7 +1,7 @@
 ---
 title: Skellybrute
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -13,56 +13,60 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|82,000|
-|Power|85|
-|Stamina|120|
-|Wisdom|80|
-|Atk|115|
-|Matk|100|
-|Def|105|
-|Mdef|95|
-|WalkSpeed|45|
+|HP|94,000|
+|Power|80|
+|Stamina|110|
+|Wisdom|90|
+|Atk|105|
+|Matk|115|
+|Def|95|
+|Mdef|105|
+|WalkSpeed|40|
 |JumpPower|70|
-|ExpVal|248,000|
-|Money|123|
+|ExpVal|450,000|
+|Money|150|
 ## Rebirth Stats
 
 |Stat|Value|
 |-|-|
-|HP|410,000|
-|Power|85|
-|Stamina|120|
-|Wisdom|80|
-|Atk|402|
-|Matk|350|
-|Def|105|
-|Mdef|95|
-|WalkSpeed|45|
+|HP|470,000|
+|Power|80|
+|Stamina|110|
+|Wisdom|90|
+|Atk|367|
+|Matk|402|
+|Def|95|
+|Mdef|105|
+|WalkSpeed|40|
 |JumpPower|70|
-|ExpVal|868,000|
-|Money|123|
+|ExpVal|1,575,000|
+|Money|150|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|1,642,500|
-|Power|170|
-|Stamina|120|
-|Wisdom|160|
-|Atk|602|
-|Matk|525|
-|Def|157|
-|Mdef|142|
-|WalkSpeed|45|
+|HP|942,500|
+|Power|80|
+|Stamina|110|
+|Wisdom|90|
+|Atk|549|
+|Matk|602|
+|Def|142|
+|Mdef|157|
+|WalkSpeed|40|
 |JumpPower|70|
-|ExpVal|8,682,800|
-|Money|123|
+|ExpVal|15,752,800|
+|Money|150|
 |Projectile|Yes|
 |Element|Undead|
 
 # Found on Maps
- * [castle1 (30)](/maps/castle1)
+ * [castle13 (20)](/maps/castle13)
+ * [castle14 (20)](/maps/castle14)
+ * [castle18 (20)](/maps/castle18)
 
 # Drops
- * [Healing Grace](/items/healing-grace) (3%)
+ * [Hanatii](/items/hanatii) (3%)
+ * [Big Scraps Stash](/items/big-scraps-stash) (1%)
+ * [Egg](/items/egg) (1%)
  * [Skellybrute Card](/items/skellybrute-card) (0.1%)

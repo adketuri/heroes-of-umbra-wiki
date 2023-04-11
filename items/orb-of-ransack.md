@@ -1,14 +1,14 @@
 ---
 title: Orb of Ransack
-description: Increases Ransack distance.
+description: Reduces Ransack cooldown.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Increases Ransack distance.
+Reduces Ransack cooldown.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,4 @@ Increases Ransack distance.
 # Stats
 |Stat|Value|
 |-|-|
-|Mdef|9|
-|Cspd|1|
+|Def|22|

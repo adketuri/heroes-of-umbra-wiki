@@ -2,7 +2,7 @@
 title: Maps
 description: A list of all maps
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: maps
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -44,6 +44,11 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [castle14](/maps/castle14)
  * [castle15](/maps/castle15)
  * [castle16](/maps/castle16)
+ * [castle17](/maps/castle17)
+ * [castle18](/maps/castle18)
+ * [castle19](/maps/castle19)
+ * [castle20](/maps/castle20)
+ * [castle21](/maps/castle21)
  * [cave_a](/maps/cave_a)
  * [cave_b](/maps/cave_b)
  * [cave_c](/maps/cave_c)

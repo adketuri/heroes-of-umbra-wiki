@@ -1,7 +1,7 @@
 ---
 title: Brobot Spider
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-04-11T10:17:38.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -24,7 +24,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |WalkSpeed|45|
 |JumpPower|80|
 |ExpVal|25,000|
-|Money|100|
+|Money|150|
 ## Rebirth Stats
 
 |Stat|Value|
@@ -40,7 +40,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |WalkSpeed|45|
 |JumpPower|80|
 |ExpVal|87,500|
-|Money|100|
+|Money|150|
 ## Orb Garden Stats
 
 |Stat|Value|
@@ -56,12 +56,12 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |WalkSpeed|45|
 |JumpPower|80|
 |ExpVal|877,800|
-|Money|100|
+|Money|150|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Found on Maps
- * [fact29 (30)](/maps/fact29)
+ * [fact29 (40)](/maps/fact29)
 
 # Drops
  * [Exp Potion](/items/exp-potion) (3%)
