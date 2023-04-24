@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-04-24T21:13:56.733Z
+date: 2023-04-24T21:20:16.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -57,6 +57,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Items can be locked to prevent accidental selling/dropping.
 * Added many more [Orbs](item-types/orb)
 * Rare items now have an aura/ping sound that plays when they're dropped
+* Summoned companions no longer need to be resummoned upon exiting/reloading a character.
 * Chests sparkle ✨
 * Many effect animations got a bit larger: impact/jump/cast
 * Many drop icons have been updated
@@ -67,4 +68,5 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Stat points no longer go crazy with multiple rebirths.
 * Unopened gates no longer automatically open when relaunching the client.
 * Storage items no longer duplicate in specific circumstances.
+* Generating new mystery gear/gems now checks if you have enough inventory space, to prevent possibly losing gear.
 # 1.2.0
