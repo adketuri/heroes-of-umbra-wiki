@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-03-25T23:42:26.539Z
+date: 2023-04-24T21:00:13.857Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -25,6 +25,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Significantly revamped the [Orb Gardens](/dungeons/orb-gardens) progression
 	* Maze size increases and monster changes are more gradual
   * Tweaked medusa/snake exp.
+* Added several new chunk variants (more map variety).
 * Orb rank is deducted when you first enter the garden, not when you run out of time. 
 * New vendor with a unique bartering system to obtain rare items.
 * Mystery gems acquired in gardens now have tiers.
@@ -54,6 +55,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Chests sparkle ✨
 * Many effect animations got a bit larger: impact/jump/cast
 * Many drop icons have been updated
+* Players can send emoticons to other players via [Slash Commands](slash-commands).
 
 ## Bugfixes
 * Weapon mastery wasn't working correctly with endure.
