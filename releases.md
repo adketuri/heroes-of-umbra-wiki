@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-04-24T21:00:13.857Z
+date: 2023-04-24T21:13:56.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -47,6 +47,11 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * The exp curve got an overhaul. 
 	* Every level takes a flat 20% more exp (rebirth and normal). 
   * Rebirth compounded exp needed per rank reduced from +30% to +25%.
+* Attack speed is nerfed slightly
+  * Dagger mastery now gives attack speed instead of damage
+  * This is primarily to balance swords vs daggers, and keep the playstyles distinct. Attack speed in general is very powerful and easy to max. These changes should require a bit more specialization.
+* Crit past 100 gives a chance to deal Perfect Critical hits.
+  * These have a new animation/sound effect and deal boosted damage.
 
 ## Other Features and Additions
 * Items can be locked to prevent accidental selling/dropping.
