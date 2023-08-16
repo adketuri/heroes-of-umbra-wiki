@@ -2,11 +2,29 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-04-24T21:20:16.819Z
+date: 2023-08-16T18:11:22.518Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.2
+* Added jump gems for armor + accessories.
+* Rebalanced Summoner a bit
+  * Storm damage scaled back a bit
+  * Offensive summon fireball damage reduced
+* Drops that fall off a map/land in lava automatically respawn above the player (experimental)
+* Fixed bugs as a result of the storage revamp
+  * Wrong character slot would reload opening storage
+  * Adding gems to gear got weird sometimes
+  
+# 1.3.1
+* Merge with the obsolete android branch
+  * This adds back the CashmereCat cap and jump frames from 1.2.9.
+* More robust save data/storage tweaks
+* Orb of Weapon Toss makes weapon toss spammable
+* Fix Medusa poison damage formula from going negative at lower levels
+* Boost the max number of chests in Gardens.
 
 # 1.3.0
 ## New Dungeon: Onyx Keep
@@ -69,4 +87,5 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Unopened gates no longer automatically open when relaunching the client.
 * Storage items no longer duplicate in specific circumstances.
 * Generating new mystery gear/gems now checks if you have enough inventory space, to prevent possibly losing gear.
+
 # 1.2.0
