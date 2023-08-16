@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2023-02-23T22:27:36.700Z
+date: 2023-08-16T18:12:02.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T07:51:26.773Z
@@ -15,6 +15,7 @@ Heroes of Umbra is available on [Steam](https://store.steampowered.com/app/64538
 Once a fabled assassin, you hunted those who jeopardized the order and balance of your home village. Now, after a blinding flash of light during a routine mission to stop a murderer who calls himself The Apprentice, you find yourself alone on a mysterious island with little recollection of the task at hand. Can you recall and complete your original mission and stop this mysterious killer before he reaches his target?
 
 # Popular Destinations
+* [Version History](/releases)
 * [Getting Started](/getting-started)
 * [Multiplayer](/multiplayer)
 * [Skills](/skills)
