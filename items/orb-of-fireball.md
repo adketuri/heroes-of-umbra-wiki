@@ -2,7 +2,7 @@
 title: Orb of Fireball
 description: Fireball casts two extra fireballs.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-16T17:15:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,4 @@ Fireball casts two extra fireballs.
 # Stats
 |Stat|Value|
 |-|-|
-|Def|8|
-|Hp|16|
+|Hp|35|

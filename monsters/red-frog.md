@@ -1,7 +1,7 @@
 ---
 title: Red Frog
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-16T17:15:19.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -67,4 +67,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [Super Usali](/items/super-usali) (3%)
  * [Rice Field Hat](/items/rice-field-hat) (1%)
  * [Backpack](/items/backpack) (1%)
+ * [Jump Gem (acc)](/items/jump-gem-acc) (1%)
  * [Red Frog Card](/items/red-frog-card) (0.1%)

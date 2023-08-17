@@ -1,14 +1,14 @@
 ---
 title: Orb of Spark
-description: !orb_of_spark_desc
+description: Spark triggers multiple times.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-16T17:15:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-!orb_of_spark_desc
+Spark triggers multiple times.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 # Stats
 |Stat|Value|
 |-|-|
-|Cspd|6|
-|Hp|12|
+|Matk|8|
+|Mdef|24|

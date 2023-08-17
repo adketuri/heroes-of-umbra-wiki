@@ -1,14 +1,14 @@
 ---
 title: Outcast
-description: !final_gun_desc
+description: It's the final gun
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-16T17:15:19.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-!final_gun_desc This item's stats are randomly generated.
+It's the final gun This item's stats are randomly generated.
 
 |Attribute|Value|
 |-|-|
