@@ -2,11 +2,21 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-16T18:11:22.518Z
+date: 2023-08-19T15:29:17.653Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.3
+* Prevent a softlock when attempting to upgrade gems with no upgradable attributes
+* Persist companion egg lock state when summoning/dismissing companions.
+* Fix another issue with seconds played copying to other save slots
+* Allow moving by page in the storage menu with left/right keys.
+* Reduce the variance in orb garden sizes and bump down the size scaling based on orb rank slightly.
+* Fix a longstanding bug with collisions where sometimes enemies would get hit multiple times when they shouldn't.
+	* Related, the Weapon Toss collision is a lot better. It hits a max of two times more consistently.
+  * This technically nerfs builds that rely on certain skills like fireball, against bosses. I may revisit certain damage formulas in the future -- let me know what you think.
 
 # 1.3.2
 * Added jump gems for armor + accessories.
