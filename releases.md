@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-19T15:35:50.265Z
+date: 2023-08-19T17:52:15.689Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -14,6 +14,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Fix another issue with seconds played copying to other save slots
 * Allow moving by page in the storage menu with left/right keys.
 * Reduce the variance in orb garden sizes and bump down the size scaling based on orb rank slightly.
+* Force equipment drops to 9 slots and scale random stat rolls based on orb rank. (Rebirth-mode only.)
 * Fix a longstanding bug with collisions where sometimes enemies would get hit multiple times when they shouldn't.
 	* Related, the Weapon Toss collision is a lot better. It hits a max of two times more consistently.
   * This technically nerfs builds that rely on certain skills like fireball, against bosses. I may revisit certain damage formulas in the future -- let me know what you think.
