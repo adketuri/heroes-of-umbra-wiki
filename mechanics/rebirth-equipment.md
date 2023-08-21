@@ -2,7 +2,7 @@
 title: Rebirth Equipment
 description: Stat generation for equipment dropped from enemies/chests in Rebirth Mode
 published: true
-date: 2023-08-21T06:13:38.777Z
+date: 2023-08-21T06:17:19.420Z
 tags: mechanics, equipment, rebirth
 editor: markdown
 dateCreated: 2023-08-21T06:13:38.777Z
@@ -30,3 +30,6 @@ rolls = 2 + min(rank, 100) / 35
 ```
 
 Continuing the Deathfalchion example, assuming rank 100 we get 4 total rolls. The boost amount is 37 attack with a base attribute of 60 attack, so a theoretical max attack on this weapon is 208. (`60 + 37 * 4`). Since Deathfalchion has two attributes (attack and crit) the probability of a Deathfalchion drop having max attack is 1/16. 
+
+# Changes
+* Prior to 1.3.5, Boost amount was +1% per rank and the max number of rolls was 6.
