@@ -2,7 +2,7 @@
 title: Welcome
 description: 
 published: true
-date: 2023-08-16T18:12:02.122Z
+date: 2023-08-21T06:18:28.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T07:51:26.773Z
@@ -23,3 +23,4 @@ Once a fabled assassin, you hunted those who jeopardized the order and balance o
 * [Items](/items)
 * [Upgrading](/upgrading)
 * [Monsters](/monsters)
+* [Mechanics](/mechanics)
