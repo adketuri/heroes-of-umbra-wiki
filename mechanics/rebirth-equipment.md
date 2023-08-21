@@ -2,7 +2,7 @@
 title: Rebirth Equipment
 description: Stat generation for equipment dropped from enemies/chests in Rebirth Mode
 published: true
-date: 2023-08-21T06:17:19.420Z
+date: 2023-08-21T06:17:49.733Z
 tags: mechanics, equipment, rebirth
 editor: markdown
 dateCreated: 2023-08-21T06:13:38.777Z
