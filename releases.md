@@ -2,11 +2,23 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-19T17:52:15.689Z
+date: 2023-08-21T03:10:16.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.5
+* Prevent an occasional crash with overspawning enemies in gardens.
+* Handle transforming gear better, so item attributes aren't sometimes lost.
+* Swap some confusing text on upgrading orbs
+* Scale back stats on the randomized gear a bit.
+
+# 1.3.4
+* Persist map seeds to enable saving bonus data
+* Adjust [Tome of Gardens](/items/tome-of-gardens) to gradually decay in success rate. Past rank 100 it can't be used to raise orb ranks.
+  * This is to encourage running gardens instead of farming items to reach higher orb/prestige levels.
+* Require all bosses/cutscenes to be watched before a character can rebirth.
 
 # 1.3.3
 * Prevent a softlock when attempting to upgrade gems with no upgradable attributes
