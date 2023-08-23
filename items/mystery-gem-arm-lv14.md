@@ -2,10 +2,10 @@
 title: Mystery Gem (arm Lv.14)
 description: Contains a randomized Gem.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:31:30.920Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:51:13.693Z
 ---
 
 Contains a randomized Gem.

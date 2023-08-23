@@ -2,7 +2,7 @@
 title: Mystery Equipment
 description: How stats are generated when you open that Mystery Weapon.
 published: true
-date: 2023-08-21T06:40:58.539Z
+date: 2023-08-21T06:41:01.978Z
 tags: mechanics, rebirth
 editor: markdown
 dateCreated: 2023-08-21T06:30:11.356Z

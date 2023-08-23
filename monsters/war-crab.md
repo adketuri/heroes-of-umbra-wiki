@@ -1,10 +1,11 @@
 ---
 title: War Crab
+description: 
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:53:45.181Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:36:21.725Z
 ---
 
 # Tabs {.tabset}

@@ -2,10 +2,10 @@
 title: Orb of Yetis
 description: An orb discovered high atop the mountains.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:36:51.028Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:56:11.643Z
 ---
 
 An orb discovered high atop the mountains.

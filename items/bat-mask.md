@@ -2,10 +2,10 @@
 title: Bat Mask
 description: A strange mask full of dark energy.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:21:17.814Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:39:38.514Z
 ---
 
 A strange mask full of dark energy.

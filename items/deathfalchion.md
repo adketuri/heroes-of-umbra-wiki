@@ -2,10 +2,10 @@
 title: Deathfalchion
 description: A dark sword with a mysterious power.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:23:58.238Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:42:42.827Z
 ---
 
 A dark sword with a mysterious power.

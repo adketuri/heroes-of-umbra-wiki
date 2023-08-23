@@ -2,10 +2,10 @@
 title: Mini Robo Yeti
 description: A cute robot yeti accessory.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:29:14.420Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:48:40.513Z
 ---
 
 A cute robot yeti accessory.

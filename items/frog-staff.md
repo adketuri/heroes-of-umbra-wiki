@@ -2,10 +2,10 @@
 title: Frog Staff
 description: 30% chance to poison on hit.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:25:21.050Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:44:13.478Z
 ---
 
 30% chance to poison on hit.

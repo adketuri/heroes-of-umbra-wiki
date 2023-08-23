@@ -2,10 +2,10 @@
 title: Outcast
 description: It's the final gun
 published: true
-date: 2023-08-16T17:15:19.000Z
+date: 2023-08-21T05:36:56.502Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:56:21.993Z
 ---
 
 It's the final gun This item's stats are randomly generated.

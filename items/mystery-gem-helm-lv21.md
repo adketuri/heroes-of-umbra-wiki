@@ -2,10 +2,10 @@
 title: Mystery Gem (helm Lv.21)
 description: Contains a randomized Gem.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:33:08.429Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:53:05.449Z
 ---
 
 Contains a randomized Gem.

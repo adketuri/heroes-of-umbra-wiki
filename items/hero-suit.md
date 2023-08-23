@@ -2,10 +2,10 @@
 title: Hero Suit
 description: Become the world's best hero.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:26:45.682Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:45:50.646Z
 ---
 
 Become the world's best hero.

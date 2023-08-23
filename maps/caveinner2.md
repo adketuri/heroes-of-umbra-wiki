@@ -1,12 +1,12 @@
 ---
 title: caveinner2
+description: 
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:45:07.372Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T01:15:04.969Z
 ---
-
 
 # Adjacent Maps
  * [cavetown](/maps/cavetown) (20, 6)

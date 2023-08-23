@@ -1,10 +1,11 @@
 ---
 title: Crystal
+description: 
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:51:46.004Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-18T23:34:01.741Z
 ---
 
 # Tabs {.tabset}

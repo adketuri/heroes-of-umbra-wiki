@@ -1,12 +1,12 @@
 ---
 title: castle13
+description: 
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:42:34.059Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T01:12:11.398Z
 ---
-
 
 # Monsters
  * [Skellybrute](/monsters/skellybrute)

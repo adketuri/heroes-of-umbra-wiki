@@ -1,12 +1,12 @@
 ---
 title: castle7
+description: 
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:43:00.158Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T01:12:41.033Z
 ---
-
 
 # Monsters
  * [Dark Brobot](/monsters/dark-brobot)

@@ -2,10 +2,10 @@
 title: A.Spd Gem (wep)
 description: Compounds with Weapon. 50% success rate.
 published: true
-date: 2023-08-16T17:15:19.000Z
+date: 2023-08-21T05:20:46.436Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:39:04.982Z
 ---
 
 Compounds with Weapon. 50% success rate.

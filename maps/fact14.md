@@ -1,12 +1,12 @@
 ---
 title: fact14
+description: 
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:46:17.408Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T01:16:25.291Z
 ---
-
 
 # Monsters
  * [Robo-Bat](/monsters/robo-bat)

@@ -2,10 +2,10 @@
 title: Goblin Dagger
 description: A powerful dagger wielded by Trolls.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:25:54.541Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:44:50.180Z
 ---
 
 A powerful dagger wielded by Trolls.

@@ -2,10 +2,10 @@
 title: Mechanical XF
 description: A gun purchased from a vending machine.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:29:05.397Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:48:30.477Z
 ---
 
 A gun purchased from a vending machine.

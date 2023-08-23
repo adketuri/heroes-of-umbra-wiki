@@ -2,10 +2,10 @@
 title: Dreamstone
 description: Boosts stats of next crafted equipment.
 published: true
-date: 2023-04-11T10:17:38.000Z
+date: 2023-08-21T05:24:27.007Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:43:16.476Z
 ---
 
 Boosts stats of next crafted equipment.

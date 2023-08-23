@@ -2,10 +2,10 @@
 title: Angel Wings
 description: Prevents visits to purgatory.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:20:35.074Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:38:51.538Z
 ---
 
 Prevents visits to purgatory.

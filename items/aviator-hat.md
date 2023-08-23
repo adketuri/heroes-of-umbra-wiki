@@ -2,10 +2,10 @@
 title: Aviator Hat
 description: A hat worn by pilots and steampunks.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:20:56.052Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:39:15.220Z
 ---
 
 A hat worn by pilots and steampunks.

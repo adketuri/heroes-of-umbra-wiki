@@ -1,12 +1,12 @@
 ---
 title: forest_d
+description: 
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:48:30.462Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T01:18:59.227Z
 ---
-
 
 # Monsters
  * [Red Slime](/monsters/red-slime)

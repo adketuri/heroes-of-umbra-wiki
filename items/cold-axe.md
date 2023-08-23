@@ -2,10 +2,10 @@
 title: Cold Axe
 description: A large, cold axe. No stab bonus.
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:23:11.981Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-02-17T06:41:49.238Z
 ---
 
 A large, cold axe. No stab bonus.

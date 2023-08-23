@@ -1,12 +1,12 @@
 ---
 title: field13
+description: 
 published: true
-date: 2023-02-28T21:22:33.000Z
+date: 2023-08-21T05:47:55.142Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-16T00:00:00.000Z
+dateCreated: 2023-03-01T01:18:18.822Z
 ---
-
 
 # Adjacent Maps
  * [field09](/maps/field09) (North)

@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-21T03:10:16.440Z
+date: 2023-08-21T05:20:22.504Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
