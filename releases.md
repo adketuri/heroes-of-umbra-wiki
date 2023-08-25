@@ -2,11 +2,21 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-21T05:20:22.504Z
+date: 2023-08-25T06:47:59.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.6
+* Fix a crash when loading the game on android or opening storage
+* Reduce the shard cost of all orb garden npcs by ~15-20%
+* Cut the cost of [Tome of Gardens](/items/tome-of-gardens)  roughly in half.
+* Extend collisions past the top of the map
+* Fix a crash changing to non-English locales
+* Lower the sell value of Tier2/3 gear
+* Clean up upgrading, hopefully no more slots vanishing
+* Fix [Slash Commands](/mechanics/slash-commands) to send chat messages
 
 # 1.3.5
 * Prevent an occasional crash with overspawning enemies in gardens.
