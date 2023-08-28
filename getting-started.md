@@ -2,14 +2,14 @@
 title: Getting Started
 description: The quick how-to-play
 published: true
-date: 2023-08-21T05:20:01.036Z
+date: 2023-08-28T06:34:59.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T01:09:24.138Z
 ---
 
 ## Getting The Game
-The game will be available June 1st on the [Heroes of Umbra Steam Page](https://store.steampowered.com/app/645380/Heroes_of_Umbra/) for Windows. Additional operating systems and distribution platforms to come.
+The game is available to purchase on the [Heroes of Umbra Steam Page](https://store.steampowered.com/app/645380/Heroes_of_Umbra/) for Windows. Additional operating systems and distribution platforms to come.
 
 ## Basic Controls
 * Arrow Keys: Move player/cursor
