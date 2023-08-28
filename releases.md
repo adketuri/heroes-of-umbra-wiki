@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-28T06:23:02.869Z
+date: 2023-08-28T06:26:38.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -15,7 +15,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
    * This should prevent a race condition in which you beat the boss and get sent out before the next server update
 * Store bosses defeated in player data
 * Rewrite Android touch conversion to work a little nicer on wider devices
-   * If things still feel off there's a new command `/inputdebug` to debug this if you're on Android.
+   * If things still feel off there's a new command `/debugtouch` to debug this if you're on Android.
 
 # 1.3.6
 * Fix a crash when loading the game on android or opening storage
