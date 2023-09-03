@@ -2,11 +2,22 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-08-28T06:26:38.452Z
+date: 2023-09-03T05:26:50.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.9
+* Add a new item, [Garden Tranquility](/items/garden-tranquility), which adds 4 minutes to the current garden run. Find it from the Orb Garden
+* Implement a new `/what` command which tells you any missing steps needed to complete rebirth
+* Swap the "Dungeons Completed" data on save profiles to use local player data, instead of the server slot data.
+* Add a missing key when using [Essence Node](/items/essence-node).
+* Change Master minion spawn rate from 60s to 30s
+* Disable autoscrolling on Android
+
+# 1.3.8
+* Fix a crash rejoining games
 
 # 1.3.7
 * Fix a crash when entering certain Orb Gardens
