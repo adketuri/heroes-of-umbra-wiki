@@ -2,11 +2,22 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-09-03T05:26:50.953Z
+date: 2023-09-05T22:19:56.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.10
+* Allow skills to be cast while Leap is active
+* Auto-scroll long descriptions in inventory/upgrade menus
+* Correct aspd health scaling oversight for Leech
+   * This nerfs the healing received at extremely high attack speeds, to accommodate the aspd refactor done as part of 1.3.0
+* Add versioning to created items/players
+   * This has no player impact, but allows the game to support things like seasonal content in the future
+* Correct an oversight that prevented Master from using one of his skills.
+* Decay success rate of Deluxe Gems by 2% per rank, down to a minimum of 1% success rate
+   * This makes leveling your blacksmith relevant again!
 
 # 1.3.9
 * Add a new item, [Garden Tranquility](/items/garden-tranquility), which adds 4 minutes to the current garden run. Find it from the Orb Garden
