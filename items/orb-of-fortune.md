@@ -2,10 +2,10 @@
 title: Orb of Fortune
 description: Boosts item drop rate.
 published: true
-date: 2023-08-21T05:36:05.274Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T00:22:44.919Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Boosts item drop rate.
@@ -21,5 +21,5 @@ Boosts item drop rate.
 # Stats
 |Stat|Value|
 |-|-|
-|Atk|15|
-|Crit|15|
+|Matk|8|
+|Def|3|

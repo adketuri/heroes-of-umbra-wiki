@@ -1,12 +1,12 @@
 ---
 title: cave_secret2
-description: 
 published: true
-date: 2023-08-21T05:44:25.256Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:14:18.015Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Adjacent Maps
  * [cave_secret1](/maps/cave_secret1) (North)

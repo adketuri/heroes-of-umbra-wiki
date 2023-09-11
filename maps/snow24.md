@@ -1,12 +1,12 @@
 ---
 title: snow24
-description: 
 published: true
-date: 2023-08-21T05:49:48.887Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:20:30.097Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Adjacent Maps
  * [snow23](/maps/snow23) (East)

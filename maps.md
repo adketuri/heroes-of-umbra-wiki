@@ -2,10 +2,10 @@
 title: Maps
 description: A list of all maps
 published: true
-date: 2023-08-21T05:20:13.070Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-02-22T07:48:13.163Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
  * [beach](/maps/beach)
@@ -13,6 +13,7 @@ dateCreated: 2023-02-22T07:48:13.163Z
  * [beachroad](/maps/beachroad)
  * [beachroad2](/maps/beachroad2)
  * [beachroad3](/maps/beachroad3)
+ * [beachroad4](/maps/beachroad4)
  * [cave-guinea](/maps/cave-guinea)
  * [cave1](/maps/cave1)
  * [cave2](/maps/cave2)

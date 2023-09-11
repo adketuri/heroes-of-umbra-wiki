@@ -1,12 +1,12 @@
 ---
 title: snow16
-description: 
 published: true
-date: 2023-08-21T05:49:22.307Z
+date: 2023-09-10T22:33:04.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:19:59.671Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Crystal](/monsters/crystal)

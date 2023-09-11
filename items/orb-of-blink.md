@@ -2,10 +2,10 @@
 title: Orb of Blink
 description: Adds additional hits to Blink.
 published: true
-date: 2023-08-21T05:35:44.982Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T00:22:58.211Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Adds additional hits to Blink.
@@ -21,4 +21,5 @@ Adds additional hits to Blink.
 # Stats
 |Stat|Value|
 |-|-|
-|Cdmg|18|
+|Crit|2|
+|Cdmg|6|

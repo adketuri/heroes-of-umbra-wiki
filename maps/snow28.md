@@ -1,12 +1,12 @@
 ---
 title: snow28
-description: 
 published: true
-date: 2023-08-21T05:50:00.385Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:20:43.312Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Baby Yeti](/monsters/baby-yeti)

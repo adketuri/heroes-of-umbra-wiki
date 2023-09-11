@@ -2,10 +2,10 @@
 title: Orb of Strike
 description: Increases range of strike.
 published: true
-date: 2023-08-21T05:36:39.864Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T00:23:59.220Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Increases range of strike.
@@ -21,5 +21,5 @@ Increases range of strike.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|1|
-|Def|5|
+|Matk|10|
+|Cdmg|7|

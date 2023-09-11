@@ -1,12 +1,12 @@
 ---
 title: cave3
-description: 
 published: true
-date: 2023-08-21T05:43:18.294Z
+date: 2023-09-10T22:33:04.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:13:00.955Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Kappa](/monsters/kappa)

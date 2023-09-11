@@ -2,10 +2,10 @@
 title: Orb of Wealth
 description: Boosts dropped Flips.
 published: true
-date: 2023-08-21T05:36:48.293Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T06:56:18.666Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Boosts dropped Flips.
@@ -21,5 +21,5 @@ Boosts dropped Flips.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|8|
-|Crit|6|
+|Atk|1|
+|Matk|2|

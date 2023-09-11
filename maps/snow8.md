@@ -1,12 +1,12 @@
 ---
 title: snow8
-description: 
 published: true
-date: 2023-08-21T05:50:28.195Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:21:13.929Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Ghost](/monsters/ghost)

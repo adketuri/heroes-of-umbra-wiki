@@ -2,11 +2,12 @@
 title: Items
 description: A list of all items
 published: true
-date: 2023-08-21T05:20:09.599Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-19T00:11:33.083Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Consumable
  * [Usali](/items/usali)
@@ -38,6 +39,7 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Garden Visions](/items/garden-visions)
  * [Tome of Gardens](/items/tome-of-gardens)
  * [Training Manual](/items/training-manual)
+ * [Garden Tranquility](/items/garden-tranquility)
  * [Scraps Stash](/items/scraps-stash)
  * [Big Scraps Stash](/items/big-scraps-stash)
  * [Huge Scraps Stash](/items/huge-scraps-stash)
@@ -194,6 +196,7 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Healing Salve](/items/healing-salve)
  * [Wolf Pelt](/items/wolf-pelt)
  * [Bundle of Shells](/items/bundle-of-shells)
+ * [Jellyfish Bell](/items/jellyfish-bell)
 
 # Weapon
 
@@ -228,9 +231,7 @@ dateCreated: 2023-02-19T00:11:33.083Z
 
 ## Dagger
  * [Dagger of Souls](/items/dagger-of-souls)
- * [Claw of Souls](/items/claw-of-souls)
  * [Divine Dagger](/items/divine-dagger)
- * [Divine Claw](/items/divine-claw)
  * [Crystalline Shank](/items/crystalline-shank)
  * [Knife](/items/knife)
  * [Dagger](/items/dagger)
@@ -241,13 +242,15 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Magma Knife](/items/magma-knife)
  * [Prism Dagger](/items/prism-dagger)
  * [Radiant Knife](/items/radiant-knife)
- * [Radiant Claw](/items/radiant-claw)
 
 ## Claw
+ * [Claw of Souls](/items/claw-of-souls)
+ * [Divine Claw](/items/divine-claw)
  * [Crystalline Drill](/items/crystalline-drill)
  * [Cursed Pumpkin Bag](/items/cursed-pumpkin-bag)
  * [Pumpkin Bag](/items/pumpkin-bag)
  * [Heartripper](/items/heartripper)
+ * [Radiant Claw](/items/radiant-claw)
 
 ## Mace
  * [Bone Club](/items/bone-club)
@@ -326,6 +329,7 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Crystalline Armor](/items/crystalline-armor)
  * [Templar's Tunic](/items/templars-tunic)
  * [Pirate Coat](/items/pirate-coat)
+ * [Maid Outfit](/items/maid-outfit)
 
 # Helm
  * [Emerald Helmet](/items/emerald-helmet)
@@ -386,6 +390,8 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Crystalline Helmet](/items/crystalline-helmet)
  * [Templar Great Helm](/items/templar-great-helm)
  * [Pirate Hat](/items/pirate-hat)
+ * [Maid Headband](/items/maid-headband)
+ * [Jellytam](/items/jellytam)
 
 # Other
  * [Leather Boots](/items/leather-boots)
@@ -416,6 +422,7 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Crystalline Wings](/items/crystalline-wings)
  * [Seal of Faith](/items/seal-of-faith)
  * [Seal of the Crusade](/items/seal-of-the-crusade)
+ * [Shell Necklace](/items/shell-necklace)
 
 # Gem
  * [Atk Gem (wep)](/items/atk-gem-wep)
@@ -473,50 +480,50 @@ dateCreated: 2023-02-19T00:11:33.083Z
  * [Medkit](/items/medkit)
 
 # Orb
- * [Orb of Berserk](/items/orb-of-berserk)
- * [Orb of Ransack](/items/orb-of-ransack)
- * [Orb of Grenade Toss](/items/orb-of-grenade-toss)
- * [Orb of Exp](/items/orb-of-exp)
- * [Orb of Heal](/items/orb-of-heal)
- * [Orb of Fortune](/items/orb-of-fortune)
- * [Orb of Visions](/items/orb-of-visions)
- * [Orb of Fireball](/items/orb-of-fireball)
- * [Orb of Wealth](/items/orb-of-wealth)
- * [Orb of Wealth](/items/orb-of-wealth)
+ * [Orb of Stealth](/items/orb-of-stealth)
+ * [Orb of Blink](/items/orb-of-blink)
+ * [Orb of Blink](/items/orb-of-blink)
+ * [Orb of Spark](/items/orb-of-spark)
+ * [Orb of Voices](/items/orb-of-voices)
+ * [Orb of Weapon Toss](/items/orb-of-weapon-toss)
+ * [Orb of Focus](/items/orb-of-focus)
+ * [Orb of Strike](/items/orb-of-strike)
+ * [Orb of Focus](/items/orb-of-focus)
+ * [Orb of Plasma Rain](/items/orb-of-plasma-rain)
+ * [Orb of Bolt](/items/orb-of-bolt)
+ * [Orb of Cooling](/items/orb-of-cooling)
  * [Orb of Spark](/items/orb-of-spark)
  * [Orb of Rupture](/items/orb-of-rupture)
+ * [Orb of Fortune](/items/orb-of-fortune)
+ * [Orb of Phoenix Fist](/items/orb-of-phoenix-fist)
+ * [Orb of Counter](/items/orb-of-counter)
+ * [Orb of Visions](/items/orb-of-visions)
+ * [Orb of Exp](/items/orb-of-exp)
  * [Orb of Grenade Toss](/items/orb-of-grenade-toss)
- * [Orb of Blitz](/items/orb-of-blitz)
- * [Orb of Gate](/items/orb-of-gate)
- * [Orb of Destructive Snipe](/items/orb-of-destructive-snipe)
- * [Orb of Frost Wave](/items/orb-of-frost-wave)
- * [Orb of Slow](/items/orb-of-slow)
- * [Orb of Ransack](/items/orb-of-ransack)
+ * [Orb of Exp](/items/orb-of-exp)
+ * [Orb of Plasma Rain](/items/orb-of-plasma-rain)
+ * [Orb of Voices](/items/orb-of-voices)
+ * [Orb of Plasma Rain](/items/orb-of-plasma-rain)
+ * [Orb of Point-Blank](/items/orb-of-point-blank)
+ * [Orb of Channel Spirits](/items/orb-of-channel-spirits)
+ * [Orb of Stealth](/items/orb-of-stealth)
+ * [Orb of Fireball](/items/orb-of-fireball)
+ * [Orb of Bolt](/items/orb-of-bolt)
+ * [Orb of Visions](/items/orb-of-visions)
  * [Orb of Earthquake](/items/orb-of-earthquake)
- * [Orb of Gatekeeper](/items/orb-of-gatekeeper)
- * [Orb of Slow](/items/orb-of-slow)
- * [Orb of Strike](/items/orb-of-strike)
- * [Orb of Wealth](/items/orb-of-wealth)
- * [Orb of Spark](/items/orb-of-spark)
- * [Orb of Gatekeeper](/items/orb-of-gatekeeper)
- * [Orb of Blink](/items/orb-of-blink)
- * [Orb of Ransack](/items/orb-of-ransack)
- * [Orb of Voices](/items/orb-of-voices)
- * [Orb of Backstab](/items/orb-of-backstab)
- * [Orb of Gatekeeper](/items/orb-of-gatekeeper)
- * [Orb of Snipe](/items/orb-of-snipe)
- * [Orb of Voices](/items/orb-of-voices)
  * [Orb of Heal](/items/orb-of-heal)
- * [Orb of Regenerate](/items/orb-of-regenerate)
- * [Orb of Sanctuary](/items/orb-of-sanctuary)
- * [Orb of Ransack](/items/orb-of-ransack)
- * [Orb of Plasma Rain](/items/orb-of-plasma-rain)
- * [Orb of Cyclone](/items/orb-of-cyclone)
- * [Orb of Spark](/items/orb-of-spark)
- * [Orb of Plasma Rain](/items/orb-of-plasma-rain)
- * [Orb of Ransack](/items/orb-of-ransack)
+ * [Orb of Phoenix Fist](/items/orb-of-phoenix-fist)
  * [Orb of Backstab](/items/orb-of-backstab)
  * [Orb of Fireball](/items/orb-of-fireball)
+ * [Orb of Cooling](/items/orb-of-cooling)
+ * [Orb of Phoenix Fist](/items/orb-of-phoenix-fist)
+ * [Orb of Wealth](/items/orb-of-wealth)
+ * [Orb of Backstab](/items/orb-of-backstab)
+ * [Orb of Plasma Rain](/items/orb-of-plasma-rain)
+ * [Orb of Cooling](/items/orb-of-cooling)
+ * [Orb of Earthquake](/items/orb-of-earthquake)
+ * [Orb of Earthquake](/items/orb-of-earthquake)
+ * [Orb of Magic Mastery](/items/orb-of-magic-mastery)
  * [Orb of Memories](/items/orb-of-memories)
  * [Orb of Trolls](/items/orb-of-trolls)
  * [Orb of Frogs](/items/orb-of-frogs)

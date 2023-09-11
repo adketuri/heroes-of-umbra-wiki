@@ -1,12 +1,13 @@
 ---
 title: Egg
-description: 
 published: true
-date: 2023-08-21T05:24:29.900Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-19T00:49:45.909Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
+
 
 |Attribute|Value|
 |-|-|

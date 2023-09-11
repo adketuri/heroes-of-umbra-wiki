@@ -2,10 +2,10 @@
 title: Orb of Voices
 description: Prevents Silence.
 published: true
-date: 2023-08-21T05:36:45.484Z
+date: 2023-09-10T22:39:01.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T00:23:39.382Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Prevents Silence.
@@ -21,5 +21,5 @@ Prevents Silence.
 # Stats
 |Stat|Value|
 |-|-|
-|Mdef|7|
-|Crit|10|
+|Def|15|
+|Cdmg|24|

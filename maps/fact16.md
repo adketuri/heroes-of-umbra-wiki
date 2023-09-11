@@ -1,12 +1,12 @@
 ---
 title: fact16
-description: 
 published: true
-date: 2023-08-21T05:46:22.895Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:16:31.936Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Adjacent Maps
  * [fact17](/maps/fact17) (West)

@@ -1,12 +1,12 @@
 ---
 title: forest7
-description: 
 published: true
-date: 2023-08-21T05:48:15.681Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:18:42.276Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Zombie](/monsters/zombie)

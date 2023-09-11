@@ -2,10 +2,10 @@
 title: Monsters
 description: A list of all monsters
 published: true
-date: 2023-08-21T05:20:16.153Z
+date: 2023-09-10T22:23:53.000Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-18T23:46:37.199Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
  * [Crystal](/monsters/crystal)

@@ -1,11 +1,10 @@
 ---
 title: Skellybrute
-description: 
 published: true
-date: 2023-08-21T05:53:27.679Z
+date: 2023-09-10T22:39:01.000Z
 tags: monsters
 editor: markdown
-dateCreated: 2023-02-18T23:36:00.218Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 # Tabs {.tabset}
@@ -68,6 +67,6 @@ dateCreated: 2023-02-18T23:36:00.218Z
 
 # Drops
  * [Hanatii](/items/hanatii) (3%)
- * [Big Scraps Stash](/items/big-scraps-stash) (1%)
+ * [Scraps Stash](/items/scraps-stash) (1%)
  * [Egg](/items/egg) (1%)
  * [Skellybrute Card](/items/skellybrute-card) (0.1%)

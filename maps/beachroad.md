@@ -1,12 +1,12 @@
 ---
 title: beachroad
-description: 
 published: true
-date: 2023-08-21T05:42:13.196Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:11:48.111Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Crab](/monsters/crab)

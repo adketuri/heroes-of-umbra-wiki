@@ -1,12 +1,12 @@
 ---
 title: cave_v
-description: 
 published: true
-date: 2023-08-21T05:44:39.753Z
+date: 2023-09-10T22:39:01.000Z
 tags: maps
 editor: markdown
-dateCreated: 2023-03-01T01:14:34.601Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
+
 
 # Monsters
  * [Dark Beholder](/monsters/dark-beholder)
