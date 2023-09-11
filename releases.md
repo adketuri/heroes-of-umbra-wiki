@@ -2,11 +2,33 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-09-05T22:19:56.531Z
+date: 2023-09-11T05:20:59.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
+
+# 1.3.11
+* Add back missing platforms on Onyx Keep boss map
+* Change Summons so their time depletes faster in water
+* Fix issues updating characters from ancient save versions (pre-1.2.0)
+* Fix a visual issue with the max level of deluxe gems.
+* Change internal representation of currencies, display them all in the menu.
+   * Note this imposes some currency caps for the health of the game: 999m flips, 9k shards, 999 scraps, 999 essence.
+* Include a new secret costume in the Orb Garden bonus boss gem vendor. 
+* Add aspd modifiers to weapon types
+   * In practice this means more aspd is needed to cap swing speed for non-daggers
+* Add mastery multipliers to weapon types
+   * This means certain weapon types get percentage damage boosts. 
+* Fix a bug where position updates weren't sent to the server when the main menu was open
+* Fix the yeti skips for real
+* Refactor skills and hotkeys to be player-specific, instead of static.
+   * This fixes an issue where creating a character wipes your previous characters' skills
+* Include a new beach area
+   * New enemy: Jellyfish
+   * New items, simple quest.
+* Tweak orbs
+   * Orb of Blitz reduces the cast delay from 0.7s to 0.1s. Blitz also generally turns the character around now after casting.
 
 # 1.3.10
 * Allow skills to be cast while Leap is active
