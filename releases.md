@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-09-11T05:20:59.701Z
+date: 2023-09-12T01:02:28.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -25,7 +25,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Refactor skills and hotkeys to be player-specific, instead of static.
    * This fixes an issue where creating a character wipes your previous characters' skills
 * Include a new beach area
-   * New enemy: Jellyfish
+   * New enemy: [Jellyfish](/monsters/jellyfish)
    * New items, simple quest.
 * Tweak orbs
    * Orb of Blitz reduces the cast delay from 0.7s to 0.1s. Blitz also generally turns the character around now after casting.
