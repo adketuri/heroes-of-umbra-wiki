@@ -1,8 +1,8 @@
 ---
-title: Mastery
+title: Weapon Modifiers
 description: All about damage mastery
 published: true
-date: 2023-09-14T03:42:07.676Z
+date: 2023-09-14T03:44:14.126Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T03:40:44.170Z
