@@ -2,7 +2,7 @@
 title: Weapon Modifiers
 description: All about damage mastery
 published: true
-date: 2023-09-14T03:44:14.126Z
+date: 2023-09-14T03:45:22.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-14T03:40:44.170Z
@@ -21,6 +21,7 @@ Flat percentage damage added to stabs and swings respectively.
 
 ## Modifier Table
 |Subtype|Speed Modifier|Mastery Modifier|Stab Modifier|Swing Modifier|
+|-|-|-|-|-|
 |Sword|-15%|0%|30%|0%|
 |Spear|-15%|0%|50%|-20%|
 |Axe|-30%|15%|-20%|50%|
@@ -28,4 +29,3 @@ Flat percentage damage added to stabs and swings respectively.
 |Mace/Staff|-15%|0%|0%|0%|
 |Wand|-15%|0%|0%|0%|
 |Gun|0%|0%|0%|0%|
-|
