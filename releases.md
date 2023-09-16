@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2023-09-12T01:02:28.840Z
+date: 2023-09-16T16:07:11.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -16,9 +16,9 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Change internal representation of currencies, display them all in the menu.
    * Note this imposes some currency caps for the health of the game: 999m flips, 9k shards, 999 scraps, 999 essence.
 * Include a new secret costume in the Orb Garden bonus boss gem vendor. 
-* Add aspd modifiers to weapon types
+* Add [aspd modifiers](/mechanics/weapon-modifiers) to weapon types
    * In practice this means more aspd is needed to cap swing speed for non-daggers
-* Add mastery multipliers to weapon types
+* Add [mastery multipliers](/mechanics/weapon-modifiers) to weapon types
    * This means certain weapon types get percentage damage boosts. 
 * Fix a bug where position updates weren't sent to the server when the main menu was open
 * Fix the yeti skips for real
@@ -27,8 +27,15 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Include a new beach area
    * New enemy: [Jellyfish](/monsters/jellyfish)
    * New items, simple quest.
-* Tweak orbs
-   * Orb of Blitz reduces the cast delay from 0.7s to 0.1s. Blitz also generally turns the character around now after casting.
+* Orb changes
+   * Orb of Blitz now consumes all EP, dealing boosted damage per extra EP spent
+* Correct an off-by-one error when calculating the primary skill tree
+* Add blinking animation to characters 
+* Hide exp needed at level 99.
+* Warrior skill changes
+  * Cyclone slightly nerfed (-15% damage)
+  * Earthquake damage slightly boosted (roughly +30%)
+  * Blitz rank scaling slightly reduced (rank 9 damage is equivalent)
 
 # 1.3.10
 * Allow skills to be cast while Leap is active
