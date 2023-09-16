@@ -2,7 +2,7 @@
 title: Orb of Point-Blank
 description: Point-Blank has a chance to refund 1 EP.
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,5 @@ Point-Blank has a chance to refund 1 EP.
 # Stats
 |Stat|Value|
 |-|-|
-|Atk|21|
-|Hp|6|
+|Crit|16|
+|Cspd|21|

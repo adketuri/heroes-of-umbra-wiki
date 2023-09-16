@@ -1,5 +1,5 @@
 ---
-title: Keep Beholder Card
+title: Hand of Recovery Card
 description: A rare card from a monster.
 published: true
 date: 2023-09-16T16:37:47.000Z
@@ -12,12 +12,12 @@ A rare card from a monster.
 
 |Attribute|Value|
 |-|-|
-|ID|873|
-|Purchase Price|13,500 Flips|
-|Sell Price|6,750 Flips|
+|ID|872|
+|Purchase Price|22,500 Flips|
+|Sell Price|11,250 Flips|
 |Type|Card|
 |Stackable|Yes|
 
 
 # Dropped From
- * [Keep Beholder](/monsters/keep-beholder) (0.1%)
+ * [Hand of Recovery](/monsters/hand-of-recovery) (0.1%)

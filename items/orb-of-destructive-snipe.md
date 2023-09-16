@@ -2,10 +2,10 @@
 title: Orb of Destructive Snipe
 description: Increases range of detonated grenades.
 published: true
-date: 2023-08-21T05:35:56.318Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T00:23:01.893Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Increases range of detonated grenades.
@@ -21,4 +21,5 @@ Increases range of detonated grenades.
 # Stats
 |Stat|Value|
 |-|-|
-|Mdef|6|
+|Atk|9|
+|Hp|5|

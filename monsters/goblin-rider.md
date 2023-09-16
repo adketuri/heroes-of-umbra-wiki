@@ -1,7 +1,7 @@
 ---
 title: Goblin Rider
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2023-09-16T16:37:47.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -23,7 +23,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|10|
 |WalkSpeed|105|
 |JumpPower|90|
-|ExpVal|20|
+|ExpVal|18|
 |Money|14|
 ## Rebirth Stats
 
@@ -39,7 +39,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|10|
 |WalkSpeed|105|
 |JumpPower|90|
-|ExpVal|70|
+|ExpVal|63|
 |Money|14|
 ## Orb Garden Stats
 
@@ -55,7 +55,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|15|
 |WalkSpeed|105|
 |JumpPower|90|
-|ExpVal|3,500|
+|ExpVal|3,430|
 |Money|14|
 |Projectile|No|
 |Element|Neutral|

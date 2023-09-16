@@ -1,7 +1,7 @@
 ---
 title: Kappa
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2023-09-16T16:37:47.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -17,7 +17,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Power|20|
 |Stamina|12|
 |Wisdom|10|
-|Atk|12|
+|Atk|15|
 |Matk|20|
 |Def|20|
 |Mdef|20|
@@ -33,7 +33,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Power|20|
 |Stamina|12|
 |Wisdom|10|
-|Atk|42|
+|Atk|52|
 |Matk|70|
 |Def|20|
 |Mdef|20|
@@ -49,7 +49,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Power|40|
 |Stamina|12|
 |Wisdom|20|
-|Atk|63|
+|Atk|77|
 |Matk|105|
 |Def|30|
 |Mdef|30|

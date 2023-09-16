@@ -2,10 +2,10 @@
 title: Sanic Mask
 description: COME ON STEP IT UP.
 published: true
-date: 2023-08-21T05:38:40.400Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T06:58:24.104Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 COME ON STEP IT UP.
@@ -25,4 +25,4 @@ COME ON STEP IT UP.
 |Matk|20|
 |Def|25|
 |Mdef|25|
-|Speed|80|
+|Speed|50|

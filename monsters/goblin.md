@@ -1,7 +1,7 @@
 ---
 title: Goblin
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2023-09-16T16:37:47.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -23,7 +23,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|10|
 |WalkSpeed|65|
 |JumpPower|85|
-|ExpVal|16|
+|ExpVal|15|
 |Money|12|
 ## Rebirth Stats
 
@@ -39,7 +39,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|10|
 |WalkSpeed|65|
 |JumpPower|85|
-|ExpVal|56|
+|ExpVal|52|
 |Money|12|
 ## Orb Garden Stats
 
@@ -55,7 +55,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Mdef|15|
 |WalkSpeed|65|
 |JumpPower|85|
-|ExpVal|3,360|
+|ExpVal|3,325|
 |Money|12|
 |Projectile|No|
 |Element|Neutral|

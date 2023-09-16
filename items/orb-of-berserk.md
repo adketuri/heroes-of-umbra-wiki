@@ -2,10 +2,10 @@
 title: Orb of Berserk
 description: Increases crit damage while berserked.
 published: true
-date: 2023-08-21T05:35:42.113Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T00:22:41.678Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Increases crit damage while berserked.
@@ -21,5 +21,4 @@ Increases crit damage while berserked.
 # Stats
 |Stat|Value|
 |-|-|
-|Mdef|16|
-|Cdmg|18|
+|Def|4|

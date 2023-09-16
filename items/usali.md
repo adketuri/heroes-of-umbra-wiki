@@ -2,10 +2,10 @@
 title: Usali
 description: Recovers 50 HP.
 published: true
-date: 2023-08-21T05:40:52.581Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T07:00:58.144Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Recovers 50 HP.
@@ -20,7 +20,10 @@ Recovers 50 HP.
 
 
 # Dropped From
+ * [Hand of Strength](/monsters/hand-of-strength) (3%)
+ * [Hand of Recovery](/monsters/hand-of-recovery) (3%)
  * [Crab](/monsters/crab) (3%)
+ * [Jellyfish](/monsters/jellyfish) (3%)
  * [Beholder](/monsters/beholder) (3%)
  * [Skeleton](/monsters/skeleton) (3%)
  * [Goblin](/monsters/goblin) (3%)

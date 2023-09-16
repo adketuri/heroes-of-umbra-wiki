@@ -2,10 +2,10 @@
 title: Orb of Frost Wave
 description: Frost Wave launches in both directions.
 published: true
-date: 2023-08-21T05:36:11.188Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-03-01T05:36:17.183Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Frost Wave launches in both directions.
@@ -21,5 +21,5 @@ Frost Wave launches in both directions.
 # Stats
 |Stat|Value|
 |-|-|
-|Cspd|2|
-|Hp|11|
+|Matk|10|
+|Mdef|4|

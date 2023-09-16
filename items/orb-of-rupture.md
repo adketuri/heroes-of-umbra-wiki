@@ -1,14 +1,14 @@
 ---
 title: Orb of Rupture
-description: Rupture targets enemies not affected with Slow.
+description: Reduces the cost of Rupture.
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Rupture targets enemies not affected with Slow.
+Reduces the cost of Rupture.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,5 @@ Rupture targets enemies not affected with Slow.
 # Stats
 |Stat|Value|
 |-|-|
-|Cdmg|8|
-|Hp|2|
+|Atk|14|
+|Def|11|

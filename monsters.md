@@ -2,7 +2,7 @@
 title: Monsters
 description: A list of all monsters
 published: true
-date: 2023-09-10T22:23:53.000Z
+date: 2023-09-16T16:37:47.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -10,18 +10,19 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
  * [Crystal](/monsters/crystal)
  * [Target](/monsters/target)
+ * [The Master](/monsters/the-master)
+ * [Hand of Strength](/monsters/hand-of-strength)
+ * [Hand of Recovery](/monsters/hand-of-recovery)
  * [-](/monsters/-)
- * [War Crab](/monsters/war-crab)
- * [War Goblin](/monsters/war-goblin)
- * [War Goose](/monsters/war-goose)
  * [Crab](/monsters/crab)
+ * [Jellyfish](/monsters/jellyfish)
  * [Slime](/monsters/slime)
  * [Beholder](/monsters/beholder)
  * [Red Slime](/monsters/red-slime)
  * [Skeleton](/monsters/skeleton)
  * [Goblin](/monsters/goblin)
- * [Goblin Witch](/monsters/goblin-witch)
  * [Goblin Rider](/monsters/goblin-rider)
+ * [Goblin Witch](/monsters/goblin-witch)
  * [Zombie](/monsters/zombie)
  * [Bat](/monsters/bat)
  * [Kappa](/monsters/kappa)
@@ -66,6 +67,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [Henchman](/monsters/henchman)
  * [Mama Yeti](/monsters/mama-yeti)
  * [Ghoul](/monsters/ghoul)
+ * [Keep Beholder](/monsters/keep-beholder)
  * [Dragonbot](/monsters/dragonbot)
  * [Skellybrute](/monsters/skellybrute)
  * [Dark Brobot](/monsters/dark-brobot)

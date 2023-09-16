@@ -2,10 +2,10 @@
 title: War Goblin Card
 description: A rare card from a monster.
 published: true
-date: 2023-08-21T05:41:14.055Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T07:01:24.308Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A rare card from a monster.
@@ -18,6 +18,3 @@ A rare card from a monster.
 |Type|Card|
 |Stackable|Yes|
 
-
-# Dropped From
- * [War Goblin](/monsters/war-goblin) (0.1%)

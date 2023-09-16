@@ -2,10 +2,10 @@
 title: Kappa Pouch
 description: Holds 75 items.
 published: true
-date: 2023-08-21T05:27:43.673Z
+date: 2023-09-16T16:37:47.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T06:47:03.021Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Holds 75 items.
@@ -20,5 +20,5 @@ Holds 75 items.
 
 
 # Dropped From
- * [Goblin Witch](/monsters/goblin-witch) (1%)
  * [Goblin Rider](/monsters/goblin-rider) (1%)
+ * [Goblin Witch](/monsters/goblin-witch) (1%)
