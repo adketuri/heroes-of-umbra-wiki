@@ -1,14 +1,14 @@
 ---
-title: Agile
+title: Rogue
 description: The fastest skills for hasty ones
 published: true
-date: 2023-08-21T05:54:02.975Z
-tags: guide
+date: 2023-09-17T16:54:48.596Z
+tags: guide, skills
 editor: markdown
 dateCreated: 2023-02-13T02:01:39.181Z
 ---
 
-The Agile tree focuses on speed and mobility. Sustaining in this tree in solo play is a bit more difficult than the [Physical](/skills/physical) Tree, but there are some interesting buffs and combos at play. Agile focuses primarily on the speed of daggers and the [Power](/stats/power) stat.
+The Rogue tree focuses on speed and mobility. Sustaining in this tree in solo play is a bit more difficult than the [Warrior](/skills/warrior) Tree, but there are some interesting buffs and combos at play. Agile focuses primarily on the speed of daggers and the Power stat.
 
 ## Tier 1
 
