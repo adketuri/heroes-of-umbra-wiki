@@ -1,14 +1,14 @@
 ---
-title: Physical
+title: Warrior
 description: The physical skill tree
 published: true
-date: 2023-08-21T05:54:08.690Z
-tags: guide
+date: 2023-09-17T16:52:47.292Z
+tags: guide, skills
 editor: markdown
 dateCreated: 2023-02-13T01:54:49.374Z
 ---
 
-The Physical skill tree specializes in dealing large amounts of Physical damage to enemies. Sustaining in solo play is simple and depends on Leech/Regenerate. Physical is the only tree to not have any party buffs.
+The Warrior skill tree specializes in dealing large amounts of Physical damage to enemies. Sustaining in solo play is simple and depends on Leech/Regenerate. Physical is the only tree to not have any party buffs.
 
 ## Tier 1
 
