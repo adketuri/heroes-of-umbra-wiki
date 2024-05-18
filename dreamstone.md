@@ -2,7 +2,7 @@
 title: Dreamstone (Save Synchronization)
 description: 
 published: true
-date: 2024-05-18T16:34:27.769Z
+date: 2024-05-18T16:37:02.973Z
 tags: guide
 editor: markdown
 dateCreated: 2024-05-18T06:01:02.472Z
@@ -23,7 +23,9 @@ If you choose to use this service, you must have an internet connection to retri
   b. Press confirm to sync game data.
   
 # How does this work?
-When you sync game data to dreamstone, your data will no longer be saved locally. Instead, it is stored in a database on dreamstone.
+When you sync game data to dreamstone, your data will no longer be saved locally. Instead, it is stored in a database on the internet.
+
+This means you need an internet connection to play! But the mechanism of saving is much more reliable than saving files to your computer.
 
 # How do I stop using the service?
 * To cancel your subscription, visit the [Subscription Benefits Page](https://dreamstone.alcuria.net/subscriptions/complete) and press the **Manage Subscription** button. Enter your email to get a link to manage your subscription.
