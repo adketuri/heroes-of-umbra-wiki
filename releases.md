@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2024-05-18T05:46:14.282Z
+date: 2024-05-29T06:22:39.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -13,11 +13,14 @@ dateCreated: 2023-03-18T17:09:04.395Z
 	* Upgrade desktop to LWJGL3
   * Update controller library
   * Remove OUYA support (RIP)
-* Add support for refresh rates other than 60fps
 * Launch on Android and iOS
-* Add save synchronization via dreamstone.
+* Players can synchronize save data with dreamstone.
+* Players can create their own servers
+	* Steam networking has been killed
 * Add multicast 
 	* CSPD over 100 has a chance to cast multiple copies of certain magic-based skills.
+* Add support for refresh rates other than 60fps
+* Add camera smoothing
 * Minor tweaks
 	* Bump quest item drop rate from 20% to 25%
   * Throttle game saves when repeatedly opening/closing the menu
