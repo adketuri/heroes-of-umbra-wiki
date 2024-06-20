@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2024-05-29T06:49:36.589Z
+date: 2024-06-20T00:27:53.954Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
@@ -209,3 +209,14 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Generating new mystery gear/gems now checks if you have enough inventory space, to prevent possibly losing gear.
 
 # 1.2.0
+[Steam Update](https://store.steampowered.com/news/app/645380/view/2082293429517118669)
+* New skill tree: Ranged
+* New environment: Sunglade Highlands
+* Stackable items
+* Dramatically reduced load times
+* New HP% and Crit Damage% attributes on some gear/gems
+* More performant minimaps, colorized world map
+* Polish platforms, add bird effect to the beach
+
+# 1.1.26
+* Initial steam release
