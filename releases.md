@@ -2,7 +2,7 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2024-06-20T00:27:53.954Z
+date: 2024-06-20T00:30:03.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
