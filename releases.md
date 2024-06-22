@@ -2,40 +2,57 @@
 title: Version History
 description: All the changelogs
 published: true
-date: 2024-06-20T00:30:03.660Z
+date: 2024-06-22T18:03:24.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T17:09:04.395Z
 ---
 
 # 1.4.0 (Beta)
+## Save Synchronization
+Players can synchronize save data across devices, unlock additional game features, and support independent game development with [dreamstone](/dreamstone).
+## Game Server Creation
+* Players can create their own servers. Select "Start Multiplayer" from the character select screen and share the 4-letter code with friends to join you.
+* You can share your games to the Alcuria Games discord with the `/share` chat command. 
+* This is cross-platform. (Play with friends on Android/iOS!)
+* Consequently, steam networking has been killed.
+## Other Features
 * Overhaul all the game libraries
-	* Upgrade desktop to LWJGL3
-  * Update controller library
-  * Remove OUYA support (RIP)
-* Launch on Android and iOS
-* Players can synchronize save data with dreamstone.
-* Players can create their own servers
-	* Steam networking has been killed
+	* Upgrade from Java 8 to Java 16
+	* Upgrade desktop from LWJGL2 to LWJGL3
+  * Update controller library (xbox confirmed okay, but let me know if your controller is weird and I'll fix it)
+  * Remove OUYA support (RIP...)
+* Launch on Android and iOS (Soon for real!)
 * Add multicast 
 	* CSPD over 100 has a chance to cast multiple copies of certain magic-based skills.
+  * At 200 CSPD, you're guaranteed 2 casts, 350 CSPD you're guaranteed 3 casts with a 50% chance for a 4th, etc.
 * Add support for refresh rates other than 60fps
 * Add camera smoothing
-* Minor tweaks
-	* Bump quest item drop rate from 20% to 25%
-  * Throttle game saves when repeatedly opening/closing the menu
-  * Correctly render skill hotkeys on mobile
-  * Adjust network player interpolation: other players' jumps should feel less jittery
-  * Redo moving platform network sync
-* Skill Changes
-* Orb Changes
-	* Orb of Strike now has a chance to auto-cast strike when attacking
-* Bugfixes
-	* Invalid items no longer load from player data
-	* Fix missing hair for male hair 10 during cast
-  * Fix stretching sprites when a character blinks during a cutscene's pose change 
+* Extra [Black Keys](/items/black-key) can be sold after defeating the Master for Flips.
+* Adjust Rebirth Mode enemies to be slightly more difficult.
+* Orb Gardens spawn faster at earlier ranks. (Below Rank 100.)
+## Minor tweaks
+* Bump quest item drop rate from 20% to 25%
+* Throttle game saves when repeatedly opening/closing the menu
+* Correctly render skill hotkeys on mobile
+* Adjust network player interpolation: other players' jumps should feel less jittery. (Still have work to do here.)
+* Crashes now show a shareable error screen instead of silently failing
+	* Please contact me if you discover anything!
+* Redo moving platform network sync
+* Shrink game filesize by about 50%!
+  * Other tweaks!
+## Skill Changes
+* Leap has a visual effect
+## Orb Changes
+* Orb of Strike now has a chance to auto-cast strike when attacking
+* Orb of Weapon Toss is nerfed by 50%
+## Bugfixes
+* Invalid items no longer load from player data
+* Fix missing hair for male hair 10 during cast
+* Fix stretching sprites when a character blinks during a cutscene's pose change 
+* Fixed an issue where failing to add gems to gear no longer made the gear repairable
   
-## 1.3.11
+# 1.3.11
 * Add back missing platforms on Onyx Keep boss map
 * Change Summons so their time depletes faster in water
 * Fix issues updating characters from ancient save versions (pre-1.2.0)
@@ -64,7 +81,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
   * Earthquake damage slightly boosted (roughly +30%)
   * Blitz rank scaling slightly reduced (rank 9 damage is equivalent)
 
-## 1.3.10
+# 1.3.10
 * Allow skills to be cast while Leap is active
 * Auto-scroll long descriptions in inventory/upgrade menus
 * Correct aspd health scaling oversight for Leech
@@ -75,7 +92,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Decay success rate of Deluxe Gems by 2% per rank, down to a minimum of 1% success rate
    * This makes leveling your blacksmith relevant again!
 
-## 1.3.9
+# 1.3.9
 * Add a new item, [Garden Tranquility](/items/garden-tranquility), which adds 4 minutes to the current garden run. Find it from the Orb Garden
 * Implement a new `/what` command which tells you any missing steps needed to complete rebirth
 * Swap the "Dungeons Completed" data on save profiles to use local player data, instead of the server slot data.
@@ -83,10 +100,10 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Change Master minion spawn rate from 60s to 30s
 * Disable autoscrolling on Android
 
-## 1.3.8
+# 1.3.8
 * Fix a crash rejoining games
 
-## 1.3.7
+# 1.3.7
 * Fix a crash when entering certain Orb Gardens
 * Allow Orb Garden entrances to spawn on more tile types
 * Sync bonuses immediately after beating the boss
@@ -95,7 +112,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Rewrite Android touch conversion to work a little nicer on wider devices
    * If things still feel off there's a new command `/debugtouch` to debug this if you're on Android.
 
-## 1.3.6
+# 1.3.6
 * Fix a crash when loading the game on android or opening storage
 * Reduce the shard cost of all orb garden npcs by ~15-20%
 * Cut the cost of [Tome of Gardens](/items/tome-of-gardens)  roughly in half.
@@ -105,19 +122,19 @@ dateCreated: 2023-03-18T17:09:04.395Z
 * Clean up upgrading, hopefully no more slots vanishing
 * Fix [Slash Commands](/mechanics/slash-commands) to send chat messages
 
-## 1.3.5
+# 1.3.5
 * Prevent an occasional crash with overspawning enemies in gardens.
 * Handle transforming gear better, so item attributes aren't sometimes lost.
 * Swap some confusing text on upgrading orbs
 * Scale back stats on the randomized gear a bit.
 
-## 1.3.4
+# 1.3.4
 * Persist map seeds to enable saving bonus data
 * Adjust [Tome of Gardens](/items/tome-of-gardens) to gradually decay in success rate. Past rank 100 it can't be used to raise orb ranks.
   * This is to encourage running gardens instead of farming items to reach higher orb/prestige levels.
 * Require all bosses/cutscenes to be watched before a character can rebirth.
 
-## 1.3.3
+# 1.3.3
 * Prevent a softlock when attempting to upgrade gems with no upgradable attributes
 * Persist companion egg lock state when summoning/dismissing companions.
 * Fix another issue with seconds played copying to other save slots
@@ -128,7 +145,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
 	* Related, the Weapon Toss collision is a lot better. It hits a max of two times more consistently.
   * This technically nerfs builds that rely on certain skills like fireball, against bosses. I may revisit certain damage formulas in the future -- let me know what you think.
 
-## 1.3.2
+# 1.3.2
 * Added jump gems for armor + accessories.
 * Rebalanced Summoner a bit
   * Storm damage scaled back a bit
@@ -138,7 +155,7 @@ dateCreated: 2023-03-18T17:09:04.395Z
   * Wrong character slot would reload opening storage
   * Adding gems to gear got weird sometimes
   
-## 1.3.1
+# 1.3.1
 * Merge with the obsolete android branch
   * This adds back the CashmereCat cap and jump frames from 1.2.9.
 * More robust save data/storage tweaks
