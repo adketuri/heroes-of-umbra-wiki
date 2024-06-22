@@ -2,7 +2,7 @@
 title: Dreamstone (Save Synchronization)
 description: 
 published: true
-date: 2024-05-18T16:37:02.973Z
+date: 2024-06-22T18:29:11.850Z
 tags: guide
 editor: markdown
 dateCreated: 2024-05-18T06:01:02.472Z
@@ -11,7 +11,16 @@ dateCreated: 2024-05-18T06:01:02.472Z
 Dreamstone (stylized as dreamstone) is a service which allows synchronizing game data across multiple devices (desktop and mobile).
 
 # Before you Begin
-The dreamstone service costs ---/year. There is a one-month trial. (I appreciate your support!) 
+The dreamstone service costs $14.99/Year for Standard or $39.99/Year for Premium. There is a one-week trial. (I appreciate your support!) 
+
+|Feature|Standard|Premium|
+|-|-|
+|Sync game data|✔|✔|
+|Extra character inventory slots (500), extra storage slots (5,000)|✔|✔|
+|Rename and customize character skin, hair, gender|✔|✔|
+|Daily item shop|✔|✔|
+|Secret Discord server channel|❌|✔|
+|Access to game betas (Heroes of Umbra and Starless Umbra), old game releases, etc|❌|✔|
 
 If you choose to use this service, you must have an internet connection to retrieve and save character data. The game will warn you if there is an issue saving.
 
