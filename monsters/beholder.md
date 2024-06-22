@@ -1,7 +1,7 @@
 ---
 title: Beholder
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -27,34 +27,35 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|125|
+|HP|225|
 |Power|5|
 |Stamina|5|
 |Wisdom|5|
-|Atk|35|
-|Matk|42|
+|Atk|40|
+|Matk|48|
 |Def|5|
 |Mdef|10|
-|ExpVal|35|
+|ExpVal|20|
 |Money|5|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|3,000|
+|HP|4,950|
 |Power|10|
 |Stamina|5|
 |Wisdom|10|
-|Atk|52|
-|Matk|63|
+|Atk|60|
+|Matk|72|
 |Def|7|
 |Mdef|15|
-|ExpVal|3,150|
+|ExpVal|1,800|
 |Money|5|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Found on Maps
+ * [cave_x (20)](/maps/cave_x)
  * [forest1 (20)](/maps/forest1)
  * [forest2 (20)](/maps/forest2)
  * [forest3 (40)](/maps/forest3)
@@ -64,6 +65,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Usali](/items/usali) (3%)
- * [Leather Boots](/items/leather-boots) (1%)
- * [Forest Satchel](/items/forest-satchel) (1%)
- * [Beholder Card](/items/beholder-card) (0.1%)
+ * [Leather Boots](/items/leather-boots) (0.75%)
+ * [Forest Satchel](/items/forest-satchel) (0.75%)
+ * [Beholder Card](/items/beholder-card) (0.05%)

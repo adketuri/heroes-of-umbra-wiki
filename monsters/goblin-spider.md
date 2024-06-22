@@ -1,7 +1,7 @@
 ---
 title: Goblin Spider
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|600,000|
+|HP|1,080,000|
 |Power|65|
 |Stamina|120|
 |Wisdom|60|
-|Atk|385|
-|Matk|332|
+|Atk|440|
+|Matk|380|
 |Def|115|
 |Mdef|85|
 |WalkSpeed|60|
 |JumpPower|80|
-|ExpVal|2,268,000|
+|ExpVal|1,296,000|
 |Money|170|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|1,202,500|
+|HP|1,084,500|
 |Power|65|
 |Stamina|120|
 |Wisdom|60|
-|Atk|577|
-|Matk|497|
+|Atk|660|
+|Matk|568|
 |Def|172|
 |Mdef|127|
 |WalkSpeed|60|
 |JumpPower|80|
-|ExpVal|22,682,800|
+|ExpVal|12,961,600|
 |Money|170|
 |Projectile|Yes|
 |Element|Neutral|
@@ -67,6 +67,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Luck Potion](/items/luck-potion) (3%)
- * [Scraps Stash](/items/scraps-stash) (1%)
- * [Crafter's Signet](/items/crafters-signet) (1%)
- * [Goblin Spider Card](/items/goblin-spider-card) (0.1%)
+ * [Scraps Stash](/items/scraps-stash) (0.75%)
+ * [Crafter's Signet](/items/crafters-signet) (0.75%)
+ * [Goblin Spider Card](/items/goblin-spider-card) (0.05%)

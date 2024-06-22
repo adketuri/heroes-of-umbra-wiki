@@ -1,7 +1,7 @@
 ---
 title: Dark Brobot
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|450,000|
+|HP|810,000|
 |Power|90|
 |Stamina|125|
 |Wisdom|50|
-|Atk|367|
-|Matk|332|
+|Atk|420|
+|Matk|380|
 |Def|120|
 |Mdef|75|
 |WalkSpeed|35|
 |JumpPower|65|
-|ExpVal|1,837,500|
+|ExpVal|1,050,000|
 |Money|160|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|902,500|
+|HP|814,500|
 |Power|90|
 |Stamina|125|
 |Wisdom|50|
-|Atk|549|
-|Matk|497|
+|Atk|628|
+|Matk|568|
 |Def|180|
 |Mdef|112|
 |WalkSpeed|35|
 |JumpPower|65|
-|ExpVal|18,377,800|
+|ExpVal|10,501,600|
 |Money|160|
 |Projectile|Yes|
 |Element|Neutral|
@@ -67,7 +67,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Berserk Potion](/items/berserk-potion) (3%)
- * [Templar's Tunic](/items/templars-tunic) (1%)
- * [Scraps Stash](/items/scraps-stash) (1%)
- * [Templar Great Helm](/items/templar-great-helm) (1%)
- * [Dark Brobot Card](/items/dark-brobot-card) (0.1%)
+ * [Templar's Tunic](/items/templars-tunic) (0.75%)
+ * [Scraps Stash](/items/scraps-stash) (0.75%)
+ * [Templar Great Helm](/items/templar-great-helm) (0.75%)
+ * [Dark Brobot Card](/items/dark-brobot-card) (0.05%)

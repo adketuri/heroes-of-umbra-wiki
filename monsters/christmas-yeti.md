@@ -1,7 +1,7 @@
 ---
 title: Christmas Yeti
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|23,185|
+|HP|41,733|
 |Power|30|
 |Stamina|80|
 |Wisdom|30|
-|Atk|140|
-|Matk|70|
+|Atk|160|
+|Matk|80|
 |Def|26|
 |Mdef|26|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|5,145|
+|ExpVal|2,940|
 |Money|22|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|95,240|
+|HP|87,966|
 |Power|60|
 |Stamina|80|
 |Wisdom|60|
-|Atk|210|
-|Matk|105|
+|Atk|240|
+|Matk|120|
 |Def|39|
 |Mdef|39|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|54,250|
+|ExpVal|31,000|
 |Money|22|
 |Projectile|No|
 |Element|Neutral|
@@ -69,6 +69,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Hot Tea](/items/hot-tea) (3%)
- * [Candy Cane](/items/candy-cane) (1%)
- * [Large Purse](/items/large-purse) (1%)
- * [Christmas Yeti Card](/items/christmas-yeti-card) (0.1%)
+ * [Candy Cane](/items/candy-cane) (0.75%)
+ * [Large Purse](/items/large-purse) (0.75%)
+ * [Christmas Yeti Card](/items/christmas-yeti-card) (0.05%)

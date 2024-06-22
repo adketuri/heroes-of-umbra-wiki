@@ -1,7 +1,7 @@
 ---
 title: Pilot Yeti
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|12,500|
+|HP|22,500|
 |Power|30|
 |Stamina|80|
 |Wisdom|30|
-|Atk|245|
-|Matk|245|
+|Atk|280|
+|Matk|280|
 |Def|36|
 |Mdef|36|
 |WalkSpeed|35|
-|ExpVal|6,895|
+|ExpVal|3,940|
 |Money|22|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|52,500|
+|HP|49,500|
 |Power|60|
 |Stamina|80|
 |Wisdom|60|
-|Atk|367|
-|Matk|367|
+|Atk|420|
+|Matk|420|
 |Def|54|
 |Mdef|54|
 |WalkSpeed|35|
-|ExpVal|71,750|
+|ExpVal|41,000|
 |Money|22|
 |Projectile|Yes|
 |Element|Neutral|
@@ -65,5 +65,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Hyper Usali](/items/hyper-usali) (3%)
- * [Pickaxe](/items/pickaxe) (1%)
- * [Pilot Yeti Card](/items/pilot-yeti-card) (0.1%)
+ * [Pickaxe](/items/pickaxe) (0.75%)
+ * [Pilot Yeti Card](/items/pilot-yeti-card) (0.05%)

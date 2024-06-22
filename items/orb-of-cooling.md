@@ -2,7 +2,7 @@
 title: Orb of Cooling
 description: Prevents Burn.
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,4 @@ Prevents Burn.
 # Stats
 |Stat|Value|
 |-|-|
-|Crit|5|
-|Cspd|13|
+|Hp|9|

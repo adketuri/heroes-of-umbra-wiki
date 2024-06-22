@@ -1,7 +1,7 @@
 ---
 title: Red Slime
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|400|
+|HP|720|
 |Power|10|
 |Stamina|12|
 |Wisdom|15|
-|Atk|42|
-|Matk|105|
+|Atk|48|
+|Matk|120|
 |Def|10|
 |Mdef|20|
 |WalkSpeed|60|
 |JumpPower|100|
-|ExpVal|45|
+|ExpVal|26|
 |Money|10|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|4,100|
+|HP|5,940|
 |Power|20|
 |Stamina|12|
 |Wisdom|30|
-|Atk|63|
-|Matk|157|
+|Atk|72|
+|Matk|180|
 |Def|15|
 |Mdef|30|
 |WalkSpeed|60|
 |JumpPower|100|
-|ExpVal|3,255|
+|ExpVal|1,860|
 |Money|10|
 |Projectile|No|
 |Element|Neutral|
@@ -68,6 +68,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Luck Potion](/items/luck-potion) (3%)
- * [Spiked Boots](/items/spiked-boots) (1%)
- * [Slime Hat](/items/slime-hat) (1%)
- * [Red Slime Card](/items/red-slime-card) (0.1%)
+ * [Spiked Boots](/items/spiked-boots) (0.75%)
+ * [Slime Hat](/items/slime-hat) (0.75%)
+ * [Red Slime Card](/items/red-slime-card) (0.05%)

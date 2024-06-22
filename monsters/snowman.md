@@ -1,7 +1,7 @@
 ---
 title: Snowman
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-22T14:07:52.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|20,155|
+|HP|36,279|
 |Power|30|
 |Stamina|80|
 |Wisdom|28|
-|Atk|70|
-|Matk|126|
+|Atk|80|
+|Matk|144|
 |Def|26|
 |Mdef|26|
 |JumpPower|70|
-|ExpVal|5,460|
+|ExpVal|3,120|
 |Money|17|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|83,120|
+|HP|77,058|
 |Power|60|
 |Stamina|80|
 |Wisdom|56|
-|Atk|105|
-|Matk|189|
+|Atk|120|
+|Matk|216|
 |Def|39|
 |Mdef|39|
 |JumpPower|70|
-|ExpVal|57,400|
+|ExpVal|32,800|
 |Money|17|
 |Projectile|Yes|
 |Element|Neutral|
@@ -66,6 +66,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Hot Tea](/items/hot-tea) (3%)
- * [Carrot](/items/carrot) (1%)
- * [Apex MG](/items/apex-mg) (1%)
- * [Snowman Card](/items/snowman-card) (0.1%)
+ * [Carrot](/items/carrot) (0.75%)
+ * [Apex MG](/items/apex-mg) (0.75%)
+ * [Snowman Card](/items/snowman-card) (0.05%)

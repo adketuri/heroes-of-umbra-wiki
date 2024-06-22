@@ -2,10 +2,10 @@
 title: Snail Shell
 description: A shell taken from an enlarged snail.
 published: true
-date: 2023-08-21T05:39:29.528Z
+date: 2024-06-12T23:38:29.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T06:59:22.081Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 A shell taken from an enlarged snail.
@@ -20,4 +20,4 @@ A shell taken from an enlarged snail.
 
 
 # Dropped From
- * [Snail](/monsters/snail) (Quest, 20%)
+ * [Snail](/monsters/snail) (Quest, 25%)

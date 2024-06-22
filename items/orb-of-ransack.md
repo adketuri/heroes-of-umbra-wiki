@@ -2,7 +2,7 @@
 title: Orb of Ransack
 description: Reduces Ransack cooldown.
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-22T14:08:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,5 @@ Reduces Ransack cooldown.
 # Stats
 |Stat|Value|
 |-|-|
-|Atk|9|
-|Mdef|7|
+|Def|8|
+|Cdmg|10|

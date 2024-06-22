@@ -1,7 +1,7 @@
 ---
 title: Goose
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|14,660|
+|HP|26,388|
 |Power|30|
 |Stamina|80|
 |Wisdom|55|
-|Atk|122|
-|Matk|105|
+|Atk|140|
+|Matk|120|
 |Def|40|
 |Mdef|35|
 |WalkSpeed|65|
 |JumpPower|100|
-|ExpVal|2,555|
+|ExpVal|1,460|
 |Money|20|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|61,140|
+|HP|57,276|
 |Power|60|
 |Stamina|80|
 |Wisdom|110|
-|Atk|182|
-|Matk|157|
+|Atk|208|
+|Matk|180|
 |Def|60|
 |Mdef|52|
 |WalkSpeed|65|
 |JumpPower|100|
-|ExpVal|28,350|
+|ExpVal|16,200|
 |Money|20|
 |Projectile|No|
 |Element|Neutral|
@@ -69,6 +69,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Gem Box](/items/gem-box) (3%)
- * [Frostbite](/items/frostbite) (1%)
- * [Egg](/items/egg) (1%)
- * [Goose Card](/items/goose-card) (0.1%)
+ * [Frostbite](/items/frostbite) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Goose Card](/items/goose-card) (0.05%)

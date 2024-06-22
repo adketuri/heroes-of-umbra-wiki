@@ -1,7 +1,7 @@
 ---
 title: Skellybrute
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|470,000|
+|HP|846,000|
 |Power|80|
 |Stamina|110|
 |Wisdom|90|
-|Atk|367|
-|Matk|402|
+|Atk|420|
+|Matk|460|
 |Def|95|
 |Mdef|105|
 |WalkSpeed|40|
 |JumpPower|70|
-|ExpVal|1,575,000|
+|ExpVal|900,000|
 |Money|150|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|942,500|
+|HP|850,500|
 |Power|80|
 |Stamina|110|
 |Wisdom|90|
-|Atk|549|
-|Matk|602|
+|Atk|628|
+|Matk|688|
 |Def|142|
 |Mdef|157|
 |WalkSpeed|40|
 |JumpPower|70|
-|ExpVal|15,752,800|
+|ExpVal|9,001,600|
 |Money|150|
 |Projectile|Yes|
 |Element|Undead|
@@ -67,6 +67,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Hanatii](/items/hanatii) (3%)
- * [Scraps Stash](/items/scraps-stash) (1%)
- * [Egg](/items/egg) (1%)
- * [Skellybrute Card](/items/skellybrute-card) (0.1%)
+ * [Scraps Stash](/items/scraps-stash) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Skellybrute Card](/items/skellybrute-card) (0.05%)

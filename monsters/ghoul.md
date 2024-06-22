@@ -1,7 +1,7 @@
 ---
 title: Ghoul
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-22T14:07:52.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -22,40 +22,40 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |Def|95|
 |Mdef|65|
 |WalkSpeed|65|
-|JumpPower|60|
+|JumpPower|100|
 |ExpVal|238,500|
 |Money|140|
 ## Rebirth Stats
 
 |Stat|Value|
 |-|-|
-|HP|410,000|
+|HP|738,000|
 |Power|75|
 |Stamina|115|
 |Wisdom|50|
-|Atk|367|
-|Matk|262|
+|Atk|420|
+|Matk|300|
 |Def|95|
 |Mdef|65|
 |WalkSpeed|65|
-|JumpPower|60|
-|ExpVal|834,750|
+|JumpPower|100|
+|ExpVal|477,000|
 |Money|140|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|822,500|
+|HP|742,500|
 |Power|75|
 |Stamina|115|
 |Wisdom|50|
-|Atk|549|
-|Matk|392|
+|Atk|628|
+|Matk|448|
 |Def|142|
 |Mdef|97|
 |WalkSpeed|65|
-|JumpPower|60|
-|ExpVal|8,350,300|
+|JumpPower|100|
+|ExpVal|4,771,600|
 |Money|140|
 |Projectile|No|
 |Element|Undead|
@@ -69,7 +69,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Healing Grace](/items/healing-grace) (3%)
- * [Seal of Faith](/items/seal-of-faith) (1%)
- * [Egg](/items/egg) (1%)
- * [Orb](/items/orb) (1%)
- * [Ghoul Card](/items/ghoul-card) (0.1%)
+ * [Seal of Faith](/items/seal-of-faith) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Orb](/items/orb) (0.75%)
+ * [Ghoul Card](/items/ghoul-card) (0.05%)

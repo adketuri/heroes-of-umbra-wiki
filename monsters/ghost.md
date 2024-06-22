@@ -1,7 +1,7 @@
 ---
 title: Ghost
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|14,115|
+|HP|25,407|
 |Power|30|
 |Stamina|80|
 |Wisdom|30|
-|Atk|140|
-|Matk|105|
+|Atk|160|
+|Matk|120|
 |Def|20|
 |Mdef|40|
 |JumpPower|30|
-|ExpVal|4,900|
+|ExpVal|2,800|
 |Money|12|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|58,960|
+|HP|55,314|
 |Power|60|
 |Stamina|80|
 |Wisdom|60|
-|Atk|210|
-|Matk|157|
+|Atk|240|
+|Matk|180|
 |Def|30|
 |Mdef|60|
 |JumpPower|30|
-|ExpVal|51,800|
+|ExpVal|29,600|
 |Money|12|
 |Projectile|No|
 |Element|Undead|
@@ -64,6 +64,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Gem Box](/items/gem-box) (3%)
- * [Silk Robe](/items/silk-robe) (1%)
- * [Egg](/items/egg) (1%)
- * [Ghost Card](/items/ghost-card) (0.1%)
+ * [Silk Robe](/items/silk-robe) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Ghost Card](/items/ghost-card) (0.05%)

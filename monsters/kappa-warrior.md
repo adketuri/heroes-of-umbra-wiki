@@ -1,7 +1,7 @@
 ---
 title: Kappa Warrior
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,27 +26,27 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|2,890|
+|HP|5,202|
 |Power|20|
 |Stamina|13|
-|Atk|70|
+|Atk|80|
 |Def|36|
 |WalkSpeed|40|
 |JumpPower|80|
-|ExpVal|245|
+|ExpVal|140|
 |Money|17|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|14,060|
+|HP|14,904|
 |Power|40|
 |Stamina|13|
-|Atk|105|
+|Atk|120|
 |Def|54|
 |WalkSpeed|40|
 |JumpPower|80|
-|ExpVal|5,250|
+|ExpVal|3,000|
 |Money|17|
 |Projectile|No|
 |Element|Neutral|
@@ -60,6 +60,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Monster Food](/items/monster-food) (3%)
- * [Kappa Blade](/items/kappa-blade) (1%)
- * [Strongshot](/items/strongshot) (1%)
- * [Kappa Warrior Card](/items/kappa-warrior-card) (0.1%)
+ * [Kappa Blade](/items/kappa-blade) (0.75%)
+ * [Strongshot](/items/strongshot) (0.75%)
+ * [Kappa Warrior Card](/items/kappa-warrior-card) (0.05%)

@@ -1,7 +1,7 @@
 ---
 title: Snail
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|20,670|
+|HP|37,206|
 |Power|35|
 |Stamina|80|
 |Wisdom|5|
-|Atk|175|
-|Matk|105|
+|Atk|200|
+|Matk|120|
 |Def|150|
 |Mdef|10|
 |WalkSpeed|25|
-|ExpVal|10,850|
+|ExpVal|6,200|
 |Money|12|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|85,180|
+|HP|78,912|
 |Power|70|
 |Stamina|80|
 |Wisdom|10|
-|Atk|262|
-|Matk|157|
+|Atk|300|
+|Matk|180|
 |Def|225|
 |Mdef|15|
 |WalkSpeed|25|
-|ExpVal|111,300|
+|ExpVal|63,600|
 |Money|12|
 |Projectile|No|
 |Element|Neutral|
@@ -62,11 +62,13 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [field02 (1)](/maps/field02)
  * [field03 (1)](/maps/field03)
  * [field05 (1)](/maps/field05)
+ * [field10 (40)](/maps/field10)
+ * [field11 (40)](/maps/field11)
  * [field12 (1)](/maps/field12)
 
 # Drops
+ * [Snail Shell](/items/snail-shell) (Quest, 25%)
  * [Monster Meal](/items/monster-meal) (3%)
- * [Snail Shell](/items/snail-shell) (Quest, 20%)
- * [Bol](/items/bol) (1%)
- * [Shell Armor](/items/shell-armor) (1%)
- * [Snail Card](/items/snail-card) (0.1%)
+ * [Bol](/items/bol) (0.75%)
+ * [Shell Armor](/items/shell-armor) (0.75%)
+ * [Snail Card](/items/snail-card) (0.05%)

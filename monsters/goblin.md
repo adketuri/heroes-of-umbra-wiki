@@ -1,7 +1,7 @@
 ---
 title: Goblin
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|1,155|
+|HP|2,079|
 |Power|12|
 |Stamina|8|
 |Wisdom|10|
-|Atk|45|
-|Matk|35|
+|Atk|52|
+|Matk|40|
 |Def|8|
 |Mdef|10|
 |WalkSpeed|65|
 |JumpPower|85|
-|ExpVal|52|
+|ExpVal|30|
 |Money|12|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|7,120|
+|HP|8,658|
 |Power|24|
 |Stamina|8|
 |Wisdom|20|
-|Atk|66|
-|Matk|52|
+|Atk|76|
+|Matk|60|
 |Def|12|
 |Mdef|15|
 |WalkSpeed|65|
 |JumpPower|85|
-|ExpVal|3,325|
+|ExpVal|1,900|
 |Money|12|
 |Projectile|No|
 |Element|Neutral|
@@ -67,8 +67,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [forest_f (20)](/maps/forest_f)
 
 # Drops
+ * [Pumpkin](/items/pumpkin) (Quest, 25%)
  * [Usali](/items/usali) (3%)
- * [Pumpkin](/items/pumpkin) (Quest, 20%)
- * [Cursed Dagger](/items/cursed-dagger) (1%)
- * [Egg](/items/egg) (1%)
- * [Goblin Card](/items/goblin-card) (0.1%)
+ * [Cursed Dagger](/items/cursed-dagger) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Goblin Card](/items/goblin-card) (0.05%)

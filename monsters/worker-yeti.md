@@ -1,7 +1,7 @@
 ---
 title: Worker Yeti
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|29,685|
+|HP|53,433|
 |Power|30|
 |Stamina|80|
 |Wisdom|30|
-|Atk|140|
-|Matk|70|
+|Atk|160|
+|Matk|80|
 |Def|30|
 |Mdef|36|
 |WalkSpeed|45|
 |JumpPower|90|
-|ExpVal|6,545|
+|ExpVal|3,740|
 |Money|22|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|121,240|
+|HP|111,366|
 |Power|60|
 |Stamina|80|
 |Wisdom|60|
-|Atk|210|
-|Matk|105|
+|Atk|240|
+|Matk|120|
 |Def|45|
 |Mdef|54|
 |WalkSpeed|45|
 |JumpPower|90|
-|ExpVal|68,250|
+|ExpVal|39,000|
 |Money|22|
 |Projectile|No|
 |Element|Neutral|
@@ -64,8 +64,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [snow16 (20)](/maps/snow16)
 
 # Drops
+ * [Screw](/items/screw) (Quest, 25%)
  * [Hot Tea](/items/hot-tea) (3%)
- * [Screw](/items/screw) (Quest, 20%)
- * [Pickaxe](/items/pickaxe) (1%)
- * [Apex MG](/items/apex-mg) (1%)
- * [Worker Yeti Card](/items/worker-yeti-card) (0.1%)
+ * [Pickaxe](/items/pickaxe) (0.75%)
+ * [Apex MG](/items/apex-mg) (0.75%)
+ * [Worker Yeti Card](/items/worker-yeti-card) (0.05%)

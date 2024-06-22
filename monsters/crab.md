@@ -1,7 +1,7 @@
 ---
 title: Crab
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,27 +26,27 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|50|
+|HP|90|
 |Power|5|
 |Stamina|5|
 |Wisdom|5|
-|Atk|17|
+|Atk|20|
 |WalkSpeed|40|
 |JumpPower|80|
-|ExpVal|14|
+|ExpVal|8|
 |Money|4|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|2,700|
+|HP|4,680|
 |Power|10|
 |Stamina|5|
 |Wisdom|10|
-|Atk|24|
+|Atk|28|
 |WalkSpeed|40|
 |JumpPower|80|
-|ExpVal|2,940|
+|ExpVal|1,680|
 |Money|4|
 |Projectile|No|
 |Element|Neutral|
@@ -59,6 +59,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Usali](/items/usali) (3%)
- * [Crab Claw](/items/crab-claw) (1%)
- * [Egg](/items/egg) (1%)
- * [Crab Card](/items/crab-card) (0.1%)
+ * [Crab Claw](/items/crab-claw) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Crab Card](/items/crab-card) (0.05%)

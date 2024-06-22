@@ -2,7 +2,7 @@
 title: Orb of Exp
 description: Boosts earned exp.
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-22T14:08:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,4 +21,5 @@ Boosts earned exp.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|7|
+|Def|12|
+|Mdef|2|

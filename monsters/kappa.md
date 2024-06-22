@@ -1,7 +1,7 @@
 ---
 title: Kappa
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|2,160|
+|HP|3,888|
 |Power|20|
 |Stamina|12|
 |Wisdom|10|
-|Atk|52|
-|Matk|70|
+|Atk|60|
+|Matk|80|
 |Def|20|
 |Mdef|20|
 |WalkSpeed|50|
 |JumpPower|80|
-|ExpVal|192|
+|ExpVal|110|
 |Money|15|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|11,140|
+|HP|12,276|
 |Power|40|
 |Stamina|12|
 |Wisdom|20|
-|Atk|77|
-|Matk|105|
+|Atk|88|
+|Matk|120|
 |Def|30|
 |Mdef|30|
 |WalkSpeed|50|
 |JumpPower|80|
-|ExpVal|4,725|
+|ExpVal|2,700|
 |Money|15|
 |Projectile|No|
 |Element|Neutral|
@@ -70,6 +70,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Monster Food](/items/monster-food) (3%)
- * [Power Charm](/items/power-charm) (1%)
- * [Egg](/items/egg) (1%)
- * [Kappa Card](/items/kappa-card) (0.1%)
+ * [Power Charm](/items/power-charm) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Kappa Card](/items/kappa-card) (0.05%)

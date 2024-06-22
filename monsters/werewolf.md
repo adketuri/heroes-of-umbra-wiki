@@ -1,7 +1,7 @@
 ---
 title: Werewolf
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|995,000|
+|HP|1,791,000|
 |Power|80|
 |Stamina|125|
 |Wisdom|70|
-|Atk|472|
-|Matk|227|
+|Atk|540|
+|Matk|260|
 |Def|145|
 |Mdef|145|
 |WalkSpeed|60|
 |JumpPower|80|
-|ExpVal|3,591,000|
+|ExpVal|2,052,000|
 |Money|180|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|1,992,500|
+|HP|1,795,500|
 |Power|80|
 |Stamina|125|
 |Wisdom|70|
-|Atk|707|
-|Matk|339|
+|Atk|808|
+|Matk|388|
 |Def|217|
 |Mdef|217|
 |WalkSpeed|60|
 |JumpPower|80|
-|ExpVal|35,912,800|
+|ExpVal|20,521,600|
 |Money|180|
 |Projectile|Yes|
 |Element|Neutral|
@@ -65,5 +65,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Healing Grace](/items/healing-grace) (3%)
- * [Egg](/items/egg) (1%)
- * [Werewolf Card](/items/werewolf-card) (0.1%)
+ * [Egg](/items/egg) (0.75%)
+ * [Werewolf Card](/items/werewolf-card) (0.05%)

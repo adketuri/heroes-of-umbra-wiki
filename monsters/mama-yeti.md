@@ -1,7 +1,7 @@
 ---
 title: Mama Yeti
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,38 +29,38 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|700,000|
+|HP|1,260,000|
 |Power|50|
 |Stamina|50|
 |Wisdom|50|
-|Atk|175|
-|Matk|245|
+|Atk|200|
+|Matk|280|
 |Def|40|
 |Mdef|40|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|297,500|
+|ExpVal|170,000|
 |Money|200|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|2,802,500|
+|HP|2,524,500|
 |Power|100|
 |Stamina|50|
 |Wisdom|100|
-|Atk|262|
-|Matk|367|
+|Atk|300|
+|Matk|420|
 |Def|60|
 |Mdef|60|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|2,977,800|
+|ExpVal|1,701,600|
 |Money|200|
 |Projectile|Yes|
 |Element|Neutral|
 
 # Drops
  * [Yeti Armor](/items/yeti-armor) (11%)
- * [Angegar](/items/angegar) (11%)
- * [Mama Yeti Card](/items/mama-yeti-card) (0.1%)
+ * [Angegar](/items/angegar) (11.25%)
+ * [Mama Yeti Card](/items/mama-yeti-card) (0.05%)

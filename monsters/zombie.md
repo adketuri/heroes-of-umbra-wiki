@@ -1,7 +1,7 @@
 ---
 title: Zombie
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|960|
+|HP|1,728|
 |Power|15|
 |Stamina|8|
 |Wisdom|10|
-|Atk|45|
-|Matk|35|
+|Atk|52|
+|Matk|40|
 |Def|10|
 |Mdef|10|
 |WalkSpeed|25|
-|ExpVal|73|
+|ExpVal|42|
 |Money|12|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|6,340|
+|HP|7,956|
 |Power|30|
 |Stamina|8|
 |Wisdom|20|
-|Atk|66|
-|Matk|52|
+|Atk|76|
+|Matk|60|
 |Def|15|
 |Mdef|15|
 |WalkSpeed|25|
-|ExpVal|3,535|
+|ExpVal|2,020|
 |Money|12|
 |Projectile|Yes|
 |Element|Undead|
@@ -63,6 +63,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Usali](/items/usali) (3%)
- * [Magic Charm](/items/magic-charm) (1%)
- * [Green Revolver](/items/green-revolver) (1%)
- * [Zombie Card](/items/zombie-card) (0.1%)
+ * [Magic Charm](/items/magic-charm) (0.75%)
+ * [Green Revolver](/items/green-revolver) (0.75%)
+ * [Zombie Card](/items/zombie-card) (0.05%)

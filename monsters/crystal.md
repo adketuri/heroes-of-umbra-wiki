@@ -1,7 +1,7 @@
 ---
 title: Crystal
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T13:01:44.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -30,7 +30,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 |HP|15|
 |Def|1,500,000|
 |Mdef|1,500,000|
-|ExpVal|2,800|
+|ExpVal|3,200|
 |Projectile|No|
 |Element|Neutral|
 
@@ -55,4 +55,4 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [snow7 (1)](/maps/snow7)
 
 # Drops
- * [Crystal Card](/items/crystal-card) (0.1%)
+ * [Crystal Card](/items/crystal-card) (0.05%)

@@ -1,7 +1,7 @@
 ---
 title: Red Frog
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|3,405|
+|HP|6,129|
 |Power|20|
 |Stamina|14|
 |Wisdom|20|
-|Atk|70|
-|Matk|70|
+|Atk|80|
+|Matk|80|
 |Def|14|
 |Mdef|36|
 |WalkSpeed|90|
 |JumpPower|110|
-|ExpVal|420|
+|ExpVal|240|
 |Money|17|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|16,120|
+|HP|16,758|
 |Power|40|
 |Stamina|14|
 |Wisdom|40|
-|Atk|105|
-|Matk|105|
+|Atk|120|
+|Matk|120|
 |Def|21|
 |Mdef|54|
 |WalkSpeed|90|
 |JumpPower|110|
-|ExpVal|7,000|
+|ExpVal|4,000|
 |Money|17|
 |Projectile|No|
 |Element|Neutral|
@@ -65,7 +65,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Super Usali](/items/super-usali) (3%)
- * [Rice Field Hat](/items/rice-field-hat) (1%)
- * [Backpack](/items/backpack) (1%)
- * [Jump Gem (acc)](/items/jump-gem-acc) (1%)
- * [Red Frog Card](/items/red-frog-card) (0.1%)
+ * [Rice Field Hat](/items/rice-field-hat) (0.75%)
+ * [Backpack](/items/backpack) (0.75%)
+ * [Jump Gem (acc)](/items/jump-gem-acc) (0.75%)
+ * [Red Frog Card](/items/red-frog-card) (0.05%)

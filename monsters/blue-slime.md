@@ -1,7 +1,7 @@
 ---
 title: Blue Slime
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|13,620|
+|HP|24,516|
 |Power|30|
 |Stamina|60|
 |Wisdom|50|
-|Atk|87|
-|Matk|105|
+|Atk|100|
+|Matk|120|
 |Def|30|
 |Mdef|30|
 |WalkSpeed|50|
 |JumpPower|100|
-|ExpVal|2,870|
+|ExpVal|1,640|
 |Money|20|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|56,980|
+|HP|53,532|
 |Power|60|
 |Stamina|60|
 |Wisdom|100|
-|Atk|129|
-|Matk|157|
+|Atk|148|
+|Matk|180|
 |Def|45|
 |Mdef|45|
 |WalkSpeed|50|
 |JumpPower|100|
-|ExpVal|31,500|
+|ExpVal|18,000|
 |Money|20|
 |Projectile|No|
 |Element|Neutral|
@@ -75,6 +75,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Monster Meal](/items/monster-meal) (3%)
- * [Frost Orb](/items/frost-orb) (1%)
- * [Heal Ring](/items/heal-ring) (1%)
- * [Blue Slime Card](/items/blue-slime-card) (0.1%)
+ * [Frost Orb](/items/frost-orb) (0.75%)
+ * [Heal Ring](/items/heal-ring) (0.75%)
+ * [Blue Slime Card](/items/blue-slime-card) (0.05%)

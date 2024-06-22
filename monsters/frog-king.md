@@ -1,7 +1,7 @@
 ---
 title: Frog King
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|170,000|
+|HP|306,000|
 |Power|15|
 |Stamina|10|
 |Wisdom|50|
-|Atk|105|
-|Matk|140|
+|Atk|120|
+|Matk|160|
 |Def|20|
 |Mdef|20|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|17,500|
+|ExpVal|10,000|
 |Money|200|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|682,500|
+|HP|616,500|
 |Power|30|
 |Stamina|10|
 |Wisdom|100|
-|Atk|157|
-|Matk|210|
+|Atk|180|
+|Matk|240|
 |Def|30|
 |Mdef|30|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|177,800|
+|ExpVal|101,600|
 |Money|200|
 |Projectile|Yes|
 |Element|Neutral|
@@ -65,5 +65,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Frog Badge](/items/frog-badge) (11%)
- * [Frog Staff](/items/frog-staff) (11%)
- * [Frog King Card](/items/frog-king-card) (0.1%)
+ * [Frog Staff](/items/frog-staff) (11.25%)
+ * [Frog King Card](/items/frog-king-card) (0.05%)

@@ -1,7 +1,7 @@
 ---
 title: Pilot Snowman
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|10,000|
+|HP|18,000|
 |Power|30|
 |Stamina|80|
 |Wisdom|30|
-|Atk|280|
-|Matk|280|
+|Atk|320|
+|Matk|320|
 |Def|36|
 |Mdef|36|
 |WalkSpeed|45|
-|ExpVal|7,035|
+|ExpVal|4,020|
 |Money|100|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|42,500|
+|HP|40,500|
 |Power|60|
 |Stamina|80|
 |Wisdom|60|
-|Atk|420|
-|Matk|420|
+|Atk|480|
+|Matk|480|
 |Def|54|
 |Mdef|54|
 |WalkSpeed|45|
-|ExpVal|73,150|
+|ExpVal|41,800|
 |Money|100|
 |Projectile|Yes|
 |Element|Neutral|
@@ -65,5 +65,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Hyper Usali](/items/hyper-usali) (3%)
- * [Pickaxe](/items/pickaxe) (1%)
- * [Pilot Snowman Card](/items/pilot-snowman-card) (0.1%)
+ * [Pickaxe](/items/pickaxe) (0.75%)
+ * [Pilot Snowman Card](/items/pilot-snowman-card) (0.05%)

@@ -2,7 +2,7 @@
 title: Orb of Weapon Toss
 description: Throws three copies of your weapon.
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-22T14:08:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,4 @@ Throws three copies of your weapon.
 # Stats
 |Stat|Value|
 |-|-|
-|Atk|13|
-|Hp|19|
+|Matk|14|

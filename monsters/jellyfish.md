@@ -1,7 +1,7 @@
 ---
 title: Jellyfish
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -26,27 +26,27 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|100|
+|HP|180|
 |Power|5|
 |Stamina|5|
 |Wisdom|5|
-|Atk|24|
-|Matk|17|
+|Atk|28|
+|Matk|20|
 |WalkSpeed|30|
-|ExpVal|21|
+|ExpVal|12|
 |Money|4|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|2,900|
+|HP|4,860|
 |Power|10|
 |Stamina|5|
 |Wisdom|10|
-|Atk|35|
-|Matk|24|
+|Atk|40|
+|Matk|28|
 |WalkSpeed|30|
-|ExpVal|3,010|
+|ExpVal|1,720|
 |Money|4|
 |Projectile|No|
 |Element|Neutral|
@@ -55,7 +55,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [beachroad4 (20)](/maps/beachroad4)
 
 # Drops
+ * [Jellyfish Bell](/items/jellyfish-bell) (Quest, 25%)
  * [Usali](/items/usali) (3%)
- * [Jellyfish Bell](/items/jellyfish-bell) (Quest, 20%)
- * [Jellytam](/items/jellytam) (1%)
- * [Jellyfish Card](/items/jellyfish-card) (0.1%)
+ * [Jellytam](/items/jellytam) (0.75%)
+ * [Jellyfish Card](/items/jellyfish-card) (0.05%)

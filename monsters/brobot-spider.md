@@ -1,7 +1,7 @@
 ---
 title: Brobot Spider
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|130,000|
+|HP|234,000|
 |Power|45|
 |Stamina|100|
 |Wisdom|50|
-|Atk|297|
-|Matk|192|
+|Atk|340|
+|Matk|220|
 |Def|75|
 |Mdef|45|
 |WalkSpeed|45|
 |JumpPower|80|
-|ExpVal|87,500|
+|ExpVal|50,000|
 |Money|150|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|522,500|
+|HP|472,500|
 |Power|90|
 |Stamina|100|
 |Wisdom|100|
-|Atk|444|
-|Matk|287|
+|Atk|508|
+|Matk|328|
 |Def|112|
 |Mdef|67|
 |WalkSpeed|45|
 |JumpPower|80|
-|ExpVal|877,800|
+|ExpVal|501,600|
 |Money|150|
 |Projectile|Yes|
 |Element|Neutral|
@@ -64,8 +64,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [fact29 (40)](/maps/fact29)
 
 # Drops
+ * [S. Brobot Essence](/items/s-brobot-essence) (Quest, 25%)
  * [Exp Potion](/items/exp-potion) (3%)
- * [S. Brobot Essence](/items/s-brobot-essence) (Quest, 20%)
- * [Deathfalchion](/items/deathfalchion) (1%)
- * [Atk Gem (helm)](/items/atk-gem-helm) (1%)
- * [Brobot Spider Card](/items/brobot-spider-card) (0.1%)
+ * [Deathfalchion](/items/deathfalchion) (0.75%)
+ * [Atk Gem (helm)](/items/atk-gem-helm) (0.75%)
+ * [Brobot Spider Card](/items/brobot-spider-card) (0.05%)

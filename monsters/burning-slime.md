@@ -1,7 +1,7 @@
 ---
 title: Burning Slime
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|35,000|
+|HP|63,000|
 |Power|40|
 |Stamina|60|
 |Wisdom|20|
-|Atk|192|
-|Matk|70|
+|Atk|220|
+|Matk|80|
 |Def|30|
 |Mdef|36|
 |WalkSpeed|55|
 |JumpPower|90|
-|ExpVal|17,500|
+|ExpVal|10,000|
 |Money|36|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|142,500|
+|HP|130,500|
 |Power|80|
 |Stamina|60|
 |Wisdom|40|
-|Atk|287|
-|Matk|105|
+|Atk|328|
+|Matk|120|
 |Def|45|
 |Mdef|54|
 |WalkSpeed|55|
 |JumpPower|90|
-|ExpVal|177,800|
+|ExpVal|101,600|
 |Money|36|
 |Projectile|No|
 |Element|Neutral|
@@ -66,6 +66,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Big Gem Box](/items/big-gem-box) (3%)
- * [Burnt Slime](/items/burnt-slime) (1%)
- * [Chaos Pouch](/items/chaos-pouch) (1%)
- * [Burning Slime Card](/items/burning-slime-card) (0.1%)
+ * [Burnt Slime](/items/burnt-slime) (0.75%)
+ * [Chaos Pouch](/items/chaos-pouch) (0.75%)
+ * [Burning Slime Card](/items/burning-slime-card) (0.05%)

@@ -1,7 +1,7 @@
 ---
 title: Goblin Rider
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|1,505|
+|HP|2,709|
 |Power|12|
 |Stamina|8|
 |Wisdom|10|
-|Atk|87|
-|Matk|35|
+|Atk|100|
+|Matk|40|
 |Def|8|
 |Mdef|10|
 |WalkSpeed|105|
 |JumpPower|90|
-|ExpVal|63|
+|ExpVal|36|
 |Money|14|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|8,520|
+|HP|9,918|
 |Power|24|
 |Stamina|8|
 |Wisdom|20|
-|Atk|129|
-|Matk|52|
+|Atk|148|
+|Matk|60|
 |Def|12|
 |Mdef|15|
 |WalkSpeed|105|
 |JumpPower|90|
-|ExpVal|3,430|
+|ExpVal|1,960|
 |Money|14|
 |Projectile|No|
 |Element|Neutral|
@@ -64,8 +64,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [forest_f (20)](/maps/forest_f)
 
 # Drops
+ * [Pumpkin](/items/pumpkin) (Quest, 25%)
  * [Gem Box](/items/gem-box) (3%)
- * [Pumpkin](/items/pumpkin) (Quest, 20%)
- * [Wolf Armor](/items/wolf-armor) (1%)
- * [Kappa Pouch](/items/kappa-pouch) (1%)
- * [Goblin Rider Card](/items/goblin-rider-card) (0.1%)
+ * [Wolf Armor](/items/wolf-armor) (0.75%)
+ * [Kappa Pouch](/items/kappa-pouch) (0.75%)
+ * [Goblin Rider Card](/items/goblin-rider-card) (0.05%)

@@ -2,7 +2,7 @@
 title: Orb of Sanctuary
 description: Summons two additional sanctuaries.
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-22T14:08:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,4 @@ Summons two additional sanctuaries.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|10|
-|Hp|3|
+|Crit|11|

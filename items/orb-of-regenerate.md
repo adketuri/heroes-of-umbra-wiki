@@ -1,14 +1,14 @@
 ---
-title: Orb of Gate
-description: Boosts damage of Spirit Gate.
+title: Orb of Regenerate
+description: Increases Regen rate
 published: true
-date: 2024-06-22T14:08:44.000Z
+date: 2024-06-22T14:07:52.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Boosts damage of Spirit Gate.
+Increases Regen rate
 
 |Attribute|Value|
 |-|-|
@@ -21,4 +21,4 @@ Boosts damage of Spirit Gate.
 # Stats
 |Stat|Value|
 |-|-|
-|Hp|26|
+|Matk|5|

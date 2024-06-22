@@ -2,10 +2,10 @@
 title: Pumpkin
 description: Used for quests. Happy Halloween!
 published: true
-date: 2023-08-21T05:37:42.689Z
+date: 2024-06-12T23:38:29.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T06:57:16.412Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Used for quests. Happy Halloween!
@@ -20,5 +20,5 @@ Used for quests. Happy Halloween!
 
 
 # Dropped From
- * [Goblin](/monsters/goblin) (Quest, 20%)
- * [Goblin Rider](/monsters/goblin-rider) (Quest, 20%)
+ * [Goblin](/monsters/goblin) (Quest, 25%)
+ * [Goblin Rider](/monsters/goblin-rider) (Quest, 25%)

@@ -2,10 +2,10 @@
 title: Honeycomb
 description: Hexagonal cells built by bees to store honey and larvae.
 published: true
-date: 2023-08-21T05:26:48.527Z
+date: 2024-06-12T23:38:29.000Z
 tags: items
 editor: markdown
-dateCreated: 2023-02-17T06:45:53.987Z
+dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
 Hexagonal cells built by bees to store honey and larvae.
@@ -20,4 +20,4 @@ Hexagonal cells built by bees to store honey and larvae.
 
 
 # Dropped From
- * [Bee](/monsters/bee) (Quest, 20%)
+ * [Bee](/monsters/bee) (Quest, 25%)

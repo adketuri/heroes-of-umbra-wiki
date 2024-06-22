@@ -1,14 +1,14 @@
 ---
 title: Orb of Strike
-description: Increases range of strike.
+description: Attacks have a low chance to auto-cast Strike.
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-22T14:08:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Increases range of strike.
+Attacks have a low chance to auto-cast Strike.
 
 |Attribute|Value|
 |-|-|
@@ -21,5 +21,5 @@ Increases range of strike.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|10|
-|Cdmg|7|
+|Atk|2|
+|Cspd|9|

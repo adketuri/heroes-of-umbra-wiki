@@ -1,7 +1,7 @@
 ---
 title: Baby Yeti
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|16,185|
+|HP|29,133|
 |Power|30|
 |Stamina|80|
 |Wisdom|30|
-|Atk|87|
-|Matk|87|
+|Atk|100|
+|Matk|100|
 |Def|20|
 |Mdef|20|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|3,290|
+|ExpVal|1,880|
 |Money|20|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|67,240|
+|HP|62,766|
 |Power|60|
 |Stamina|80|
 |Wisdom|60|
-|Atk|129|
-|Matk|129|
+|Atk|148|
+|Matk|148|
 |Def|30|
 |Mdef|30|
 |WalkSpeed|40|
 |JumpPower|90|
-|ExpVal|35,700|
+|ExpVal|20,400|
 |Money|20|
 |Projectile|Yes|
 |Element|Neutral|
@@ -71,6 +71,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Monster Meal](/items/monster-meal) (3%)
- * [Yeti Hat](/items/yeti-hat) (1%)
- * [Egg](/items/egg) (1%)
- * [Baby Yeti Card](/items/baby-yeti-card) (0.1%)
+ * [Yeti Hat](/items/yeti-hat) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Baby Yeti Card](/items/baby-yeti-card) (0.05%)

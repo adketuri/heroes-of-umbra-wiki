@@ -1,7 +1,7 @@
 ---
 title: Henchman
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|75,000|
+|HP|135,000|
 |Power|40|
 |Stamina|40|
 |Wisdom|40|
-|Atk|175|
-|Matk|140|
+|Atk|200|
+|Matk|160|
 |Def|30|
 |Mdef|10|
 |WalkSpeed|35|
-|ExpVal|140,000|
+|ExpVal|80,000|
 |Money|42|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|302,500|
+|HP|274,500|
 |Power|80|
 |Stamina|40|
 |Wisdom|80|
-|Atk|262|
-|Matk|210|
+|Atk|300|
+|Matk|240|
 |Def|45|
 |Mdef|15|
 |WalkSpeed|35|
-|ExpVal|1,402,800|
+|ExpVal|801,600|
 |Money|42|
 |Projectile|Yes|
 |Element|Neutral|
@@ -62,5 +62,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Hyper Usali](/items/hyper-usali) (3%)
- * [Silver Brace](/items/silver-brace) (1%)
- * [Henchman Card](/items/henchman-card) (0.1%)
+ * [Silver Brace](/items/silver-brace) (0.75%)
+ * [Henchman Card](/items/henchman-card) (0.05%)

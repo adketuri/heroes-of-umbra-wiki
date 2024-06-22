@@ -1,6 +1,6 @@
 ---
-title: Orb of Gate
-description: Boosts damage of Spirit Gate.
+title: Orb of Slow
+description: Slow greatly slows enemies.
 published: true
 date: 2024-06-22T14:08:44.000Z
 tags: items
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
 ---
 
-Boosts damage of Spirit Gate.
+Slow greatly slows enemies.
 
 |Attribute|Value|
 |-|-|
@@ -21,4 +21,5 @@ Boosts damage of Spirit Gate.
 # Stats
 |Stat|Value|
 |-|-|
-|Hp|26|
+|Mdef|6|
+|Hp|2|

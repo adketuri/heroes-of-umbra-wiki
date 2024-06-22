@@ -1,7 +1,7 @@
 ---
 title: Kappa Ninja
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|3,905|
+|HP|7,029|
 |Power|25|
 |Stamina|14|
 |Wisdom|25|
-|Atk|70|
-|Matk|70|
+|Atk|80|
+|Matk|80|
 |Def|14|
 |Mdef|36|
 |WalkSpeed|75|
 |JumpPower|110|
-|ExpVal|521|
+|ExpVal|298|
 |Money|17|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|18,120|
+|HP|18,558|
 |Power|50|
 |Stamina|14|
 |Wisdom|50|
-|Atk|105|
-|Matk|105|
+|Atk|120|
+|Matk|120|
 |Def|21|
 |Mdef|54|
 |WalkSpeed|75|
 |JumpPower|110|
-|ExpVal|8,015|
+|ExpVal|4,580|
 |Money|17|
 |Projectile|Yes|
 |Element|Neutral|
@@ -66,6 +66,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Monster Food](/items/monster-food) (3%)
- * [Battlecoat](/items/battlecoat) (1%)
- * [Ninja Hood](/items/ninja-hood) (1%)
- * [Kappa Ninja Card](/items/kappa-ninja-card) (0.1%)
+ * [Battlecoat](/items/battlecoat) (0.75%)
+ * [Ninja Hood](/items/ninja-hood) (0.75%)
+ * [Kappa Ninja Card](/items/kappa-ninja-card) (0.05%)

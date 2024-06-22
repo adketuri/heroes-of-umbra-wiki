@@ -1,7 +1,7 @@
 ---
 title: Dragonbot
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|2,750,000|
+|HP|4,950,000|
 |Power|45|
 |Stamina|100|
 |Wisdom|50|
-|Atk|262|
-|Matk|192|
+|Atk|300|
+|Matk|220|
 |Def|95|
 |Mdef|75|
 |WalkSpeed|45|
 |JumpPower|80|
-|ExpVal|1,505,000|
+|ExpVal|860,000|
 |Money|500|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|11,002,500|
+|HP|9,904,500|
 |Power|90|
 |Stamina|100|
 |Wisdom|100|
-|Atk|392|
-|Matk|287|
+|Atk|448|
+|Matk|328|
 |Def|142|
 |Mdef|112|
 |WalkSpeed|45|
 |JumpPower|80|
-|ExpVal|15,052,800|
+|ExpVal|8,601,600|
 |Money|500|
 |Projectile|Yes|
 |Element|Neutral|
@@ -65,5 +65,5 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Evil Eye](/items/evil-eye) (11%)
- * [Mini Robo Yeti](/items/mini-robo-yeti) (11%)
- * [Dragonbot Card](/items/dragonbot-card) (0.1%)
+ * [Mini Robo Yeti](/items/mini-robo-yeti) (11.25%)
+ * [Dragonbot Card](/items/dragonbot-card) (0.05%)

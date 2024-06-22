@@ -1,7 +1,7 @@
 ---
 title: Bee
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -28,31 +28,31 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|13,715|
+|HP|24,687|
 |Power|30|
 |Stamina|20|
 |Wisdom|20|
-|Atk|140|
-|Matk|105|
+|Atk|160|
+|Matk|120|
 |Def|60|
 |Mdef|30|
 |WalkSpeed|35|
-|ExpVal|14,080|
+|ExpVal|8,046|
 |Money|30|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|57,360|
+|HP|53,874|
 |Power|60|
 |Stamina|20|
 |Wisdom|40|
-|Atk|210|
-|Matk|157|
+|Atk|240|
+|Matk|180|
 |Def|90|
 |Mdef|45|
 |WalkSpeed|35|
-|ExpVal|143,605|
+|ExpVal|82,060|
 |Money|30|
 |Projectile|Yes|
 |Element|Neutral|
@@ -62,8 +62,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [field08 (40)](/maps/field08)
 
 # Drops
+ * [Honeycomb](/items/honeycomb) (Quest, 25%)
  * [Big Gem Box](/items/big-gem-box) (3%)
- * [Honeycomb](/items/honeycomb) (Quest, 20%)
- * [Apex MG](/items/apex-mg) (1%)
- * [Atk Gem (helm)](/items/atk-gem-helm) (1%)
- * [Bee Card](/items/bee-card) (0.1%)
+ * [Apex MG](/items/apex-mg) (0.75%)
+ * [Atk Gem (helm)](/items/atk-gem-helm) (0.75%)
+ * [Bee Card](/items/bee-card) (0.05%)

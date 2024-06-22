@@ -1,7 +1,7 @@
 ---
 title: Skeleton
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|620|
+|HP|1,116|
 |Power|10|
 |Stamina|10|
 |Wisdom|10|
-|Atk|35|
-|Matk|45|
+|Atk|40|
+|Matk|52|
 |Def|20|
 |Mdef|10|
 |WalkSpeed|50|
 |JumpPower|100|
-|ExpVal|52|
+|ExpVal|30|
 |Money|10|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|4,980|
+|HP|6,732|
 |Power|20|
 |Stamina|10|
 |Wisdom|20|
-|Atk|52|
-|Matk|66|
+|Atk|60|
+|Matk|76|
 |Def|30|
 |Mdef|15|
 |WalkSpeed|50|
 |JumpPower|100|
-|ExpVal|3,325|
+|ExpVal|1,900|
 |Money|10|
 |Projectile|Yes|
 |Element|Undead|
@@ -68,6 +68,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Usali](/items/usali) (3%)
- * [Bone Club](/items/bone-club) (1%)
- * [Egg](/items/egg) (1%)
- * [Skeleton Card](/items/skeleton-card) (0.1%)
+ * [Bone Club](/items/bone-club) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Skeleton Card](/items/skeleton-card) (0.05%)

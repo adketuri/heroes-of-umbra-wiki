@@ -1,7 +1,7 @@
 ---
 title: Red Scuttlebot
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|30,000|
+|HP|54,000|
 |Power|40|
 |Stamina|100|
 |Wisdom|50|
-|Atk|157|
-|Matk|157|
+|Atk|180|
+|Matk|180|
 |Def|40|
 |Mdef|40|
 |WalkSpeed|120|
 |JumpPower|80|
-|ExpVal|34,300|
+|ExpVal|19,600|
 |Money|45|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|122,500|
+|HP|112,500|
 |Power|80|
 |Stamina|100|
 |Wisdom|100|
-|Atk|234|
-|Matk|234|
+|Atk|268|
+|Matk|268|
 |Def|60|
 |Mdef|60|
 |WalkSpeed|120|
 |JumpPower|80|
-|ExpVal|345,800|
+|ExpVal|197,600|
 |Money|45|
 |Projectile|No|
 |Element|Neutral|
@@ -68,6 +68,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Exp Potion](/items/exp-potion) (3%)
- * [Mechanic Bag](/items/mechanic-bag) (1%)
- * [Egg](/items/egg) (1%)
- * [Red Scuttlebot Card](/items/red-scuttlebot-card) (0.1%)
+ * [Mechanic Bag](/items/mechanic-bag) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Red Scuttlebot Card](/items/red-scuttlebot-card) (0.05%)

@@ -1,7 +1,7 @@
 ---
 title: Bat
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|1,600|
+|HP|2,880|
 |Power|22|
 |Stamina|8|
 |Wisdom|8|
-|Atk|35|
-|Matk|70|
+|Atk|40|
+|Matk|80|
 |Def|10|
 |Mdef|20|
 |WalkSpeed|80|
 |JumpPower|50|
-|ExpVal|182|
+|ExpVal|104|
 |Money|12|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|8,900|
+|HP|10,260|
 |Power|44|
 |Stamina|8|
 |Wisdom|16|
-|Atk|52|
-|Matk|105|
+|Atk|60|
+|Matk|120|
 |Def|15|
 |Mdef|30|
 |WalkSpeed|80|
 |JumpPower|50|
-|ExpVal|4,620|
+|ExpVal|2,640|
 |Money|12|
 |Projectile|No|
 |Element|Neutral|
@@ -68,9 +68,10 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [cave_c (40)](/maps/cave_c)
  * [cave_h (40)](/maps/cave_h)
  * [cave_i (40)](/maps/cave_i)
+ * [cave_p (40)](/maps/cave_p)
 
 # Drops
  * [Rage Potion](/items/rage-potion) (3%)
- * [Bat Mask](/items/bat-mask) (1%)
- * [Egg](/items/egg) (1%)
- * [Bat Card](/items/bat-card) (0.1%)
+ * [Bat Mask](/items/bat-mask) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Bat Card](/items/bat-card) (0.05%)

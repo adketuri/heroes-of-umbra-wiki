@@ -1,7 +1,7 @@
 ---
 title: Golembot
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -29,33 +29,33 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|55,000|
+|HP|99,000|
 |Power|40|
 |Stamina|100|
 |Wisdom|50|
-|Atk|175|
-|Matk|157|
+|Atk|200|
+|Matk|180|
 |Def|30|
 |Mdef|40|
 |WalkSpeed|40|
 |JumpPower|80|
-|ExpVal|42,000|
+|ExpVal|24,000|
 |Money|50|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|222,500|
+|HP|202,500|
 |Power|80|
 |Stamina|100|
 |Wisdom|100|
-|Atk|262|
-|Matk|234|
+|Atk|300|
+|Matk|268|
 |Def|45|
 |Mdef|60|
 |WalkSpeed|40|
 |JumpPower|80|
-|ExpVal|422,800|
+|ExpVal|241,600|
 |Money|50|
 |Projectile|No|
 |Element|Neutral|
@@ -69,6 +69,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Monster Meal](/items/monster-meal) (3%)
- * [Bionic Arm](/items/bionic-arm) (1%)
- * [Egg](/items/egg) (1%)
- * [Golembot Card](/items/golembot-card) (0.1%)
+ * [Bionic Arm](/items/bionic-arm) (0.75%)
+ * [Egg](/items/egg) (0.75%)
+ * [Golembot Card](/items/golembot-card) (0.05%)

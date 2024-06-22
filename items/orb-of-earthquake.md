@@ -2,7 +2,7 @@
 title: Orb of Earthquake
 description: Reduces cost of Earthquake by 1EP.
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T13:01:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -18,3 +18,7 @@ Reduces cost of Earthquake by 1EP.
 |Type|Orb|
 |Stackable|No|
 
+# Stats
+|Stat|Value|
+|-|-|
+|Matk|4|

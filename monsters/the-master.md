@@ -1,7 +1,7 @@
 ---
 title: The Master
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T13:01:44.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -25,29 +25,29 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|125,000,000|
+|HP|225,000,000|
 |Power|100|
 |Stamina|125|
 |Wisdom|100|
-|Atk|630|
-|Matk|630|
+|Atk|720|
+|Matk|720|
 |Def|145|
 |Mdef|145|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|500,002,496|
+|HP|450,004,512|
 |Power|200|
 |Stamina|125|
 |Wisdom|200|
-|Atk|945|
-|Matk|945|
+|Atk|1,080|
+|Matk|1,080|
 |Def|217|
 |Mdef|217|
-|ExpVal|2,800|
+|ExpVal|3,200|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * [The Master Card](/items/the-master-card) (0.1%)
+ * [The Master Card](/items/the-master-card) (0.05%)

@@ -2,7 +2,7 @@
 title: Orb of Magic Mastery
 description: Recovering EP also heals some HP.
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-22T14:08:44.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,5 @@ Recovering EP also heals some HP.
 # Stats
 |Stat|Value|
 |-|-|
-|Crit|7|
-|Cspd|13|
+|Mdef|9|
+|Cdmg|16|

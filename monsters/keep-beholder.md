@@ -1,7 +1,7 @@
 ---
 title: Keep Beholder
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -27,29 +27,29 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|320,000|
+|HP|576,000|
 |Power|100|
 |Stamina|80|
 |Wisdom|100|
-|Atk|700|
-|Matk|700|
+|Atk|800|
+|Matk|800|
 |Def|50|
 |Mdef|100|
-|ExpVal|910,000|
+|ExpVal|520,000|
 |Money|140|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|642,500|
+|HP|580,500|
 |Power|100|
 |Stamina|80|
 |Wisdom|100|
-|Atk|1,050|
-|Matk|1,050|
+|Atk|1,200|
+|Matk|1,200|
 |Def|75|
 |Mdef|150|
-|ExpVal|9,102,800|
+|ExpVal|5,201,600|
 |Money|140|
 |Projectile|Yes|
 |Element|Neutral|
@@ -63,6 +63,6 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 # Drops
  * [Super Usali](/items/super-usali) (3%)
- * [Orb](/items/orb) (1%)
- * [Seal of the Crusade](/items/seal-of-the-crusade) (1%)
- * [Keep Beholder Card](/items/keep-beholder-card) (0.1%)
+ * [Orb](/items/orb) (0.75%)
+ * [Seal of the Crusade](/items/seal-of-the-crusade) (0.75%)
+ * [Keep Beholder Card](/items/keep-beholder-card) (0.05%)

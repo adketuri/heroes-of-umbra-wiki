@@ -1,7 +1,7 @@
 ---
 title: Robo Beholder
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -27,29 +27,29 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|30,000|
+|HP|54,000|
 |Power|60|
 |Stamina|60|
 |Wisdom|60|
-|Atk|175|
-|Matk|140|
+|Atk|200|
+|Matk|160|
 |Def|30|
 |Mdef|10|
-|ExpVal|21,000|
+|ExpVal|12,000|
 |Money|39|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|122,500|
+|HP|112,500|
 |Power|120|
 |Stamina|60|
 |Wisdom|120|
-|Atk|262|
-|Matk|210|
+|Atk|300|
+|Matk|240|
 |Def|45|
 |Mdef|15|
-|ExpVal|212,800|
+|ExpVal|121,600|
 |Money|39|
 |Projectile|Yes|
 |Element|Neutral|
@@ -64,8 +64,8 @@ dateCreated: 2023-02-16T00:00:00.000Z
  * [fact21 (40)](/maps/fact21)
 
 # Drops
+ * [Beholder Essence](/items/beholder-essence) (Quest, 25%)
  * [Hanatii](/items/hanatii) (3%)
- * [Beholder Essence](/items/beholder-essence) (Quest, 20%)
- * [Silver Brace](/items/silver-brace) (1%)
- * [Chaos Pouch](/items/chaos-pouch) (1%)
- * [Robo Beholder Card](/items/robo-beholder-card) (0.1%)
+ * [Silver Brace](/items/silver-brace) (0.75%)
+ * [Chaos Pouch](/items/chaos-pouch) (0.75%)
+ * [Robo Beholder Card](/items/robo-beholder-card) (0.05%)

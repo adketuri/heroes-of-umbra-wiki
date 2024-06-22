@@ -1,7 +1,7 @@
 ---
 title: Medusa
 published: true
-date: 2023-09-10T22:39:01.000Z
+date: 2024-06-15T21:09:12.000Z
 tags: monsters
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -13,7 +13,7 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|10,500|
+|HP|10,250|
 |Power|25|
 |Stamina|50|
 |Wisdom|10|
@@ -26,30 +26,30 @@ dateCreated: 2023-02-16T00:00:00.000Z
 
 |Stat|Value|
 |-|-|
-|HP|52,500|
+|HP|92,250|
 |Power|25|
 |Stamina|50|
 |Wisdom|10|
-|Atk|49|
-|Matk|49|
+|Atk|56|
+|Matk|56|
 |Def|12|
 |Mdef|12|
-|ExpVal|47,950|
+|ExpVal|27,400|
 ## Orb Garden Stats
 
 |Stat|Value|
 |-|-|
-|HP|212,500|
+|HP|189,000|
 |Power|50|
 |Stamina|50|
 |Wisdom|20|
-|Atk|73|
-|Matk|73|
+|Atk|84|
+|Matk|84|
 |Def|18|
 |Mdef|18|
-|ExpVal|482,300|
+|ExpVal|275,600|
 |Projectile|No|
 |Element|Neutral|
 
 # Drops
- * [Medusa Card](/items/medusa-card) (0.1%)
+ * [Medusa Card](/items/medusa-card) (0.05%)

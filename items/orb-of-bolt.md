@@ -2,7 +2,7 @@
 title: Orb of Bolt
 description: Bolt summons extra bolts targeting nearby enemies.
 published: true
-date: 2023-09-16T16:37:47.000Z
+date: 2024-06-12T23:43:31.000Z
 tags: items
 editor: markdown
 dateCreated: 2023-02-16T00:00:00.000Z
@@ -21,5 +21,4 @@ Bolt summons extra bolts targeting nearby enemies.
 # Stats
 |Stat|Value|
 |-|-|
-|Matk|6|
-|Mdef|10|
+|Atk|12|
