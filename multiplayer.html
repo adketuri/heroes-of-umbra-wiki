@@ -2,38 +2,22 @@
 title: Multiplayer
 description: Different ways to play with friends
 published: true
-date: 2023-08-21T05:20:18.962Z
+date: 2024-07-08T21:23:15.853Z
 tags: guide
 editor: ckeditor
 dateCreated: 2023-02-13T01:39:29.723Z
 -->
 
-<p>Multiplayer in Heroes of Umbra is played over a network. To host a game, simply choose Start Game after selecting a character.</p>
-<h2>Steamworks Multiplayer</h2>
-<p>If you and a friend are both logged in to steam, you may host and join games via Steamworks. Please note, there is some additional latency/instability with this mode, but as an advantage it does not require messing with ports or IP addresses.</p>
-<h3>Hosting</h3>
-<ol>
-  <li>Ensure in the Options screen that the Connection Mode is <strong>Steam</strong>. This option is only visible if you are logged in to Steam.</li>
-  <li>Start a game as usual. This will create a Lobby.</li>
-  <li>Use Shift+Tab to open the Steam Overlay</li>
-  <li>Right-click on friends and select "Invite to Game"</li>
-</ol>
-<h3>Joining</h3>
-<ol>
-  <li>Invited from friend, not in-game<ol>
-      <li>Launch the game by accepting the chat invitation. If not, launch the game normally.</li>
-      <li>Ensure in the Options screen that the Connection Mode is <strong>Steam</strong>. This option is only visible if you are logged in to Steam.</li>
-      <li>Select "Join Game" to join your friend's game.</li>
-    </ol>
-  </li>
-  <li>No invitation from a friend<ol>
-      <li>Ensure in the Options screen that the Connection Mode is <strong>Steam</strong>. This option is only visible if you are logged in to Steam.</li>
-      <li>Go to the character select screen and select "Join Game" from the character select screen to bring up the steam overlay.</li>
-      <li>Right click on a player hosting a game and select "Join Game"</li>
-    </ol>
-  </li>
-</ol>
-<h2>Networked Multiplayer</h2>
+<p>Multiplayer in Heroes of Umbra is played over a network. There are two methods of playing with friends: Game Server (default) and IP Address (advanced). Modes can be configured in the game settings.</p>
+<h1>Game Server (Default)</h1>
+<p>Selecting a previously-created character gives you the option of <strong>Starting</strong> or <strong>Joining</strong> a game</p>
+<h3>Starting a Server</h3>
+<p>Start Game creates a private game server. Upon successfully starting the game, you'll be given a 4-letter code. To invite friends, share the 4-letter code and have them select Join Game, entering the 4-letter code.</p>
+<p>You may also share the server with the <a href="http://discord.heroesofumbra.com">Alcuria Games discord</a> by typing the <code>/share</code> command in-game along with an optional message.</p>
+<p>Shared game progress (switches pressed, bosses defeated) is not saved between games. Please avoid repeatedly creating games within a short period of time, otherwise you won't be able to create or join games for a bit.</p>
+<h3>Joining a Game</h3>
+<p>Ensure your connection mode is <strong>Game Server</strong> (this is the default setting) and from the character select screen, choose <strong>Join Game</strong>. Enter the provided 4-letter code and have fun!</p>
+<h1>IP Address</h1>
 <h3>Local Multiplayer</h3>
 <p>If you are playing with friends and you are all on the same network, simply note the local (or internal) IP displayed when the game begins and have your friends enter that IP under the "Join Game" section of the character select screen.</p>
 <p>Note: The game will display the internal IP from the first network adapter it finds, which is usually but not always the correct IP. If it is not, you can find out the IP by using <strong>Windows + R &gt; "cmd" &gt; "ipconfig"</strong> and searching for an active IPv4 address there.</p>
@@ -44,7 +28,7 @@ dateCreated: 2023-02-13T01:39:29.723Z
 <p>You can host your own dedicated servers by running the included <strong>heroes-of-umbra.jar</strong> file! Just run the following command from command-line:</p>
 <p><strong>java -jar heroes-of-umbra.jar server slot=&lt;slot&gt;</strong></p>
 <p>Where &lt;slot&gt; is a number corresponding to the character slot you want to load for the purposes of game progress.</p>
-<h3>Troubleshooting</h3>
+<h1>Troubleshooting</h1>
 <p>If you are unable to connect to a server, here are a few common solutions:</p>
 <ol>
   <li>Ensure the ports match. If you're trying to connect to a server on a custom port, the default settings are insufficient.</li>
