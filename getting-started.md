@@ -2,7 +2,7 @@
 title: Getting Started
 description: The quick how-to-play
 published: true
-date: 2024-07-08T21:29:50.371Z
+date: 2024-07-08T21:33:34.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T01:09:24.138Z
@@ -20,6 +20,8 @@ The game is available to purchase on the [Heroes of Umbra Steam Page](https://st
 * Shift, L.Ctrl, L.Alt, Space, 1, 2: Skill slots
 * Q: World Map
 * W/A/S/D: Move World Map/Minimap
+* Tab: Open chat (also see [Slash Commands](/mechanics/slash-commands))
+
 Note: You'll probably want to remap these in the "Options" screen.
 
 ## Customization
